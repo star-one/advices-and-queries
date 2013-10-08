@@ -1,0 +1,442 @@
+body {
+	}
+
+#header {
+	background: #222;
+}
+
+#site-title {
+	color: white;
+	}
+#site-title h1 a {
+	color: white;
+	}
+#site-description {
+	color: white;
+	}
+
+#top-bar {
+	background: #222;
+}
+#menu-bar{
+	background: #413f3d;
+}
+#footer-bar {
+	background: #222;
+	color: #fff;
+}
+
+#main-content {
+	background: #fff;
+}
+#the-content {
+	padding: 0 7px 0 7px;
+}
+
+#videos {
+	background: #111;
+	padding: 10px;
+}
+#videos h2 {
+	color: #fff;
+	margin-bottom: 0;
+}
+.video-loop {
+	clear: both;
+/*	background: #fff;
+	padding: 5px 0px 5px 0px; */
+}
+.the-video {
+	background: rgb(255, 244, 231);
+	padding: 8px;
+	-moz-box-shadow: 3px 3px 5px #d1d1d1;
+	-webkit-box-shadow: 3px 3px 5px #d1d1d1;
+	box-shadow: 3px 3px 5px #d1d1d1;
+	margin-bottom: 10px;
+	min-height: 100px;
+}
+
+#featured-events {
+	background: #111;
+	padding: 10px;
+}
+#featured-events h2 {
+	color: #fff;
+	margin-bottom: 0;
+}
+.featured-loop {
+	clear: both;
+	background: #fff;
+	padding: 5px 0px 5px 0px;
+}
+#home-left li {
+	background: rgb(255, 244, 231);
+	-moz-box-shadow: 3px 3px 5px #d1d1d1;
+	-webkit-box-shadow: 3px 3px 5px #d1d1d1;
+	box-shadow: 3px 3px 5px #d1d1d1;
+	padding: 10px;
+}
+#home-left li li {
+	padding: 0px;
+}
+
+#news-comment {
+	background: #111;
+	padding: 10px;
+}
+#news-comment h2 {
+	color: #fff;
+	margin-bottom: 0;
+}
+#blog {
+	clear: both;
+	border-top: 1px solid black;
+	padding-top: 10px;
+}
+.the-blog {
+	background: #bbf;
+	-moz-box-shadow: 3px 3px 5px #d1d1d1;
+	-webkit-box-shadow: 3px 3px 5px #d1d1d1;
+	box-shadow: 3px 3px 5px #d1d1d1;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+
+#the-feeds {
+	background: #111;
+	padding: 10px;
+}
+#the-feeds h2 {
+	color: #fff;
+	margin-bottom: 0;
+}
+#feeds-widgets {
+	clear: both;
+	border-top: 1px solid black;
+	padding-top: 10px;
+}
+
+.blocks {
+	color: black;
+	padding: 10px;
+	}
+.darkblocks {
+	color: white;
+	padding: 10px;
+	}
+.homeblocks {
+	color: black;
+	padding: 10px;
+	}
+.blocks h2 {
+	color: black;
+	padding: 0px;
+	}
+.darkblocks h2 {
+	color: white;
+	padding: 0px;
+	}
+.blocks a {
+	color: black;
+	text-decoration: none;
+}
+.darkblocks a {
+	color: white;
+	text-decoration: none;
+}
+
+#home-left {
+
+	}
+#business-menu {
+	background: #0c2c52; /* url(/wp-content/uploads/2012/10/BusinessRED.png) no-repeat bottom right; */
+	color: white;
+	min-height: 100%;
+	height: inherit;
+/*	-webkit-box-shadow:  2px 2px 1px 1px rgba(0, 0, 0, .2);
+        box-shadow:  2px 2px 1px 1px rgba(0, 0, 0, .2); */
+	}
+
+#generic-page-right {
+	background: rgb(245, 197, 149);
+	color: black;
+	min-height: 40em;
+	height: 100%;
+/*	-webkit-box-shadow:  2px 2px 1px 1px rgba(0, 0, 0, .2);
+        box-shadow:  2px 2px 1px 1px rgba(0, 0, 0, .2); */
+	}
+
+#top-bar-generic {
+	background: #f6bb1c;
+	color: black;
+	font-size: 1.2em;
+	height: 33px;
+	margin-bottom: 10px;
+	letter-spacing: 1px;
+/*	-webkit-box-shadow:  2px 2px 1px 1px rgba(0, 0, 0, .2);
+        box-shadow:  2px 2px 1px 1px rgba(0, 0, 0, .2); */
+	}
+#atoz {	
+	background: #9E3333;
+	color: white;
+	font-size: 1.2em;
+	margin-bottom: 10px;
+/*	-webkit-box-shadow:  2px 2px 1px 1px rgba(0, 0, 0, .2);
+        box-shadow:  2px 2px 1px 1px rgba(0, 0, 0, .2); */
+	}
+#atoz a { color: white; }
+#about-bar {
+	background: #9E3333;
+	color: white;
+	font-size: 1.2em;
+	margin-bottom: 10px;
+/*	-webkit-box-shadow:  2px 2px 1px 1px rgba(0, 0, 0, .2);
+        box-shadow:  2px 2px 1px 1px rgba(0, 0, 0, .2); */
+	}
+#about-bar a { color: white; }
+#footer {	
+	font-size: 1em;
+	padding: 10px;
+	height: 100%;
+	min-height: 40px;
+/*	-webkit-box-shadow:  2px 2px 1px 1px rgba(0, 0, 0, .2);
+        box-shadow:  2px 2px 1px 1px rgba(0, 0, 0, .2); */
+	}
+.header-generic {
+	background: #f6bb1c;
+}
+.header-business {
+	background: #E03430;
+}
+.header-city {
+	background: #BAF74E;
+}
+.header-local {
+	background: #7CA5E3;
+}
+.header-residents {
+	background: #5BB50B;
+}
+.header-whatson {
+	background: #D6E622;
+}
+.header-council {
+	background: #FB5C14;
+}
+.footer-generic {
+	background: #9E3333;
+	color: white;
+}
+.footer-business {
+	background: #9E3333;
+	color: white;
+}
+.footer-city {
+	background: #9E3333;
+	color: white;
+}
+.footer-local {
+	background: #9E3333;
+	color: white;
+}
+.footer-residents {
+	background: #9E3333;
+	color: white;
+}
+.footer-whatson {
+	background: #9E3333;
+	color: white;
+}
+.footer-council {
+	background: #9E3333;
+	color: white;
+}
+
+#resident-services {
+/*	background: #990000 url(/wp-content/uploads/2012/10/ResidentsGREEN.png) no-repeat bottom right; */
+/*	background: #DCDCDC; */
+	background: #DCDCDC url(/wp-content/uploads/2013/01/home-boxes-background.jpg) 0px 0px; 
+	height: 15em;
+	margin-bottom: 20px;
+	-webkit-box-shadow:  2px 2px 1px 1px rgba(0, 0, 0, .2);
+        box-shadow:  2px 2px 1px 1px rgba(0, 0, 0, .2);
+	}
+#business-services {
+/*	background: #990000 url(/wp-content/uploads/2012/10/ResidentsGREEN.png) no-repeat bottom right; */
+	background: #DCDCDC url(/wp-content/uploads/2013/01/home-boxes-background.jpg) -240px 0px;
+	height: 15em;
+	margin-bottom: 20px;
+	-webkit-box-shadow:  2px 2px 1px 1px rgba(0, 0, 0, .2);
+        box-shadow:  2px 2px 1px 1px rgba(0, 0, 0, .2);
+	}
+#council-democracy {
+/*	background: #990000 url(/wp-content/uploads/2012/10/ResidentsGREEN.png) no-repeat bottom right; */
+	background: #DCDCDC url(/wp-content/uploads/2013/01/home-boxes-background.jpg) -480px 0px; 
+	height: 15em;
+	margin-bottom: 20px;
+	-webkit-box-shadow:  2px 2px 1px 1px rgba(0, 0, 0, .2);
+        box-shadow:  2px 2px 1px 1px rgba(0, 0, 0, .2);
+	}
+#leisure {
+/*	background: #990000 url(/wp-content/uploads/2012/10/ResidentsGREEN.png) no-repeat bottom right; */
+	background: #DCDCDC url(/wp-content/uploads/2013/01/home-boxes-background.jpg) -480px 230px; 
+	height: 15em;
+	margin-bottom: 20px;
+	-webkit-box-shadow:  2px 2px 1px 1px rgba(0, 0, 0, .2);
+        box-shadow:  2px 2px 1px 1px rgba(0, 0, 0, .2);
+	}
+#transport {
+/*	background: #990000 url(/wp-content/uploads/2012/10/ResidentsGREEN.png) no-repeat bottom right; */
+	background: #DCDCDC url(/wp-content/uploads/2013/01/home-boxes-background.jpg) 0px 230px; 
+	height: 15em;
+	margin-bottom: 20px;
+	-webkit-box-shadow:  2px 2px 1px 1px rgba(0, 0, 0, .2);
+        box-shadow:  2px 2px 1px 1px rgba(0, 0, 0, .2);
+	}
+#mylocal {
+/*	background: #990000 url(/wp-content/uploads/2012/10/ResidentsGREEN.png) no-repeat bottom right; */
+	background: #DCDCDC url(/wp-content/uploads/2013/01/home-boxes-background.jpg) -240px 230px; 
+	height: 15em;
+	margin-bottom: 20px;
+	-webkit-box-shadow:  2px 2px 1px 1px rgba(0, 0, 0, .2);
+        box-shadow:  2px 2px 1px 1px rgba(0, 0, 0, .2);
+	}
+
+.landingbox {
+	background-color: #DCDCDC;
+	color: black;
+	margin-top: 10px;
+	margin-right: 10px;
+	padding: 5px;
+	width: 46%;
+	float: left;
+}
+.landingleft {
+	margin-top: 5px;
+	clear: both;
+	padding: 5px;
+	width: 47%;
+	float: left;
+	background-color: #DCDCDC;
+	color: black;
+	height: 100%;
+	min-height: 5em;
+	}
+.landingright {
+	margin-top: 5px;
+	padding: 5px;
+	width: 47%;
+	float: right;
+	background-color: #DCDCDC;
+	color: black;
+	height: 100%;
+	min-height: 5em;
+	}
+.landinghead {
+	font-size: 1.5em;
+	font-weight: bold;
+	line-height: 1em;
+	color: black;
+	}
+
+.homeblocks a {
+	display: block;
+	text-decoration: none;
+}
+
+.homeblocks a:hover {
+	display: block;
+	text-decoration: none;
+	color: #00f;
+	font-weight: 900;
+}
+
+
+/* =Left Menu
+-------------------------------------------------------------- */
+
+#left-menu {
+	color: #FFFFFF;
+	font-weight: bold;
+	display: block;
+	float: left;
+	margin: 0 auto 1em;
+	width: 100%;
+}
+
+#left-menu ul {
+	list-style: none;
+	margin: 0;
+	padding-bottom: 0px;
+	padding-left:0;
+	padding-right:0;
+	padding-top:0;
+}
+
+#left-menu li {
+	position: relative;
+	margin-bottom: 6px;
+}
+
+#left-menu li ul li{
+	
+}
+
+#left-menu ul a {
+	display: block;
+	text-decoration: none;
+	color: #fff;
+	padding: 5px; 
+	font-weight: normal;
+}
+
+#left-menu ul ul {
+	/*box-shadow: 0 3px 3px rgba(0,0,0,0.2);
+	-moz-box-shadow: 0 3px 3px rgba(0,0,0,0.2);
+	-webkit-box-shadow: 0 3px 3px rgba(0,0,0,0.2);*/
+	display: none;
+	float: left;
+	position: absolute;
+	top: 0;
+	left: 100%;
+	z-index: 99999;
+	/*background-color: #1F5696;*/
+	color: #fff;
+padding: 0;
+
+}
+
+#left-menu ul ul ul {
+	left: 100%;
+	top: 0;
+padding: 0;
+}
+
+#left-menu ul ul a {
+	background-color: #163963;
+	color: #fff;
+	/*line-height: 1em;*/
+	padding: 4px;
+	width: 10em;
+	height: auto;
+}
+
+#left-menu li:hover > a,
+#left-menu ul ul :hover > a {
+	background: #163963;
+	color:#FFFFFF;
+}
+
+#left-menu ul ul a:hover {
+	background: #1C497F;
+	color:#FFFFFF;
+}
+
+#left-menu ul li:hover > ul {
+	display: block;
+}
+
+#left-menu .current_page_item a {
+/*	background: #163963;
+	color:#FFFFFF; */
+}
