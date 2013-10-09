@@ -10,7 +10,7 @@ var randomIndex = Math.floor(Math.random() * strings.length);
 
 var randomString = strings[randomIndex];
 
-var quaker_business = randomString;
+var quaker_business = "<h2>Quaker business</h2><p>" + randomString + "</p>";
 
   var txt=document.getElementById("query")
   txt.innerHTML=quaker_business;

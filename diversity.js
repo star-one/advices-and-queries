@@ -12,7 +12,7 @@ var randomIndex = Math.floor(Math.random() * strings.length);
 
 var randomString = strings[randomIndex];
 
-var diversity = randomString;
+var diversity = "<h2>Diversity</h2><p>" + randomString + "</p>";
 
   var txt=document.getElementById("query")
   txt.innerHTML=diversity;

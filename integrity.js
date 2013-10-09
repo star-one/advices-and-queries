@@ -8,7 +8,7 @@ var randomIndex = Math.floor(Math.random() * strings.length);
 
 var randomString = strings[randomIndex];
 
-var integrity = randomString;
+var integrity = "<h2>Integrity</h2><p>" + randomString + "</p>";
 
   var txt=document.getElementById("query")
   txt.innerHTML=integrity;

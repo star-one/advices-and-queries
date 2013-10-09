@@ -10,7 +10,7 @@ var randomIndex = Math.floor(Math.random() * strings.length);
 
 var randomString = strings[randomIndex];
 
-var life_decisions = randomString;
+var life_decisions = "<h2>Life decisions</h2><p>" + randomString + "</p>";
 
   var txt=document.getElementById("query")
   txt.innerHTML=life_decisions;

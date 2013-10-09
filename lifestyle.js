@@ -14,7 +14,7 @@ var randomIndex = Math.floor(Math.random() * strings.length);
 
 var randomString = strings[randomIndex];
 
-var lifestyle = randomString;
+var lifestyle = "<h2>Lifestyle</h2><p>" + randomString + "</p>";
 
   var txt=document.getElementById("query")
   txt.innerHTML=lifestyle;
