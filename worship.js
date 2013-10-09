@@ -1,4 +1,5 @@
 // Worship
+function updateWorship() {
 var strings = [
 'Be earnestly concerned in religious meetings to wait reverently upon the Lord, seeking to worship Him in Spirit and in Truth, and be in the frequent practice of waiting upon the Lord in private, honestly examining yourselves as to your growth in grace.<br /><em>North Carolina Yearly Meeting (Conservative), Advices</em>',
 
@@ -20,3 +21,7 @@ var randomIndex = Math.floor(Math.random() * strings.length);
 var randomString = strings[randomIndex];
 
 var worship = randomString;
+
+  var txt=document.getElementById("query")
+  txt.innerHTML=worship;
+}

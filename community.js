@@ -1,4 +1,5 @@
 // Community
+function updateCommunity() {
 var strings = [
 'Live in love, as Christian brethren, ready to be helpful one to another, and sympathizing with each other in the trials and afflictions of life. Watch over one another for good, manifesting an earnest desire that each may be well grounded in the Light of Christ.<br /><em>North Carolina Yearly Meeting (Conservative), Advices</em>',
 
@@ -12,3 +13,7 @@ var randomIndex = Math.floor(Math.random() * strings.length);
 var randomString = strings[randomIndex];
 
 var community = randomString;
+
+  var txt=document.getElementById("query")
+  txt.innerHTML=community;
+}

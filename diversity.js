@@ -1,4 +1,5 @@
 // Diversity
+function updateDiversity() {
 var strings = [
 'Do you welcome the diversity of culture, language and expressions of faith in our yearly meeting and in the world community of Friends? Seek to increase your understanding and to gain from this rich heritage and wide range of spiritual insights. Uphold your own and other yearly meetings in your prayers.<br /><em>Britain Yearly Meeting, Advices and Queries, number 16</em>',
 
@@ -12,3 +13,7 @@ var randomIndex = Math.floor(Math.random() * strings.length);
 var randomString = strings[randomIndex];
 
 var diversity = randomString;
+
+  var txt=document.getElementById("query")
+  txt.innerHTML=diversity;
+}

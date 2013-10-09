@@ -1,4 +1,5 @@
 //  Study and prayer
+function updateStudy() {
 var strings = [
 'Be diligent in the private perusal of the Holy Scriptures, and let the daily reading of them in your families be devoutly conducted.<br /><em>North Carolina Yearly Meeting (Conservative), Advices</em>',
 
@@ -14,3 +15,7 @@ var randomIndex = Math.floor(Math.random() * strings.length);
 var randomString = strings[randomIndex];
 
 var study_and_prayer = randomString;
+
+  var txt=document.getElementById("query")
+  txt.innerHTML=study_and_prayer;
+}

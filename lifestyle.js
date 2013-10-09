@@ -1,4 +1,5 @@
 // Lifestyle
+function updateLifestyle() {
 var strings = [
 'Observe simplicity and moderation in your deportment and attire, in the furniture of your houses, and in your manner or style of living.<br /><em>North Carolina Yearly Meeting (Conservative), Advices</em>',
 
@@ -14,3 +15,7 @@ var randomIndex = Math.floor(Math.random() * strings.length);
 var randomString = strings[randomIndex];
 
 var lifestyle = randomString;
+
+  var txt=document.getElementById("query")
+  txt.innerHTML=lifestyle;
+}

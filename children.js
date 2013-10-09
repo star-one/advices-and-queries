@@ -1,4 +1,5 @@
 // Children
+function updateChildren() {
 var strings = [
 'Watch with Christian tenderness over the opening minds of your children; give them examples of Christian freedom and discipline in your own lives; carefully instruct them in a knowledge of Holy Scriptures; seek for ability to imbue their hearts with the love of their Heavenly Father, their Redeemer, and their Sanctifier.<br /><em>North Carolina Yearly Meeting (Conservative), Advices</em>',
 
@@ -14,3 +15,7 @@ var randomIndex = Math.floor(Math.random() * strings.length);
 var randomString = strings[randomIndex];
 
 var children = randomString;
+
+  var txt=document.getElementById("query")
+  txt.innerHTML=children;
+}

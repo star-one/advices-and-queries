@@ -1,4 +1,5 @@
 // Relationships
+function updateRelationships() {
 var strings = [
 'Take care in your relationships with others that you respect and cherish each person, for people of all races and nationalities have that of God within their beings which unites them. Take care also, therefore, to maintain a consistent witness to peace, opposition to war, and to all acts of violence or coercion, that you may remain in accord with the timeless guidance of the Inner Light.<br /><em>North Carolina Yearly Meeting (Conservative), Advices</em>',
 
@@ -16,3 +17,7 @@ var randomIndex = Math.floor(Math.random() * strings.length);
 var randomString = strings[randomIndex];
 
 var relationships = randomString;
+
+  var txt=document.getElementById("query")
+  txt.innerHTML=relationships;
+}
