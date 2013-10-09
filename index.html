@@ -1,9 +1,6 @@
 <html>
   <head>
-    <meta name="generator"
-    content="HTML Tidy for HTML5 (experimental) for Windows https://github.com/w3c/tidy-html5/tree/c63cc39" />
-    <title>Quaker Advices and Queries</title><?php
-    ?>
+    <title>Quaker Advices and Queries</title>
     <!-- CSS
          ================================================== -->
     <link rel="stylesheet" href="./shared/style.css" />
@@ -31,23 +28,19 @@
 	 <script src="./study-and-prayer.js"></script>
 	 <script src="./worship.js"></script>
   </head>
-  <body>
+  <body onLoad="updateGeneral()">
     <div>
       <div id="page" class="hfeed">
         <div id="top-bar">
           <div class="container">
             <div class="sixteen columns">
               <header id="branding" role="banner">
-                <div id="navigation">
                   <hgroup>
-                    <h1 class="screen-reader-text" id="site-title">Quaker Advices and Queries</h1>
-                    <h1 style="color: white; font-weight: bold;">Quaker Advices and Queries</h1>
+                    <h1>Quaker Advices and Queries</h1>
                   </hgroup>
-                </div>
-              </header>
+               </header>
             </div>
           </div>
-          <div id="menu-bar">
             <div class="container">
               <div class="sixteen columns">
                 <nav>
@@ -68,7 +61,25 @@
       <div id="main">
 	    <div id="query">
 	    </div>
-	 <input type="button" value="General" onClick="updateGeneral()" />
+		<div id="buttons">
+		  <div>
+	      <input type="button" value="General" onClick="updateGeneral()" />
+		  </div>
+		  <div>
+	      <input type="button" value="Children" onClick="updateChildren()" />
+	      <input type="button" value="Community" onClick="updateCommunity()" />
+	      <input type="button" value="Death" onClick="updateDeath()" />
+	      <input type="button" value="Diversity" onClick="updateDiversity()" />
+	      <input type="button" value="Integrity" onClick="updateIntegrity()" />
+	      <input type="button" value="Interchurch and interfaith" onClick="updateInterchurch()" />
+	      <input type="button" value="Life decisions" onClick="updateLife()" />
+	      <input type="button" value="Lifestyle" onClick="updateLifestyle()" />
+	      <input type="button" value="Quaker business" onClick="updateQuakerBusiness()" />
+	      <input type="button" value="Relationships" onClick="updateRelationships()" />
+	      <input type="button" value="Study and prayer" onClick="updateStudy()" />
+	      <input type="button" value="Worship" onClick="updateWorship()" />
+		  </div>
+		</div>
      </div>
     </div>
     <!-- #main -->
@@ -88,18 +99,14 @@
 	</div>
 	</div>
     <!-- #page -->
-    <script type="text/javascript">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  var _gaq = _gaq || [];
-  _gaq.push([&#39;_setAccount&#39;, &#39;xxxxx&#39;]);
-  _gaq.push([&#39;_trackPageview&#39;]);
-
-  (function() {
-    var ga = document.createElement(&#39;script&#39;); ga.type = &#39;text/javascript&#39;; ga.async = true;
-    ga.src = (&#39;https:&#39; == document.location.protocol ? &#39;https://ssl&#39; : &#39;http://www&#39;) +
-&#39;.google-analytics.com/ga.js&#39;;
-    var s = document.getElementsByTagName(&#39;script&#39;)[0]; s.parentNode.insertBefore(ga, s);
-  })();
+  ga('create', 'UA-44734306-2', 'quakerworship.org');
+  ga('send', 'pageview');
 
 </script>
   </body>
