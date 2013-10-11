@@ -8,6 +8,9 @@ var strings = [
 'Rejoice in the presence of children and young people in your meeting and recognise the gifts they bring. Remember that the meeting as a whole shares a responsibility for every child in its care. Seek for them as for yourself a full development of God\'s gifts and the abundant life Jesus tells us can be ours. How do you share your deepest beliefs with them, while leaving them free to develop as the spirit of God may lead them? Do you invite them to share their insights with you? Are you ready both to learn from them and to accept your responsibilities towards them?<br /><em>Britain Yearly Meeting, Advices and Queries, number 19</em>',
 
 'Children and young people need love and stability. Are we doing all we can to uphold and sustain parents and others who carry the responsibility for providing this care?<br /><em>Britain Yearly Meeting, Advices and Queries, number 24</em>',
+
+'Do you, who are parents, and others having children in your care, seek by prayerful endeavour and example to lead them to a knowledge of the Truth as it is in Jesus Christ? Do you make opportunities for all, especially the young people in the meeting, to learn of essential Christian truth and to understand the basis of Quaker experience and witness?<br /><em>Ireland Yearly Meeting, Queries for Serious Consideration, number 10</em>',
+
 ];
 
 var randomIndex = Math.floor(Math.random() * strings.length);
