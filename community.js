@@ -24,4 +24,6 @@ var community = "<h2>Community</h2><p>" + randomString + "</p>";
 
   var txt=document.getElementById("query")
   txt.innerHTML=community;
+  
+  scroll(0,0)
 }

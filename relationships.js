@@ -20,4 +20,6 @@ var relationships = "<h2>Relationships</h2><p>" + randomString + "</p>";
 
   var txt=document.getElementById("query")
   txt.innerHTML=relationships;
+  
+  scroll(0,0)
 }

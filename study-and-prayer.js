@@ -25,4 +25,6 @@ var study_and_prayer = "<h2>Study and prayer</h2><p>" + randomString + "</p>";
 
   var txt=document.getElementById("query")
   txt.innerHTML=study_and_prayer;
+  
+  scroll(0,0)
 }

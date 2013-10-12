@@ -34,4 +34,6 @@ var general = "<h2>General</h2><p>" + randomString + "</p>";
 
   var txt=document.getElementById("query")
   txt.innerHTML=general;
+  
+  scroll(0,0)
 }

@@ -13,4 +13,6 @@ var civic = "<h2>Civic participation</h2><p>" + randomString + "</p>";
 
   var txt=document.getElementById("query")
   txt.innerHTML=civic;
+  
+  scroll(0,0)
 }

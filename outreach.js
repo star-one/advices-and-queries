@@ -14,4 +14,6 @@ var outreach = "<h2>Outreach</h2><p>" + randomString + "</p>";
 
   var txt=document.getElementById("query")
   txt.innerHTML=outreach;
+  
+  scroll(0,0)
 }

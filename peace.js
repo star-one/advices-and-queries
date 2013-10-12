@@ -21,4 +21,6 @@ var peace = "<h2>Peace</h2><p>" + randomString + "</p>";
 
   var txt=document.getElementById("query")
   txt.innerHTML=peace;
+  
+  scroll(0,0)
 }

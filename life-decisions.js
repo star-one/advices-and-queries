@@ -14,4 +14,6 @@ var life_decisions = "<h2>Life decisions</h2><p>" + randomString + "</p>";
 
   var txt=document.getElementById("query")
   txt.innerHTML=life_decisions;
+  
+  scroll(0,0)
 }

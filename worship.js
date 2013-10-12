@@ -30,4 +30,6 @@ var worship = "<h2>Worship</h2><p>" + randomString + "</p>";
 
   var txt=document.getElementById("query")
   txt.innerHTML=worship;
+  
+  scroll(0,0)
 }

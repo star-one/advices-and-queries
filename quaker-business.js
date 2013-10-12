@@ -20,4 +20,6 @@ var quaker_business = "<h2>Quaker business</h2><p>" + randomString + "</p>";
 
   var txt=document.getElementById("query")
   txt.innerHTML=quaker_business;
+  
+  scroll(0,0)
 }

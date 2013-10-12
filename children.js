@@ -21,4 +21,6 @@ var children = "<h2>Children</h2><p>" + randomString + "</p>";
 
   var txt=document.getElementById("query")
   txt.innerHTML=children;
+  
+  scroll(0,0)
 }

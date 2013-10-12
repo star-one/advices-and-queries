@@ -20,4 +20,6 @@ var integrity = "<h2>Integrity</h2><p>" + randomString + "</p>";
 
   var txt=document.getElementById("query")
   txt.innerHTML=integrity;
+  
+  scroll(0,0)
 }

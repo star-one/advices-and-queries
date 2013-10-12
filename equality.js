@@ -8,8 +8,10 @@ var randomIndex = Math.floor(Math.random() * strings.length);
 
 var randomString = strings[randomIndex];
 
-var equality = "<h2>Equality</h2><p>" + randomString + "</p>";
+var equality = "<h2>Equality and social justice</h2><p>" + randomString + "</p>";
 
   var txt=document.getElementById("query")
   txt.innerHTML=equality;
+  
+  scroll(0,0)
 }

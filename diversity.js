@@ -16,4 +16,6 @@ var diversity = "<h2>Diversity</h2><p>" + randomString + "</p>";
 
   var txt=document.getElementById("query")
   txt.innerHTML=diversity;
+  
+  scroll(0,0)
 }

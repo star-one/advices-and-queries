@@ -16,4 +16,6 @@ var concern = "<h2>Acting under Concern</h2><p>" + randomString + "</p>";
 
   var txt=document.getElementById("query")
   txt.innerHTML=concern;
+  
+  scroll(0,0)
 }

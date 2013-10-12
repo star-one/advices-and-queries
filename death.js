@@ -13,8 +13,10 @@ var randomIndex = Math.floor(Math.random() * strings.length);
 
 var randomString = strings[randomIndex];
 
-var death = "<h2>Death</h2><p>" + randomString + "</p>";
+var death = "<h2>Death and old age</h2><p>" + randomString + "</p>";
 
   var txt=document.getElementById("query")
   txt.innerHTML=death;
+  
+  scroll(0,0)
 }

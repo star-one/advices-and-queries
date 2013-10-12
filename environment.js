@@ -16,4 +16,6 @@ var environment = "<h2>The environment</h2><p>" + randomString + "</p>";
 
   var txt=document.getElementById("query")
   txt.innerHTML=environment;
+  
+  scroll(0,0)
 }
