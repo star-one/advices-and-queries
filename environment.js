@@ -5,6 +5,7 @@ var strings = [
 
 'Do you endeavor to live in harmony with nature, avoiding pollution and the destruction of our environment? What are you doing about your use of the world\'s irreplaceable resources? Are you concerned for family and population planning so that future generations will be able to live on the resources available to them?<br /><em>Ohio Valley Yearly Meeting, Tenth query</em>',
 
+'Are you concerned for responsible use of natural resources and their nurture for future generations? Do you try to avoid wasteful consumption and pollution? Do you seek to preserve the beauty and balance of God\'s world?<br /><em>Baltimore Yearly Meeting, The Queries, number 12</em>',
 
 ];
 

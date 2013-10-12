@@ -19,6 +19,7 @@ var strings = [
 
 'Do you attend meetings for worship in a spirit of willing service and of prayerful desire to make them profitable to each individual and to the assembled group? Are you prepared for worship expecting that your worship will be a source of strength and guidance? Are you careful not to disturb the spirit of the meeting by late arrival? Do you practice a waiting spiritual worship and a free and open ministry under Divine guidance?<br /><em>Ohio Valley Yearly Meeting, First query</em>',
 
+'Are meetings for worship held in expectant waiting for Divine guidance? Are Friends encouraged to share spiritual insights? Are special gifts of ministry recognized and encouraged?  Do you come to meeting with heart and mind prepared? Are you careful not to disturb the spirit of the meeting by late arrival or in other ways?<br /><em>Baltimore Yearly Meeting, The Queries, number 1</em>',
 
 ];
 

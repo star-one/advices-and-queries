@@ -9,6 +9,7 @@ var strings = [
 
 'Do you live in the life and power which takes away the occasion for all wars? Do you, on Christian principles, refuse to participate in or cooperate with all military effort? Do you work actively for peace and the removal of the causes of wars? Do you endeavor to cultivate good will, mutual understanding and equal opportunities for all races, creeds and nations? Have you examined your life style and possessions to make sure that the seeds of war are not found within them?<br /><em>Ohio Valley Yearly Meeting, Eleventh query</em>',
 
+'Do you endeavor to live "in virtue of that life and power which takes away the occasion of all wars"? Do you work to make your peace testimony a reality in your life and in your world? Do you weigh your day-to-day activities for their effect on peace-keeping, conflict resolution and the elimination of violence? Are you working toward eliminating aggression at all levels, from the personal to the international?<br /><em>Baltimore Yearly Meeting, The Queries, number 10</em>',
 
 
 ];

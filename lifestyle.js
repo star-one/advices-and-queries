@@ -21,6 +21,8 @@ var strings = [
 
 'Do you examine thoroughly your behavior in regard to work, leisure, diet and the use of drugs, alcoholic beverages and tobacco, thus trying to avoid and to discourage practices that interfere with health, sensitivity or social responsibility? Remembering the parable of the talents, do you exercise fully those that God has given you? Do you endeavor to minister humbly and sensitively to the needs of others that they may attain their full potential?<br /><em>Ohio Valley Yearly Meeting, Fifth query</em>',
 
+'Do you live in accordance with your spiritual convictions? Do you seek employment consistent with your beliefs and in service to society? Do you practice simplicity in speech, dress and manner of living, avoiding wasteful consumption? Are you watchful that your possessions do not rule you? Do you strive to be truthful at all times, avoiding judicial oaths?  Do you strive to develop your physical, emotional and mental capacities toward reaching your Divinely given potential? Do you cultivate healthful and moderate habits, avoiding the hazards of drugs, intoxicants, and over-indulgence generally? Do you try to direct such emotions as anger and fear in creative ways?<br /><em>Baltimore Yearly Meeting, The Queries, number 5</em>',
+
 
 ];
 

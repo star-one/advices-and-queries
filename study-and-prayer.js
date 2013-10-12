@@ -15,6 +15,10 @@ var strings = [
 
 'Do you so order your life as to include reading, meditation and communion, that you may know more of the presence and guidance of the Divine Spirit? Do you remember the need to pray for others, holding them in the presence of God?<br /><em>Ohio Valley Yearly Meeting, Second query</em>',
 
+'Do you make time for meditation, prayer and worship? Do you read the Bible, the writings of Friends, and other inspirational works, seeking new light? Do you regularly seek God\'s guidance? Are you open to guidance and support and do you give thanks for them? Do you share your spiritual insights with others and willingly receive from them in turn?<br /><em>Baltimore Yearly Meeting, The Queries, number 4</em>',
+
+'Do you provide religious education, including study of the Bible and of Friends\' history and practices, in your Meeting? Do you ensure that schools under the care of Friends exemplify Friends\' principles? Do you support and strive to improve the public schools?<br /><em>Baltimore Yearly Meeting, The Queries, number 11</em>',
+
 ];
 
 var randomIndex = Math.floor(Math.random() * strings.length);
