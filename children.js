@@ -17,6 +17,8 @@ var strings = [
 
 'Are you teaching your children the ways of Friends? Do you encourage them to participate in Friends programs and to attend Friends schools?<br /><em>Northwest Yearly Meeting, Query 11</em>',
 
+'Education of Children: A loving care of the children who have been entrusted to us requires that we instruct them early and continually in how God has dealt with his people and how he still deals with them. Our children do not become church members by birth; but we should seek by education and example to help them become acquainted with the Spirit of Christ, and thus to open their way to enter the church by personal choice when they are mature enough to make such a commitment.<br /><em>Friends of Truth / Glenside Friends Meeting, Christian Conduct</em>',
+
 
 ];
 

@@ -13,6 +13,8 @@ var strings = [
 
 'Do you observe and teach the Friends testimony against military training and service, making clear that war is incompatible with the spirit and teachings of the Gospel? Do you find appropriate ways to work for peace?<br /><em>Northwest Yearly Meeting, Query 20</em>',
 
+'War and Violence: It was the belief of the early Christians, and also the testimony of the Society of Friends, that war and fighting are forbidden to the subjects of Christ\'s peaceable reign. We too reject participation in war, whether offensive or defensive, along with activities that contribute to war, such as the making of weapons, and membership in or trading with military organizations. In the light of Christ\'s commandment to love our neighbors, including our enemies, we are to show respect for the life and well-being of all people and to refrain from doing violence to anyone, with or without the sanction of civil government. If wronged we should not indulge the desire for retaliation, since Christ teaches us to return good for evil.<br /><em>Friends of Truth / Glenside Friends Meeting, Christian Conduct</em>',
+
 
 ];
 

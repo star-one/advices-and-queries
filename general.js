@@ -25,6 +25,10 @@ var strings = [
 
 'Do you give generous financial support to the work of Friends? Do you contribute regularly to the ministry of your church and to the wider outreach of the Yearly Meeting? Are you and your meeting aware of those likely to require material aid, and do you give freely to those in need?<br /><em>Northwest Yearly Meeting, Query 7</em>',
 
+'Use of the Creation: We should keep our consumption of material things down to what we need, avoiding vanity, luxury, waste, and all unhealthful indulgences. Plainness in our diet, clothing, home furnishings and other possessions is appropriate to followers of Jesus. We should be open-hearted in contributing to the material needs of others, especially those of church members, and all are urged to request material aid openly when they need it. Dependence of church members on civil government for material support should be avoided if possible, especially where such dependence would interfere with the Christian\'s freedom to testify to the government of Christ.<br /><em>Friends of Truth / Glenside Friends Meeting, Christian Conduct</em>',
+
+'Opinions: We must resist the temptation to be possessively attached to our own ideas. Christ will teach us what we need to know to perform his service, but not to satisfy our curiosity or to encourage us in building theories. We are advised to bear in mind that what we think we know is often influenced by hearsay, faulty memory, or the climate of opinion among our immediate associates. Opinions should be held modestly if at all, and they should not become the occasion of arguments. In speaking what we feel God has led us to assert, we should speak forthrightly, but avoid laying stress on our personal claim to revelation, allowing the power of Truth to accompany its own message.<br /><em>Friends of Truth / Glenside Friends Meeting, Christian Conduct</em>',
+
 
 ];
 
