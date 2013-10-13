@@ -9,6 +9,8 @@ var strings = [
 
 'As a Christian steward, do you treat the earth with respect and with a sense of God\'s splendor in creation, guarding it against abuse by greed, misapplied technology, or your own carelessness?<br /><em>Northwest Yearly Meeting, Query 19</em>',
 
+'Do we support measures to avoid pollution of air and water? Do we support measures to establish the conservation and right use of natural resources?<br /><em>New York Yearly Meeting, query number 10</em>',
+
 
 ];
 

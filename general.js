@@ -29,6 +29,8 @@ var strings = [
 
 'Opinions: We must resist the temptation to be possessively attached to our own ideas. Christ will teach us what we need to know to perform his service, but not to satisfy our curiosity or to encourage us in building theories. We are advised to bear in mind that what we think we know is often influenced by hearsay, faulty memory, or the climate of opinion among our immediate associates. Opinions should be held modestly if at all, and they should not become the occasion of arguments. In speaking what we feel God has led us to assert, we should speak forthrightly, but avoid laying stress on our personal claim to revelation, allowing the power of Truth to accompany its own message.<br /><em>Friends of Truth / Glenside Friends Meeting, Christian Conduct</em>',
 
+'Do we partake of the joy of the love of God and make our lives a celebration of the sharing of this love? Do our daily lives so demonstrate Friends\' testimonies as to commend them to others?<br /><em>New York Yearly Meeting, query number 15</em>',
+
 
 ];
 

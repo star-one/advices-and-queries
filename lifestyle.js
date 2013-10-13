@@ -35,6 +35,16 @@ var strings = [
 
 'Recreations: Remembering that our time is to be at God\'s disposal, we should avoid recreations that are unduly time consuming, dangerous or expensive, or that tend to draw our minds away from God. Since the purpose of recreation is relaxation and refreshment, and individuals differ in the form and amount of recreation that they need, we should avoid contributing to situations that place social pressure on some to join in the recreations of others.<br /><em>Friends of Truth / Glenside Friends Meeting, Christian Conduct</em>',
 
+'Friends are earnestly advised to refrain from practices that are detrimental to the body or the mind, for example, the use of intoxicants and tobacco, and the misuse of drugs.<br /><em>New York Yearly Meeting, advice number 8</em>',
+
+'Care should be taken that all of our members avoid participation in lotteries, gambling, and betting, including such schemes of chance that appeal as benevolences. Friends should refrain from hazardous speculation and are cautioned against engaging in business that may be questionable. They are responsible for the manner of acquiring, using, and disposing of their possessions.<br /><em>New York Yearly Meeting, advice number 9</em>',
+
+'Do we keep to moderation and simplicity in our daily lives? Have we allowed the acquisition of possessions to interfere with God\'s purpose for us? Are our homes places where the presence of God is felt by those who live there and those who visit there? Do we choose such recreations as are wholesome and consistent with Christian character? Are we careful in our choice of ways to use our time and energy?<br /><em>New York Yearly Meeting, query number 5</em>',
+
+'Do our vocations provide constructive and beneficial service? Do we observe integrity in our business transactions? Do we avoid involving ourselves beyond our ability to manage? Are we careful to conduct our affairs punctually, justly, and honorably? Do we avoid participation in lotteries, betting, and gambling?<br /><em>New York Yearly Meeting, query number 7</em>',
+
+'Have we confronted our own decisions about our use of alcohol, tobacco, and other drugs, and do we encourage others to do likewise? Have we considered the cost in human suffering that might result from such use?<br /><em>New York Yearly Meeting, query number 8</em>',
+
 
 ];
 

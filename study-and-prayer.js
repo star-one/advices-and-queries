@@ -21,6 +21,12 @@ var strings = [
 
 'Do you cultivate your spiritual growth through prayer and Bible reading and through attendance at meetings for worship and study? Are you finding joy in the Lord?<br /><em>Northwest Yearly Meeting, Query 2</em>',
 
+'Friends are advised to read frequently the Scriptures and such other books as will inspire and instruct, and to encourage the practice by their families and others.<br /><em>New York Yearly Meeting, advice number 2</em>',
+
+'Do we make opportunity in our daily lives for communion with God and the opening of our hearts to an awareness of the Christ Within? Are we thankful for each day as an opportunity for a new adventure of life with God?<br /><em>New York Yearly Meeting, query number 2</em>',
+
+'Are we careful that our ministry is under the leading of the Holy Spirit? Are we concerned to take time for the study of Scripture and other writings of spiritual value? Are we concerned for the spiritual growth of one another?<br /><em>New York Yearly Meeting, query number 3</em>',
+
 
 ];
 

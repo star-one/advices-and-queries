@@ -13,6 +13,8 @@ var strings = [
 
 'Do you acknowledge God\'s ownership of all that is under your care? Do you give of your time and abilities in service to church and community and gratefully use your possessions as a trust to honor God?<br /><em>Northwest Yearly Meeting, Query 4</em>',
 
+'Friends\' business meetings are meetings for worship with a concern for business. When there seems to be disagreement, a free expression of all opinions should be encouraged. Those who speak in meetings for business are advised not to be unduly persistent in advocacy or opposition, but, after having fully expressed their views, to recognize the generally expressed sense of the meeting. A deep and seeking silence can help to reconcile seemingly opposing points of view. Meetings should be conducted in the spirit of wisdom, forbearance, and love.<br /><em>New York Yearly Meeting, advice number 16</em>',
+
 
 ];
 

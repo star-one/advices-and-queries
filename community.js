@@ -19,6 +19,12 @@ var strings = [
 
 'Backbiting: Conscious of the serious harm that can be done to persons by defamatory gossip, and the tendency of such talk to create dissension and disunity, Friends of Truth are urged to watch over themselves and each other, to discourage backbiting. The order prescribed by Christ should be observed: \"If your brother sins against you, go and tell him his fault between you and him alone. If he listens to you, you have gained your brother. But if he does not listen, take one or two others along with you, that every word may be confirmed by the evidence of two or three witnesses. If he refuses to listen to them, tell it to the church; and if he refuses to listen even to the church, let him be to you as a Gentile and a tax collector.\"<br /><em>Friends of Truth / Glenside Friends Meeting, Christian Conduct</em>',
 
+'All are especially cautioned against any harshness of tone or manner when administering counsel or reproof, either privately or in meetings. Friends should speak truth with love, remembering that if they would do God\'s work, they must abide in God\'s love. Even a seeming harshness may check the beginnings of true repentance, and a lack of sympathy may cause harm where only good was intended.<br /><em>New York Yearly Meeting, advice number 15</em>',
+
+'Are love and unity fostered among us? If differences arise, do we endeavor to reconcile them in a spirit of love and truth? Are we careful not to manipulate and exploit one another? Do we avoid talebearing, and are we careful of the reputation of others?<br /><em>New York Yearly Meeting, query number 4</em>',
+
+'Do we make ourselves available in a tender and caring way when we sense a need for assistance in time of trouble? Do we trust each other enough to make our needs known to someone in our meeting?<br /><em>New York Yearly Meeting, query number 14</em>',
+
 
 ];
 

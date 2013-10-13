@@ -13,6 +13,9 @@ var strings = [
 
 'Do you conduct yourself in a manner that supports and preserves the sanctity and permanence of marriage? Do you who are married yield to each other in decisions and build up each other as individuals, always cherishing your common bond?<br /><em>Northwest Yearly Meeting, Query 9</em>',
 
+'In the contemplation of marriage, Friends should seek divine guidance. Marriage is a life-long union of spiritual as well as temporal concerns and presents considerations of vital importance. When two persons are united in their religious faith, they are likely to find not only a firmer bond of union but also greater strength in fulfilling all of life\'s undertakings. Therefore, Friends contemplating marriage should early acquaint their families and meetings with their intentions, seeking their approval, that they may avoid the far-reaching consequences of hasty and ill-considered action. It is tenderly recommended that Friends keep to the simple and solemn form of our marriage ceremony.<br /><em>New York Yearly Meeting, advice number 11</em>',
+
+
 ];
 
 var randomIndex = Math.floor(Math.random() * strings.length);

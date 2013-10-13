@@ -7,6 +7,11 @@ var strings = [
 
 'Do you speak out for justice and morality, and against oppression, exploitation, and public wrong? Do you recognize the equality of persons regardless of race, gender, or economic status?<br /><em>Northwest Yearly Meeting, Query 18</em>',
 
+'Friends are advised to work toward removing the causes of misery and suffering. They are urged to support efforts to overcome racial, social, economic, and educational discrimination; to bear testimony against all forms of oppression; to exert influence for such treatment of prisoners as may help reconstruct their lives; and to work for the abolition of the death penalty.<br /><em>New York Yearly Meeting, advice number 7</em>',
+
+'Do we foster reverence for life? Do we strive to find, to understand, and to remove causes of misery and suffering? Do we, in loving concern, extend assistance to those who require it?<br /><em>New York Yearly Meeting, query number 11</em>',
+
+'Do we acknowledge the oneness of humanity and foster a loving spirit toward all people? Do we honor Friends\' traditional testimony that men and women are equal? How do we work to make these ideals a reality?<br /><em>New York Yearly Meeting, query number 12</em>',
 
 ];
 

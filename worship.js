@@ -23,6 +23,12 @@ var strings = [
 
 'Are meetings for worship and business duly held, and are you regular in attending them? Do you come ready to commune with God and to fellowship with believers, willing to participate in contemplation or in spoken ministry?<br /><em>Northwest Yearly Meeting, Query 5</em>',
 
+'From the beginnings of our Society, we have considered it necessary to assemble frequently for the purpose of public worship held in expectant waiting for divine guidance, thereby manifesting our belief in and dependence upon our creator. Meeting for worship is fundamental for us, and we should be diligent and punctual in our attendance. We seek, through communion with God, the strengthening influence of the Holy Spirit to enable us to discharge with fidelity the services we owe to God, to each other, and to all people.<br /><em>New York Yearly Meeting, advice number 1</em>',
+
+'Friends are advised to observe our Christian testimony for a faithful ministry of the gospel under the influence of the Holy Spirit. Members are reminded that all have a responsibility in ministry.<br /><em>New York Yearly Meeting, advice number 4</em>',
+
+'Are meetings for worship and business held in expectant waiting for divine guidance? Are we regular and punctual in attendance? Are we willing and faithful in the service of our meeting and in financial support of its activities?<br /><em>New York Yearly Meeting, query number 1</em>',
+
 
 ];
 

@@ -19,6 +19,12 @@ var strings = [
 
 'Education of Children: A loving care of the children who have been entrusted to us requires that we instruct them early and continually in how God has dealt with his people and how he still deals with them. Our children do not become church members by birth; but we should seek by education and example to help them become acquainted with the Spirit of Christ, and thus to open their way to enter the church by personal choice when they are mature enough to make such a commitment.<br /><em>Friends of Truth / Glenside Friends Meeting, Christian Conduct</em>',
 
+'Remembering the tenderness of Jesus for children, we recommend that parents and those who have the important charge of educating youth exercise a loving and watchful care over them. Meetings are urged to help parents and children share religious experiences at home and in the meeting for worship and to give them an understanding of the principles and practices of Friends.<br /><em>New York Yearly Meeting, advice number 5</em>',
+
+'Parents and older Friends are advised to be sensitive to the insights of younger people and to keep a close and sympathetic contact with them. Children are urged to love and respect their parents that all may be led together to the Light Within.<br /><em>New York Yearly Meeting, advice number 6</em>',
+
+'Do our children receive the loving care of the meeting? Does the influence of the meeting promote their religious life and give them an understanding of the principles and practices of Friends? Do we offer our young people opportunities for fellowship, for service, for religious instruction, and for participation in the life of the meeting?<br /><em>New York Yearly Meeting, query number 6</em>',
+
 
 ];
 
