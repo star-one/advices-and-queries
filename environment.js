@@ -7,6 +7,9 @@ var strings = [
 
 'Are you concerned for responsible use of natural resources and their nurture for future generations? Do you try to avoid wasteful consumption and pollution? Do you seek to preserve the beauty and balance of God\'s world?<br /><em>Baltimore Yearly Meeting, The Queries, number 12</em>',
 
+'As a Christian steward, do you treat the earth with respect and with a sense of God\'s splendor in creation, guarding it against abuse by greed, misapplied technology, or your own carelessness?<br /><em>Northwest Yearly Meeting, Query 19</em>',
+
+
 ];
 
 var randomIndex = Math.floor(Math.random() * strings.length);

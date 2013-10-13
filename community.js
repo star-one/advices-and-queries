@@ -15,6 +15,9 @@ var strings = [
 
 'Are love and harmony within the Meeting community fostered by a spirit of open sharing? Do you endeavor to widen your circle of friendships within the Meeting, seeking to know persons of all ages and at all stages of the spiritual journey? Does the Meeting provide for the spiritual refreshment of all members and attenders? Do Friends provide spiritual and practical care for the elderly, the lonely, and others with special needs?<br /><em>Baltimore Yearly Meeting, The Queries, number 3</em>',
 
+'As followers of Christ do you love and respect each other? Do patience and consideration govern your interactions; and when differences arise, do you resolve them promptly in a spirit of forgiveness and understanding? Are you careful with the reputation of others?<br /><em>Northwest Yearly Meeting, Query 6</em>',
+
+
 ];
 
 var randomIndex = Math.floor(Math.random() * strings.length);

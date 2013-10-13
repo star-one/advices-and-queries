@@ -23,6 +23,8 @@ var strings = [
 
 'Do you regard your possessions as given you in trust and do you part with them freely for the needs of others? Are your means of livelihood in keeping with your ideals as Friends? Are you concerned that your business be primarily a service to people? What are you doing to foster upright practices in business relations? Do you maintain strict integrity in all business transactions? Do you bear a faithful testimony against all forms of gambling?<br /><em>Ohio Valley Yearly Meeting, Twelfth query</em>',
 
+'Do you give generous financial support to the work of Friends? Do you contribute regularly to the ministry of your church and to the wider outreach of the Yearly Meeting? Are you and your meeting aware of those likely to require material aid, and do you give freely to those in need?<br /><em>Northwest Yearly Meeting, Query 7</em>',
+
 
 ];
 

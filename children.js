@@ -13,6 +13,10 @@ var strings = [
 
 'Do you make your home a place of affection where God\'s presence is felt? Do you practice family prayer? Do you share your deepest beliefs and interests with all in the family? Do you grow together through sharing prosperity and adversity? Can you keep a sense of humor and avoid taking yourself too seriously? Do you establish family standards including the mutual obligations of children and adults?   Are you as children learning to be accountable for your own actions? Do you as parents help your children to grow in independence and responsibility? Do you consider the needs of grandparents and older members of the family circle?<br /><em>Baltimore Yearly Meeting, The Queries, number 6</em>',
 
+'Do you who have children under your care educate them for upright and useful lives? Do you nurture them toward Christian faith and commitment, giving them the Scriptures for their guide? Are you watching over your young people with loving concern and providing a place for each one in the life of the church?<br /><em>Northwest Yearly Meeting, Query 10</em>',
+
+'Are you teaching your children the ways of Friends? Do you encourage them to participate in Friends programs and to attend Friends schools?<br /><em>Northwest Yearly Meeting, Query 11</em>',
+
 
 ];
 

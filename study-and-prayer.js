@@ -19,6 +19,9 @@ var strings = [
 
 'Do you provide religious education, including study of the Bible and of Friends\' history and practices, in your Meeting? Do you ensure that schools under the care of Friends exemplify Friends\' principles? Do you support and strive to improve the public schools?<br /><em>Baltimore Yearly Meeting, The Queries, number 11</em>',
 
+'Do you cultivate your spiritual growth through prayer and Bible reading and through attendance at meetings for worship and study? Are you finding joy in the Lord?<br /><em>Northwest Yearly Meeting, Query 2</em>',
+
+
 ];
 
 var randomIndex = Math.floor(Math.random() * strings.length);

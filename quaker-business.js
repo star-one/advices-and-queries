@@ -11,6 +11,9 @@ var strings = [
 
 'Are meetings for business held in a spirit of worship, understanding and forbearance? When direction seems lacking, is this seen as a challenge to a more prayerful search for truth? Do we humbly set aside our own preconceived notions as to proper action, seeking instead Divine guidance as to the right course? Is the Meeting aware that it speaks not only through its actions but also through its failure to act?   Do you participate regularly in meetings for business, discharge faithfully your committee responsibilities, and assume your share of financial support of the Meeting?<br /><em>Baltimore Yearly Meeting, The Queries, number 2</em>',
 
+'Do you acknowledge God\'s ownership of all that is under your care? Do you give of your time and abilities in service to church and community and gratefully use your possessions as a trust to honor God?<br /><em>Northwest Yearly Meeting, Query 4</em>',
+
+
 ];
 
 var randomIndex = Math.floor(Math.random() * strings.length);

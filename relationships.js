@@ -10,6 +10,9 @@ var strings = [
 'Marriage has always been regarded by Friends as a religious commitment rather than a merely civil contract. Both partners should offer with God\'s help an intention to cherish one another for life. Remember that happiness depends on an understanding and steadfast love on both sides. In times of difficulty remind yourself of the value of prayer, of perseverance and of a sense of humour.<br /><em>Britain Yearly Meeting, Advices and Queries, number 23</em>',
 
 'A long-term relationship brings tensions as well as fulfilment. If your relationship with your partner is under strain, seek help in understanding the other\'s point of view and in exploring your own feelings, which may be powerful and destructive. Consider the wishes and feelings of any children involved, and remember their enduring need for love and security. Seek God\'s guidance. If you undergo the distress of separation or divorce, try to maintain some compassionate communication so that arrangements can be made with the minimum of bitterness.<br /><em>Britain Yearly Meeting, Advices and Queries, number 25</em>',
+
+'Do you conduct yourself in a manner that supports and preserves the sanctity and permanence of marriage? Do you who are married yield to each other in decisions and build up each other as individuals, always cherishing your common bond?<br /><em>Northwest Yearly Meeting, Query 9</em>',
+
 ];
 
 var randomIndex = Math.floor(Math.random() * strings.length);

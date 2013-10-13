@@ -23,6 +23,12 @@ var strings = [
 
 'Do you live in accordance with your spiritual convictions? Do you seek employment consistent with your beliefs and in service to society? Do you practice simplicity in speech, dress and manner of living, avoiding wasteful consumption? Are you watchful that your possessions do not rule you? Do you strive to be truthful at all times, avoiding judicial oaths?  Do you strive to develop your physical, emotional and mental capacities toward reaching your Divinely given potential? Do you cultivate healthful and moderate habits, avoiding the hazards of drugs, intoxicants, and over-indulgence generally? Do you try to direct such emotions as anger and fear in creative ways?<br /><em>Baltimore Yearly Meeting, The Queries, number 5</em>',
 
+'Do you and your family use your free time in ways that refresh the spirit and benefit mind and body, that encourage creativity and friendliness? Is your home a pleasant, peaceful place?<br /><em>Northwest Yearly Meeting, Query 12</em>',
+
+'Is your life marked by simplicity? Are you free from the burden of unnecessary possessions? Do you avoid waste? Do you refuse to let the prevailing culture and media dictate your needs and values?<br /><em>Northwest Yearly Meeting, Query 13</em>',
+
+'Do you discipline your mind and body to serve as instruments of the Lord? Do you avoid pornography? Do you abstain from harmful, addictive, and unnecessary drugs-including alcoholic beverages, tobacco, marijuana, and cocaine-and from profiting through their use? Do you refrain from gambling and taking part in lotteries?<br /><em>Northwest Yearly Meeting, Query 16</em>',
+
 
 ];
 

@@ -11,6 +11,8 @@ var strings = [
 
 'Do you endeavor to live "in virtue of that life and power which takes away the occasion of all wars"? Do you work to make your peace testimony a reality in your life and in your world? Do you weigh your day-to-day activities for their effect on peace-keeping, conflict resolution and the elimination of violence? Are you working toward eliminating aggression at all levels, from the personal to the international?<br /><em>Baltimore Yearly Meeting, The Queries, number 10</em>',
 
+'Do you observe and teach the Friends testimony against military training and service, making clear that war is incompatible with the spirit and teachings of the Gospel? Do you find appropriate ways to work for peace?<br /><em>Northwest Yearly Meeting, Query 20</em>',
+
 
 ];
 
