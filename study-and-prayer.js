@@ -27,6 +27,8 @@ var strings = [
 
 'Are we careful that our ministry is under the leading of the Holy Spirit? Are we concerned to take time for the study of Scripture and other writings of spiritual value? Are we concerned for the spiritual growth of one another?<br /><em>New York Yearly Meeting, query number 3</em>',
 
+'The elders made by the Holy Ghost are to feed the flock, taking the oversight willingly, not as lords, but as examples to the flock.<br /><em>Advices from the Elders at Balby (1656), advice number 19</em>',
+
 
 ];
 

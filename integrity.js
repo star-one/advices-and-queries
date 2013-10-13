@@ -25,6 +25,9 @@ var strings = [
 
 'It is recommended that Friends take the opportunity, on occasions when special statements or oaths are required, to advance the cause of truth by simple affirmation, thus emphasizing that their statement is only a part of their usual integrity of speech.<br /><em>New York Yearly Meeting, advice number 13</em>',
 
+'Friends in callings and trades are to be faithful and upright, and keep to yea and nay. Debts to be punctually paid, that nothing they may owe to any man but love one to another.<br /><em>Advices from the Elders at Balby (1656), advice number 15</em>',
+
+
 ];
 
 var randomIndex = Math.floor(Math.random() * strings.length);

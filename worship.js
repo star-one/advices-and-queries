@@ -29,6 +29,10 @@ var strings = [
 
 'Are meetings for worship and business held in expectant waiting for divine guidance? Are we regular and punctual in attendance? Are we willing and faithful in the service of our meeting and in financial support of its activities?<br /><em>New York Yearly Meeting, query number 1</em>',
 
+'The settled meetings to be kept each first-day. General Meetings, as a rule to be on some other day of the week.<br /><em>Advices from the Elders at Balby (1656), advice number 1</em>',
+
+'Ministers to speak the word of the Lord from the mouth of the Lord, without adding or diminishing. If anything is spoken out of the light so that \"the seed of God\" comes to be burdened, it is to be dealt with in private and not in the public meetings, \"except there be a special moving to do so.\"<br /><em>Advices from the Elders at Balby (1656), advice number 4</em>',
+
 
 ];
 

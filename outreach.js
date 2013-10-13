@@ -7,6 +7,8 @@ var strings = [
 
 'Does your inward faith turn outward? Do you pray for your friends and associates and for those engaged in spreading the Gospel? Have you examined your beliefs and prepared yourself to share them, with sensitivity and humility, as the Holy Spirit leads?<br /><em>Northwest Yearly Meeting, Query 3</em>',
 
+'As any are brought in to the Truth new meetings are to be arranged to suit the general convenience, without respect of persons.<br /><em>Advices from the Elders at Balby (1656), advice number 2</em>',
+
 
 ];
 

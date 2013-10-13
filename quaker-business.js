@@ -15,6 +15,10 @@ var strings = [
 
 'Friends\' business meetings are meetings for worship with a concern for business. When there seems to be disagreement, a free expression of all opinions should be encouraged. Those who speak in meetings for business are advised not to be unduly persistent in advocacy or opposition, but, after having fully expressed their views, to recognize the generally expressed sense of the meeting. A deep and seeking silence can help to reconcile seemingly opposing points of view. Meetings should be conducted in the spirit of wisdom, forbearance, and love.<br /><em>New York Yearly Meeting, advice number 16</em>',
 
+'Persons ceasing to attend meetings are to be spoken to. Persons who walk disorderly are to be spoken to in private, then before two or three witnesses; then, if necessary, the matter is to be reported to the Church. The Church is to reprove them for their disorderly walking, and, if they do not reform, the case is to be sent in writing \"to some whom the Lord hath raised up in the power of the Spirit of the Lord to be fathers - His children to gather in the light\" so that the thing may be known to the body and be determined in the light.<br /><em>Advices from the Elders at Balby (1656), advice number 3</em>',
+
+'Every meeting to keep records of births, or of burials of the dead that died in the Lord. Burials to be conducted according to scripture, and not after customs of \"heathen.\"<br /><em>Advices from the Elders at Balby (1656), advice number 8</em>',
+
 
 ];
 

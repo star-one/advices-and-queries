@@ -15,6 +15,8 @@ var strings = [
 
 'In the contemplation of marriage, Friends should seek divine guidance. Marriage is a life-long union of spiritual as well as temporal concerns and presents considerations of vital importance. When two persons are united in their religious faith, they are likely to find not only a firmer bond of union but also greater strength in fulfilling all of life\'s undertakings. Therefore, Friends contemplating marriage should early acquaint their families and meetings with their intentions, seeking their approval, that they may avoid the far-reaching consequences of hasty and ill-considered action. It is tenderly recommended that Friends keep to the simple and solemn form of our marriage ceremony.<br /><em>New York Yearly Meeting, advice number 11</em>',
 
+'Intentions of marriage to be made known to the Children of Light, especially those of the meeting where the parties are members. The marriage to be solemnized in the fear of the Lord, and before many witnesses, after the example of scripture, and a record to be made in writing, to which the witnesses may subscribe their names.<br /><em>Advices from the Elders at Balby (1656), advice number 7</em>',
+
 
 ];
 

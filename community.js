@@ -25,6 +25,18 @@ var strings = [
 
 'Do we make ourselves available in a tender and caring way when we sense a need for assistance in time of trouble? Do we trust each other enough to make our needs known to someone in our meeting?<br /><em>New York Yearly Meeting, query number 14</em>',
 
+'Collections to be made for the poor, the relief of prisoners, and other necessary uses, the moneys to be carefully accounted for, and applied as made known by the overseers in each meeting.<br /><em>Advices from the Elders at Balby (1656), advice number 5</em>',
+
+'Care to be taken \"for the families and goods of such as are called forth in the ministry, or are imprisoned for the Truth\'s sake; that no creature be lost for want of caretakers.\"<br /><em>Advices from the Elders at Balby (1656), advice number 6</em>',
+
+'Needs of widows and fatherless to be supplied - such as can work and do not be admonished, and if they refuse to work, neither let them eat. The children of needy parents to be put to honest employment.<br /><em>Advices from the Elders at Balby (1656), advice number 12</em>',
+
+'None to speak evil of another, nor grudge against another, nor put a stumbling-block in his brother\'s way.<br /><em>Advices from the Elders at Balby (1656), advice number 16</em>',
+
+'None to be busybodies in others\' matters.<br /><em>Advices from the Elders at Balby (1656), advice number 17</em>',
+
+'Christian moderation to be used towards all men.<br /><em>Advices from the Elders at Balby (1656), advice number 18</em>',
+
 
 ];
 

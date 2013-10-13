@@ -25,6 +25,8 @@ var strings = [
 
 'Do our children receive the loving care of the meeting? Does the influence of the meeting promote their religious life and give them an understanding of the principles and practices of Friends? Do we offer our young people opportunities for fellowship, for service, for religious instruction, and for participation in the life of the meeting?<br /><em>New York Yearly Meeting, query number 6</em>',
 
+'Advice to husbands and wives, as in I Peter iii:7 <em>Husbands, in the same way, show consideration for your wives in your life together, paying honour to the woman as the weaker sex, since they too are also heirs of the gracious gift of life—so that nothing may hinder your prayers</em>. Advice to parents and children, as in Ephesians vi:1-4 <em>Children, obey your parents in the Lord, for this is right. \'Honour your father and mother\' - this is the first commandment with a promise: \'so that it may be well with you and you may live long on the earth.\' And, fathers, do not provoke your children to anger, but bring them up in the discipline and instruction of the Lord</em>.<br /><em>Advices from the Elders at Balby (1656), advice number 9</em>',
+
 
 ];
 

@@ -31,6 +31,7 @@ var strings = [
 
 'Do we partake of the joy of the love of God and make our lives a celebration of the sharing of this love? Do our daily lives so demonstrate Friends\' testimonies as to commend them to others?<br /><em>New York Yearly Meeting, query number 15</em>',
 
+'Dearly beloved Friends, these things we do not lay upon you as a rule or form to walk by, but that all, with the measure of light which is pure and holy, may be guided: and so in the light walking and abiding, these may be fulfilled in the Spirit, not from the letter, for the letter killeth, but the Spirit giveth life.<br /><em>Advices from the Elders at Balby (1656), Postscript</em>',
 
 ];
 
