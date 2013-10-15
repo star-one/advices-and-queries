@@ -33,6 +33,8 @@ var strings = [
 
 'Dearly beloved Friends, these things we do not lay upon you as a rule or form to walk by, but that all, with the measure of light which is pure and holy, may be guided: and so in the light walking and abiding, these may be fulfilled in the Spirit, not from the letter, for the letter killeth, but the Spirit giveth life.<br /><em>Advices from the Elders at Balby (1656), Postscript</em>',
 
+'Have you taken a day of rest and restoration this week?<br /><em>Evangelical Friends Church Southwest, Individual Accountability Questions, number 11</em>',
+
 ];
 
 var randomIndex = Math.floor(Math.random() * strings.length);

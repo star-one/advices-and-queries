@@ -17,6 +17,12 @@ var strings = [
 
 'Intentions of marriage to be made known to the Children of Light, especially those of the meeting where the parties are members. The marriage to be solemnized in the fear of the Lord, and before many witnesses, after the example of scripture, and a record to be made in writing, to which the witnesses may subscribe their names.<br /><em>Advices from the Elders at Balby (1656), advice number 7</em>',
 
+'Have you forgiven everyone who hurt you or disappointed you, seeking to resolve any conflict with love and understanding?<br /><em>Evangelical Friends Church Southwest, Individual Accountability Questions, number 4</em>',
+
+'Have you avoided emotional or sexual intimacy outside of marriage this week? Have you engaged in lustful attitudes, pornography or sexually explicit communication?<br /><em>Evangelical Friends Church Southwest, Individual Accountability Questions, number 6</em>',
+
+'Have you actively nourished your marriage, family and friends in Christ, making your home a pleasant, peaceful place? Have you kept marriage and family in balance with work and career?<br /><em>Evangelical Friends Church Southwest, Individual Accountability Questions, number 7</em>',
+
 
 ];
 

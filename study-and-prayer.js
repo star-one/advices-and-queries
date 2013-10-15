@@ -29,6 +29,7 @@ var strings = [
 
 'The elders made by the Holy Ghost are to feed the flock, taking the oversight willingly, not as lords, but as examples to the flock.<br /><em>Advices from the Elders at Balby (1656), advice number 19</em>',
 
+'Have we prayerfully listened for the voice of the Good Shepherd, discerned what God was doing and guided our church body where its Head, our Lord Jesus Christ, led us?<br /><em>Evangelical Friends Church Southwest, Leaders Accountability Questions, number 1</em>',
 
 ];
 

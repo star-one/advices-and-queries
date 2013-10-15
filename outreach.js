@@ -9,6 +9,14 @@ var strings = [
 
 'As any are brought in to the Truth new meetings are to be arranged to suit the general convenience, without respect of persons.<br /><em>Advices from the Elders at Balby (1656), advice number 2</em>',
 
+'Have we served others by doing good? Have we proclaimed the gospel, fulfilling the Great Commission in the spirit of the Great Commandment?<br /><em>Evangelical Friends Church Southwest, Leaders Accountability Questions, number 2</em>',
+
+'Have we stayed active - personally and corporately - in sharing our faith, making disciples and developing leaders? Have we encouraged all of our people to use their unique spiritual gifts?<br /><em>Evangelical Friends Church Southwest, Leaders Accountability Questions, number 7</em>',
+
+'Have we faithfully taught the word and truth of God, including those testimonies which we as Friends have been called to uphold?<br /><em>Evangelical Friends Church Southwest, Leaders Accountability Questions, number 8</em>',
+
+'Have you verbally shared your faith in Christ this week?<br /><em>Evangelical Friends Church Southwest, Individual Accountability Questions, number 1</em>',
+
 
 ];
 

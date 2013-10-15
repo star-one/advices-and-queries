@@ -27,6 +27,19 @@ var strings = [
 
 'Friends in callings and trades are to be faithful and upright, and keep to yea and nay. Debts to be punctually paid, that nothing they may owe to any man but love one to another.<br /><em>Advices from the Elders at Balby (1656), advice number 15</em>',
 
+'Have we obeyed the Scriptures, by giving correction to those who have gone astray?<br /><em>Evangelical Friends Church Southwest, Leaders Accountability Questions, number 3</em>',
+
+'Have you given Christ control of all your activities, entertainment and imagination?<br /><em>Evangelical Friends Church Southwest, Individual Accountability Questions, number 3</em>',
+
+'Have you damaged another person by your words, either behind their back or face to face? Have you kept away from racist jokes and comments?<br /><em>Evangelical Friends Church Southwest, Individual Accountability Questions, number 5</em>',
+
+'Have you given to Christ all you own and all you influence? Have you been completely above reproach in your financial dealings, prompt in paying your debts, careful to live within your income, honoring Christ with tithes and offerings?<br /><em>Evangelical Friends Church Southwest, Individual Accountability Questions, number 8</em>',
+
+'Have you succumbed to a bad habit, personal addiction or kept any kind of idol in your heart, such as greed for money? Have you abstained from the use of harmful substances such as alcohol, tobacco, illegal drugs and from the abuse of good things, such as food and medications?<br /><em>Evangelical Friends Church Southwest, Individual Accountability Questions, number 9</em>',
+
+'Have you deceived anyone, told half-truths or outright lies this week?<br /><em>Evangelical Friends Church Southwest, Individual Accountability Questions, number 10</em>',
+
+
 
 ];
 

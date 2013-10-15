@@ -37,6 +37,10 @@ var strings = [
 
 'Christian moderation to be used towards all men.<br /><em>Advices from the Elders at Balby (1656), advice number 18</em>',
 
+'Have we tried to squelch gossip, and instead encouraged the disgruntled to talk to the right person in the right spirit?<br /><em>Evangelical Friends Church Southwest, Leaders Accountability Questions, number 5</em>',
+
+'Have we dealt fairly with conflict and tried to bring about biblical reconciliation?<br /><em>Evangelical Friends Church Southwest, Leaders Accountability Questions, number 6</em>',
+
 
 ];
 

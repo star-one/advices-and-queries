@@ -33,6 +33,8 @@ var strings = [
 
 'Ministers to speak the word of the Lord from the mouth of the Lord, without adding or diminishing. If anything is spoken out of the light so that \"the seed of God\" comes to be burdened, it is to be dealt with in private and not in the public meetings, \"except there be a special moving to do so.\"<br /><em>Advices from the Elders at Balby (1656), advice number 4</em>',
 
+'Have you found joy in the Lord through prayer, Bible reading, public worship, and a lifestyle of giving thanks in all circumstances? Were you in worship last Sunday, and faithful in ministry to your church this week?<br /><em>Evangelical Friends Church Southwest, Individual Accountability Questions, number 2</em>',
+
 
 ];
 
