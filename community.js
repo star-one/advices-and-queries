@@ -41,6 +41,9 @@ var strings = [
 
 'Have we dealt fairly with conflict and tried to bring about biblical reconciliation?<br /><em>Evangelical Friends Church Southwest, Leaders Accountability Questions, number 6</em>',
 
+'Do we cherish a forgiving spirit, and strive to \"walk in love, as Christ also hath loved us\"? Is each one of us careful for the reputation of others? Are we ever mindful to love our neighbor as ourselves? If differences threaten to disrupt the Christian harmony between the members, is prompt action taken?<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, 2nd query</em>',
+
+'Live in love, as Christian brethren, ready to be helpful one to another. Rejoice together in the blessings of life; sympathize with each other in its trials. Know one another as fellow-workers in the things that endure. Watch over one another for good, praying that each may be a living member of the Church of Christ, and may grow in the knowledge of the love of God.<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 14</em>',
 
 ];
 

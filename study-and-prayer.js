@@ -31,6 +31,14 @@ var strings = [
 
 'Have we prayerfully listened for the voice of the Good Shepherd, discerned what God was doing and guided our church body where its Head, our Lord Jesus Christ, led us?<br /><em>Evangelical Friends Church Southwest, Leaders Accountability Questions, number 1</em>',
 
+'Remember the special opportunities for refreshment of spirit and for service which the first day of the week affords; use them faithfully, as befits the Friends of the Master.<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 15</em>',
+
+'Seek for your children that full development of God\'s gifts which true education can bring about. Remember that the service to which we are called needs healthy bodies, trained minds, high ideals, and an understanding of the laws and purposes of God. Give of your best to the study of the Bible, and the understanding of the Christian faith. Be open-minded, ready constantly to receive new light.<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 18</em>',
+
+'Be zealous that education shall be continued throughout life. Willingness to be used in mind as well as in body, and to be equipped in both, is a needful part of Christian character. Our service to God is incomplete without the contribution of the intellect.<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 19</em>',
+
+'Let all read the Holy Scriptures frequently, and be careful to seek for Divine guidance in interpreting their meaning.<br /><em>Ohio Yearly Meeting (Conservative), Advices for the Meetings for Ministry & Oversight, number 3</em>',
+
 ];
 
 var randomIndex = Math.floor(Math.random() * strings.length);

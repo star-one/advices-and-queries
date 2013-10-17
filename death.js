@@ -9,6 +9,8 @@ var strings = [
 
 'The attention of Friends is called to the propriety of conducting funerals and memorial meetings in a sincere spirit of worship. They are advised to avoid the display of floral decorations and the wearing of mourning and to adhere to our simple ceremony.<br /><em>New York Yearly Meeting, advice number 12</em>',
 
+'Members are affectionately reminded of the importance of keeping correct and clear accounts pertaining to all outward affairs. It is important to make wills, or revisions of them, while still in health of mind and body, and free from any feeling of resentment. Delay, or neglect to secure competent legal advice, may cause some unexpected hindrance in the proper execution of one\'s bequests.<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 12</em>',
+
 
 ];
 

@@ -35,6 +35,25 @@ var strings = [
 
 'Have you found joy in the Lord through prayer, Bible reading, public worship, and a lifestyle of giving thanks in all circumstances? Were you in worship last Sunday, and faithful in ministry to your church this week?<br /><em>Evangelical Friends Church Southwest, Individual Accountability Questions, number 2</em>',
 
+'Are meetings for worship well and punctually attended? Is our behavior therein conducive to meditation and communion with God? Do we maintain a waiting spiritual worship and a free gospel ministry? Do we welcome others to share this fellowship with us?<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, 1st query</em>',
+
+'In your meetings for worship be earnestly concerned to enter reverently into communion with God. Come with minds and hearts prepared. Yield yourselves up to the influence of the Divine Presence so that you may find the evil in you weakening and the good raised up. God calls each one to the service of the meeting. Be obedient and faithful, whether by word or silent prayerful waiting; and be ready to receive the message of others in a tender spirit.<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 4</em>',
+
+'A punctual attendance at the hour appointed for Meeting for Worship is a matter of no small importance. If we hurry from outward occupation, we are in danger of two things: our thoughts may still be with that in which we have been engaged, and our late arrival may interrupt that holy silence which should prevail; however, let us welcome with open hearts all who join us no matter when they arrive.<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 21</em>',
+
+'We would urge Friends, when away from home, to attend a Meeting for Worship if such is within reach. Such attendance may well strengthen the meeting, and may bring Friends who were hitherto strangers into fellowship with one another.<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 22</em>',
+
+'When we gather together in worship, let us remember that there is committed to us, as disciples of Christ, a share in the priesthood. We should help one another, whether in silence, or through spoken word, or prayer. Let none of us assume that vocal ministry is never to be our part. If the call comes, there should be no quenching of the Spirit. The sense of our own unworthiness must not exempt us from this service, nor must the fear of being unable to find the right words, \"for it shall be given you in that same hour what ye shall speak\" (Matt. 10:19)<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 24</em>',
+
+'We should recognize the importance of finding occasion for some united worship during the week, either at the meetinghouse, or in a private home. Such may be of great assistance, not only to the individual, but also to the life of the whole group.<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 25</em>',
+
+'Is the ministry of our meeting such as to promote the spiritual growth of our membership, building it up in the faith that is in Jesus Christ? Are we personally taking due care to see that the basic principles of Friends\' worship are kept clearly before our members?<br /><em>Ohio Yearly Meeting (Conservative), Queries for the Meetings for Ministry & Oversight, number 2</em>',
+
+'Let all ministers abide in a simple and patient submission to the will of God for that Divine ability by which alone they may faithfully and effectively preach the Word. Remember that all acceptable worship and all Gospel ministry is performed under the immediate teaching and influence of the Holy Spirit.<br /><em>Ohio Yearly Meeting (Conservative), Advices for the Meetings for Ministry & Oversight, number 1</em>',
+
+'Let all, in their spoken testimonies, be cautious of using unnecessary preambles, and of asserting too positively a Divine impulse--the baptizing power of Truth accompanying their words being the true evidence.<br /><em>Ohio Yearly Meeting (Conservative), Advices for the Meetings for Ministry & Oversight, number 2</em>',
+
+'Let all be cautious of interrupting the solemnity of the meeting by too frequent speaking or by unnecessary additions toward the conclusion of their addresses.<br /><em>Ohio Yearly Meeting (Conservative), Advices for the Meetings for Ministry & Oversight, number 5</em>',
 
 ];
 

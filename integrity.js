@@ -11,15 +11,11 @@ var strings = [
 
 'Do you uphold the standards of Friends? Are you careful in appointing officers and Sunday school teachers, in calling pastors and special speakers, in sending out missionaries and recording ministers, to see that they are in harmony with the principles of Friends as stated in the Faith and Practice of Northwest Yearly Meeting?<br /><em>Northwest Yearly Meeting, Query 8</em>',
 
-'Are you careful to live within your income? Do you avoid involving yourself in business beyond your ability to manage or in highly speculative ventures? Are you willing to accept a lower economic standard rather than compromise Christian values?<br /><em>Northwest Yearly Meeting, Query 14</em>',
-
 'Are you honest and just in your dealings? Are you true to your promises, prompt in paying your debts, and responsible in handling money or property entrusted to you?<br /><em>Northwest Yearly Meeting, Query 15</em>',
 
 'Oaths: Taking oaths, including those commonly used in public proceedings and documents, is an abuse of God\'s name and of honest speech, which Christ forbids (Mt. 5:33-37; Jas. 5:12).<br /><em>Friends of Truth / Glenside Friends Meeting, Christian Conduct</em>',
 
 'Conventional Insincerities: We should not conform to social conventions that dictate saying things we do not mean.<br /><em>Friends of Truth / Glenside Friends Meeting, Christian Conduct</em>',
-
-'Friends are advised to be mindful of their conduct and conversation and to observe the testimonies of simplicity and moderation.<br /><em>New York Yearly Meeting, advice number 3</em>',
 
 'Friends are advised to observe integrity in their living and to inspect frequently the state of their temporal affairs. In their dealings with everyone they should endeavor to maintain a truly Christian character, ever bearing in mind the Golden Rule, \"Do unto others as you would have them do unto you.\"<br /><em>New York Yearly Meeting, advice number 10</em>',
 
@@ -29,16 +25,17 @@ var strings = [
 
 'Have we obeyed the Scriptures, by giving correction to those who have gone astray?<br /><em>Evangelical Friends Church Southwest, Leaders Accountability Questions, number 3</em>',
 
-'Have you given Christ control of all your activities, entertainment and imagination?<br /><em>Evangelical Friends Church Southwest, Individual Accountability Questions, number 3</em>',
-
 'Have you damaged another person by your words, either behind their back or face to face? Have you kept away from racist jokes and comments?<br /><em>Evangelical Friends Church Southwest, Individual Accountability Questions, number 5</em>',
 
 'Have you given to Christ all you own and all you influence? Have you been completely above reproach in your financial dealings, prompt in paying your debts, careful to live within your income, honoring Christ with tithes and offerings?<br /><em>Evangelical Friends Church Southwest, Individual Accountability Questions, number 8</em>',
 
-'Have you succumbed to a bad habit, personal addiction or kept any kind of idol in your heart, such as greed for money? Have you abstained from the use of harmful substances such as alcohol, tobacco, illegal drugs and from the abuse of good things, such as food and medications?<br /><em>Evangelical Friends Church Southwest, Individual Accountability Questions, number 9</em>',
-
 'Have you deceived anyone, told half-truths or outright lies this week?<br /><em>Evangelical Friends Church Southwest, Individual Accountability Questions, number 10</em>',
 
+'Are we careful to use the affirmation rather than the oath? Do we avoid gambling and speculation based on the principles of chance?<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, 8th query</em>',
+
+'Regard the taking of oaths as contrary to the teachings of Christ, and setting up a double standard of truthfulness; whereas sincerity and truth should be practiced in all walks of life.<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 3</em>',
+
+'Let your whole conduct and conversation be worthy of disciples of Christ. \"Be ye steadfast, unmovable, always abounding in the work of the Lord, forasmuch as ye know that your labor is not in vain in the Lord\" (1 Cor. 15:58)<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 26</em>',
 
 
 ];

@@ -11,7 +11,9 @@ var strings = [
 
 'Do we support measures to avoid pollution of air and water? Do we support measures to establish the conservation and right use of natural resources?<br /><em>New York Yearly Meeting, query number 10</em>',
 
+'All life is interrelated. Each individual plant and animal has its own needs, and is important to others. Many species in Australia and worldwide are now extinct and many more are endangered. Do you treat all life with respect, recognizing a particular obligation to those animals we breed and maintain for our own use and enjoyment? In order to secure the survival of all, including ourselves, are you prepared to change your ideas about who you are in relation to your environment and every living thing in it?<br /><em>Australia Yearly Meeting, Advices and Queries, number 44</em>',
 
+'The land of Australia is not our possession. We are no more than temporary guardians of it; neither the first nor, probably, the last. In the brief time of European settlement, vast areas of this country have been damaged. Do you try to live in harmony with the land, knowing that you are part of it? Do you protect and husband its water and other resources? Do you look with respect on the claims and rights of others to share in the wealth and freedoms of Australians?<br /><em>Australia Yearly Meeting, Advices and Queries, number 46</em>',
 ];
 
 var randomIndex = Math.floor(Math.random() * strings.length);

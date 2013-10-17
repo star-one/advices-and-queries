@@ -13,6 +13,8 @@ var strings = [
 
 'Do we acknowledge the oneness of humanity and foster a loving spirit toward all people? Do we honor Friends\' traditional testimony that men and women are equal? How do we work to make these ideals a reality?<br /><em>New York Yearly Meeting, query number 12</em>',
 
+'For thousands of years before 1788, this country was lived in by various aboriginal peoples, at one with the land. Through colonization, much of their land and culture has been lost to them and their children have been taken from them; they have suffered the injustice of racism, and material, psychological and spiritual deprivation. Can we acknowledge with sorrow the loss of life and the on-going destruction of their languages, families and communities, appreciate the depth and strength of aboriginal beliefs and values and learn from aboriginal people and accept the gifts they have for all of us? Can we all as Australians work towards living together as equals, with mutual understanding and respect?<br /><em>Australia Yearly Meeting, Advices and Queries, number 18</em>',
+
 ];
 
 var randomIndex = Math.floor(Math.random() * strings.length);

@@ -27,6 +27,14 @@ var strings = [
 
 'Advice to husbands and wives, as in I Peter iii:7 <em>Husbands, in the same way, show consideration for your wives in your life together, paying honour to the woman as the weaker sex, since they too are also heirs of the gracious gift of life—so that nothing may hinder your prayers</em>. Advice to parents and children, as in Ephesians vi:1-4 <em>Children, obey your parents in the Lord, for this is right. \'Honour your father and mother\' - this is the first commandment with a promise: \'so that it may be well with you and you may live long on the earth.\' And, fathers, do not provoke your children to anger, but bring them up in the discipline and instruction of the Lord</em>.<br /><em>Advices from the Elders at Balby (1656), advice number 9</em>',
 
+'Watch with Christian tenderness over the opening minds of your children. Help them to understand the teachings of Jesus. Seek to awaken in them the love of Christ, and through example and training in self-control, to bring them to obedience to the law of God in their own hearts, that they may be joyful and willing in his service.<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 8</em>',
+
+'Be diligent in the reading of the Bible and other spiritually helpful writings. Gather daily in your families for worship. Such times have a special value in bringing little children especially into the experience of united worship, and so preparing them for the larger meeting for worship, as they learn in the silence to bow to the power of God.<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 16</em>',
+
+'Be mindful for yourselves and for your children that you value the beauty and power of good friendships. Also, by example and precept, encourage your children to appreciate the best in literature and the arts, which is consistent with our Christian faith. By this, all your lives may be enriched and the youth with tastes thus early formed may henceforth instinctively choose the beautiful and good.<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 17</em>',
+
+'Are we sufficiently thoughtful for the spiritual awakening of the youth in our meetings? Do we concern ourselves in helping them develop and consecrate their various talents, and do we make an effort to provide opportunity for the Christian exercise of their gifts in the meeting and the community?<br /><em>Ohio Yearly Meeting (Conservative), Queries for the Meetings for Ministry & Oversight, number 4</em>',
+
 
 ];
 

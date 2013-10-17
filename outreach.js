@@ -17,6 +17,9 @@ var strings = [
 
 'Have you verbally shared your faith in Christ this week?<br /><em>Evangelical Friends Church Southwest, Individual Accountability Questions, number 1</em>',
 
+'Make it your aim to promote the cause of truth and righteousness, and to spread the Kingdom of God at home and abroad. Be ready to take your part fearlessly in declaring His message and in witnessing to His power.<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 13</em>',
+
+'Those who visit our meetings for worship should be given a friendly welcome and be encouraged to continue to join us in worship. Particular assistance and loving attention should be accorded new members.<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 23</em>',
 
 ];
 

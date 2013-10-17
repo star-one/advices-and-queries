@@ -3,6 +3,12 @@ function updateLifestyle() {
 var strings = [
 'Observe simplicity and moderation in your deportment and attire, in the furniture of your houses, and in your manner or style of living.<br /><em>North Carolina Yearly Meeting (Conservative), Advices</em>',
 
+'Are you careful to live within your income? Do you avoid involving yourself in business beyond your ability to manage or in highly speculative ventures? Are you willing to accept a lower economic standard rather than compromise Christian values?<br /><em>Northwest Yearly Meeting, Query 14</em>',
+
+'Have you succumbed to a bad habit, personal addiction or kept any kind of idol in your heart, such as greed for money? Have you abstained from the use of harmful substances such as alcohol, tobacco, illegal drugs and from the abuse of good things, such as food and medications?<br /><em>Evangelical Friends Church Southwest, Individual Accountability Questions, number 9</em>',
+
+'Friends are advised to be mindful of their conduct and conversation and to observe the testimonies of simplicity and moderation.<br /><em>New York Yearly Meeting, advice number 3</em>',
+
 'Guard watchfully against the introduction into your households of publications of a hurtful tendency, and against such companionships, indulgences, and recreations as may in anywise interfere with the growth in grace. We earnestly advise all our members to refrain from the use of tobacco in every form, and to discourage its growth and the sale of its products, as well as the use of it by their children and all under their care.<br /><em>North Carolina Yearly Meeting (Conservative), Advices</em>',
 
 'Be aware of the attitude with which you receive all the material and cultural products of your society. Seek the beautiful and worthwhile in literary and recreational pursuits, being always sensitive to the encroachment of the banal, the degrading, or the violent.<br /><em>North Carolina Yearly Meeting (Conservative), Advices</em>',
@@ -44,6 +50,18 @@ var strings = [
 'Do our vocations provide constructive and beneficial service? Do we observe integrity in our business transactions? Do we avoid involving ourselves beyond our ability to manage? Are we careful to conduct our affairs punctually, justly, and honorably? Do we avoid participation in lotteries, betting, and gambling?<br /><em>New York Yearly Meeting, query number 7</em>',
 
 'Have we confronted our own decisions about our use of alcohol, tobacco, and other drugs, and do we encourage others to do likewise? Have we considered the cost in human suffering that might result from such use?<br /><em>New York Yearly Meeting, query number 8</em>',
+
+'Believing our bodies to be the temple of God, are we concerned to attain a high level of physical and mental health? To this end are our lives examples of temperance in all things? Do we avoid and discourage the use and handling of intoxicants, tobacco, and improper use of drugs?<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, 4th query</em>',
+
+'Do we observe simplicity in our manner of living, sincerity in speech, and modesty in apparel? Do we guard against involving ourselves in temporal affairs to the hindrance of spiritual growth? Are we just in our dealings and careful to fulfill our promises? Do we seek to make our Christian faith a part of our daily work?<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, 7th query</em>',
+
+'Be on your guard, dear Friends, lest the love of pleasure take too strong a hold upon you. Choose such recreations as are pure and healthful. Let them be in harmony with your service to God and man; and in that service be ready at any time to lay them aside when called upon.<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 5</em>',
+
+'Avoid and discourage any kind of betting or gambling, as well as commercial speculation of a gambling character. Remember how widespread are the temptations to grow rich at the expense of others, and how apparently harmless indulgence leads often by degrees to ruin and crime.<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 7</em>',
+
+'Carefully maintain truthfulness and sincerity in your conduct, and encourage the same in your families. In your style of living, in your dress, and in the furniture of your houses, choose what is simple, useful, and good.<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 10</em>',
+
+'In view of the evils arising from the use of tobacco and intoxicating drinks, we urge all to abstain from using them, from offering them to others, and from having any part in their production, manufacture, or sale. Do not let the claims of "good fellowship" or the fear of seeming peculiar prevent you from standing by principles which you have conscientiously adopted.<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 11</em>',
 
 
 ];
