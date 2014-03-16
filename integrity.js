@@ -1,6 +1,12 @@
 // Integrity
 function updateIntegrity() {
 var strings = [
+'We have a testimony to integrity, which includes honesty and plain speaking. Be utterly scrupulous both in personal relationships and in dealings with businesses and government departments or other public bodies. Do not be afraid to speak the truth as you discern it, with firmness and respect. Taking oaths sets a double standard of truth; ask to affirm instead.<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, E3</em>',
+
+'Corruption and destructiveness can grow from very small seeds, as can courage and loving kindness. Consider the words you use, and your tone of voice. Do you refrain from verbal and psychological violence? When people attack you with angry words, do you listen for the underlying hurt?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, D10</em>',
+
+'Let others know what is valuable to you. Let your life speak.<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, A6</em>',
+
 'Carefully maintain in your speech and conduct, and encourage in your families, simplicity, truthfulness, and sincerity; and endeavor to avoid worldliness in all its forms.<br /><em>North Carolina Yearly Meeting (Conservative), Advices',
 
 'Are you honest and truthful in all you say and do? Do you maintain strict integrity in business transactions and in your dealings with individuals and organisations? Do you use money and information entrusted to you with discretion and responsibility? Taking oaths implies a double standard of truth; in choosing to affirm instead, be aware of the claim to integrity that you are making.<br /><em>Britain Yearly Meeting, Advices and Queries, number 37</em>',

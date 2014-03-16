@@ -1,6 +1,14 @@
 //  Study and prayer
 function updateStudy() {
 var strings = [
+'Prayer springs from a deep place in the heart. The spirit of prayer will be active in a gathered Meeting. Vocal prayer, though it may be expressed in imperfect words, can draw those present into communion with God and with one another.<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, B12',
+
+'Bring everything that concerns you into the light, so that you feel a weakening of what is unworthy in you, and a strengthening of what is good. Accept and support each other in love.<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, B13',
+
+'To widen our vision and deepen our experience, we all need times of solitary quietness for worship and reflection, as well as times for joining together in worship.<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, B2',
+
+'Consider the means of spiritual growth in your life. Do you make time for regular meditation, prayer and reflection? Are you gaining insights and inspiration from the Bible, from other writings including the literature of other faiths,and from the religious experiences of Friends and others,past and present?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, A7</em>',
+
 'Be diligent in the private perusal of the Holy Scriptures, and let the daily reading of them in your families be devoutly conducted.<br /><em>North Carolina Yearly Meeting (Conservative), Advices</em>',
 
 'Be careful to make a profitable and religious use of those portions of time on the first day of the week which are not occupied by our meetings for worship.<br /><em>North Carolina Yearly Meeting (Conservative), Advices',

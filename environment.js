@@ -1,6 +1,8 @@
 // The environment
 function updateEnvironment() {
 var strings = [
+'We need to respect, revere and cooperate with other life systems on our planet. The earth\'s diverse riches are not ours to exploit. Seek reverence for life and a sense of wonder at God\'s continuing presence in all of creation. Do you work to conserve the earth\'s beauty and resources, both now and in the future, for the many people who depend on this planet and the many other species that share it?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, E14</em>',
+
 'We do not own the world, and its riches are not ours to dispose of at will. Show a loving consideration for all creatures, and seek to maintain the beauty and variety of the world. Work to ensure that our increasing power over nature is used responsibly, with reverence for life. Rejoice in the splendour of God\'s continuing creation.<br /><em>Britain Yearly Meeting, Advices and Queries, number 42</em>',
 
 'Do you endeavor to live in harmony with nature, avoiding pollution and the destruction of our environment? What are you doing about your use of the world\'s irreplaceable resources? Are you concerned for family and population planning so that future generations will be able to live on the resources available to them?<br /><em>Ohio Valley Yearly Meeting, Tenth query</em>',

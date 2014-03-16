@@ -1,6 +1,24 @@
 // Community
 function updateCommunity() {
 var strings = [
+'How can you make your home a place of friendship,refreshment and laughter, a peaceable place where the Spirit becomes more real to all who are there? Do you recognise the needs and gifts of each member of your family and household, including your own?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, D15</em>',
+
+'In our local Meeting, how can we build a community in which each person is accepted and nurtured, and newcomers are welcomed?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, D3</em>',
+
+'Both within our family of Friends and in our wider communities, we need sensitivity to each other and to our various cultural roots. What joys and what responsibilities does this bring? Do we aspire to an understanding of ourselves as people of Aotearoa/New Zealand and the South Pacific?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, D4</em>',
+
+'A caring Meeting can bring healing at times of difficulty or despair. Listen sensitively to what, although not clearly expressed, may be a cry for help. Are you available to help others, even at some cost to yourself? Are you willing to be helped, both practically and spiritually?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, D5</em>',
+
+'Cherish friendships so that you grow in depth, understanding and mutual respect. When we love, we may risk hurt as well as finding joy. When we experience great happiness or great pain, we may be more open to the working of the Spirit.<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, D6</em>',
+
+'Are you patient and considerate, even towards people you don\'t like? Do you avoid and discourage unkind criticism and gossip?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, D7</em>',
+
+'Make time to learn about other people and their spiritual lives. Let your life speak. Do you use all opportunities for sharing, in a spirit of worship, what is spiritually meaningful in your life?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, D1</em>',
+
+'Be aware of each person in the Meeting. Enjoy and affirm Friends of all ages and backgrounds. Seek to move into a gathered silence in which you are open to one another.<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, B4</em>',
+
+'Do we try to live as a society of friends in community with one another by acknowledging and responding to that of God in each other?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, A6</em>',
+
 'Live in love, as Christian brethren, ready to be helpful one to another, and sympathizing with each other in the trials and afflictions of life. Watch over one another for good, manifesting an earnest desire that each may be well grounded in the Light of Christ.<br /><em>North Carolina Yearly Meeting (Conservative), Advices</em>',
 
 'How can we make the meeting a community in which each person is accepted and nurtured, and strangers are welcome? Seek to know one another in the things which are eternal, bear the burden of each other\'s failings and pray for one another. As we enter with tender sympathy into the joys and sorrows of each other\'s lives, ready to give help and to receive it, our meeting can be a channel for God\'s love and forgiveness.<br /><em>Britain Yearly Meeting, Advices and Queries, number 18</em>',

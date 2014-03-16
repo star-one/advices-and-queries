@@ -1,6 +1,14 @@
 // General
 function updateGeneral() {
 var strings = [
+'Be faithful to your experience of the Spirit, in whatever way it has come to you. Carry it into your daily life. Do what love requires of you, which may not be the same as great busyness.<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, D2</em>',
+
+'You can gain inspiration from people of all ages whom you meet throughout your life and also from the example of people throughout history, including the present day. You can find inspiration all around, in the natural world, in the arts and sciences, in your work and friendships, in your sorrows as well as in your joys. Are you open to new light from whatever source it may come? Do you approach new ideas with discernment?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, A8</em>',
+
+'Take heed, dear Friends, to the promptings of love and truth in your heart, and respond to them; they are the leadings of all that is good and pure. In each of us there is a light to show us our condition and to renew us.<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, A1</em>',
+
+'Cherish that of God within you, so that love may grow in you and guide your life. Do you bring the whole of your life before God, responding to the healing power of love and accepting the forgiveness and joy it brings?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, A2</em>',
+
 'Take heed, dear Friends, we entreat you, to the convictions of the Holy Spirit, who leads us, through unfeigned repentance and living faith in the Son of God, to reconciliation with our Heavenly Father and to the blessed hope of eternal life, brought to us in the sacrifice of our Lord and Savior Jesus Christ.<br /><em>North Carolina Yearly Meeting (Conservative), Advices</em>',
 
 'Finally, dear Friends, let your whole conduct and conversation be such as becometh the Gospel. Exercise yourselves to have a conscience void of offense toward God and toward all persons. Be faithful and steadfast in your allegiance and service to your Lord; continue in His love, endeavoring to keep the unity of the Spirit in the bond of Peace<br /><em>North Carolina Yearly Meeting (Conservative), Advices</em>',

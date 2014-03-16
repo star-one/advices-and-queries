@@ -1,6 +1,24 @@
 // Worship
 function updateWorship() {
 var strings = [
+'Even the mundane and the everyday can be performed as a form of worship.<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, B14</em>',
+
+'All of us are at times preoccupied and distracted in Meeting. Accept these wanderings and then release them so that you can move towards the still centre of your own being and find the unity of the Meeting.<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, B6</em>',
+
+'Remember that ministry – in silence, speech, and other forms – is the responsibility of everyone; and that all present contribute to the quality and depth of Meeting for Worship.<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, B7</em>',
+
+'If you are prompted to speak, do not be prevented by a sense of your own unworthiness, or a fear of not finding the right words. Pray that the Spirit may guide you and that your ministry may arise from deep experience. Wait patiently to know that the sense, the occasion and the timing are right. When you are sure, have confidence that the words will be given to you. Faithfulness and sincerity in speaking may open the way to ministry from others.<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, B8</em>',
+
+'Do you sometimes speak too often, too predictably, or too soon after someone else has spoken?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, B9</em>',
+
+'Be sure to take time to reach for the underlying meaning in the spoken ministry of others. Receive it in a tender and understanding spirit, and avoid hurtful criticism. What may seem of little value to one hearer may for another be the direct word of God. Do you accept that in worship God may ask hard questions of you, and challenge you to make difficult decisions?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, B10</em>',
+
+'Do not feel that your ministry must conform to that of others. You may be moved to sing, to dance, or to express something new or different. Are you prepared for worship to bring exhilaration, grieving, passion or mystery? Are you prepared for worship to bring challenge? Are you able to worship even in times of spiritual dryness, when life seems humdrum or you feel lethargic?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, B11</em>',
+
+'Come regularly to Meeting for Worship, especially at those times when you feel angry or tired, or spiritually low. Bring your joys and your hurts, your hopes and your fears, and your awareness of the needs of other people. As you do so, you may find that you see and feel things differently. In the silence ask for and accept the support of others joined with you in worship. Be open to spiritual wholeness encompassing sorrow, suffering and anguish, as well as thankfulness and joy. Prayer, springing from a deep place in the heart, may bring healing and unity as nothing else can. Let Meeting for Worship nourish your whole life.<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, B3</em>',
+
+'Our Meetings for Worship, in which we join together in stillness, are the central activity of the Religious Society of Friends. In our worship, we respond to an awareness of God\'s presence. We seek to find through the stillness and quietness the mysterious and unknown. We can reflect and worship at any time, in any place. From our worship flows guidance for our daily lives. How can you best prepare yourself for worship, in heart, mind and body?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, B1</em>',
+
 'Be earnestly concerned in religious meetings to wait reverently upon the Lord, seeking to worship Him in Spirit and in Truth, and be in the frequent practice of waiting upon the Lord in private, honestly examining yourselves as to your growth in grace.<br /><em>North Carolina Yearly Meeting (Conservative), Advices</em>',
 
 'Worship is our response to an awareness of God. We can worship alone, but when we join with others in expectant waiting we may discover a deeper sense of God\'s presence. We seek a gathered stillness in our meetings for worship so that all may feel the power of God\'s love drawing us together and leading us<br /><em>Britain Yearly Meeting, Advices and Queries, number 8</em>',

@@ -54,7 +54,7 @@
 ================================================== */
 	h1, h2, h3, h4, h5, h6 {
 		color: #fff;
-		font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Segoe UI, Calibri, Arial, sans-serif;
 		font-weight: normal; }
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
 	h1 { font-size: 2em; line-height: 1.1em; margin:10px 0px 10px 0px;}
@@ -123,8 +123,8 @@
 	input[type="submit"],
 	input[type="reset"],
 	input[type="button"] {
-	  background: #ccf;;
-	  border: 2px solid #00f;
+	  background: #e4e4fa;
+	  border: 2px solid #2d2de0;
 	  color: #444;
 	  display: inline-block;
 	  font-size: 11px;
@@ -151,7 +151,7 @@
 	input[type="submit"]:active,
 	input[type="reset"]:active,
 	input[type="button"]:active {
-		border: 1px solid #666;
+	    border: 2px solid #00f;
 		background: #ccc; /* Old browsers */
 		background: #ccc -moz-linear-gradient(top, rgba(255,255,255,.35) 0%, rgba(10,10,10,.4) 100%); /* FF3.6+ */
 		background: #ccc -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,.35)), color-stop(100%,rgba(10,10,10,.4))); /* Chrome,Safari4+ */

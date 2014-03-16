@@ -1,6 +1,12 @@
 // Quaker business
 function updateQuakerBusiness() {
 var strings = [
+'Our Meetings for Business are an integral part of our Quaker life. They are conducted in the spirit of worship. We seek to discern the will of God rather than reach a majority decision or consensus. Listen in the expectation that the right way will become clear. The way that opens may not be the one that seemed obvious to anyone at the start of the Meeting.<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, C1</em>',
+
+'Meeting for Worship for Business is strengthened by having the worshipful consideration of as many people as possible. Do you take your right share in Meeting for Business? Do you uphold the Meeting and its decisions, even if you cannot attend?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, C2</em>',
+
+'Come to Meeting for Business with a willingness to listen to everyone whatever their contribution. Allow your insights and personal wishes to take their place alongside those of others, and if necessary, let them be set aside. Use as few words as possible, but as many as are needed.<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, C3</em>',
+
 'Are your meetings for church affairs held in a spirit of worship and in dependence on the guidance of God? Remember that we do not seek a majority decision nor even consensus. As we wait patiently for divine guidance our experience is that the right way will open and we shall be led into unity.<br /><em>Britain Yearly Meeting, Advices and Queries, number 14</em>',
 
 'Do you take part as often as you can in meetings for church affairs? Are you familiar enough with our church government to contribute to its disciplined processes? Do you consider difficult questions with an informed mind as well as a generous and loving spirit? Are you prepared to let your insights and personal wishes take their place alongside those of others or be set aside as the meeting seeks the right way forward? If you cannot attend, uphold the meeting prayerfully.<br /><em>Britain Yearly Meeting, Advices and Queries, number 15</em>',

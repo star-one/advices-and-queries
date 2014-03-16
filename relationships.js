@@ -1,6 +1,14 @@
 // Relationships
 function updateRelationships() {
 var strings = [
+'A loving relationship brings both fulfilment and tension, and requires long-term commitment. Do you acknowledge and explore personal differences creatively?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, D11</em>',
+
+'Sometimes, despite strong commitment, a relationship comes apart. If this happens to you, are you willing to seek help in understanding the other point of view, and in finding the right way forward? Where children are involved, do you remember their needs and vulnerability and care for them?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, D12</em>',
+
+'Every relationship brings responsibility. Remember the value of prayer, perseverance and a sense of humour. Are you careful to avoid harbouring grudges, exploiting, or belittling other people? Are you sensitive to their needs? Do you enter imaginatively into their experience?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, D9</em>',
+
+'Each individual\'s journey through life is unique. Friends in the Meeting may be in different types of relationships. These may change through choice or circumstance. Ponder on your own choices, and try to understand the choices of others. Are you inclined to make hasty judgements about other people\'s relationships? Do you support others as they work towards making their decisions?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, D8</em>',
+
 'Take care in your relationships with others that you respect and cherish each person, for people of all races and nationalities have that of God within their beings which unites them. Take care also, therefore, to maintain a consistent witness to peace, opposition to war, and to all acts of violence or coercion, that you may remain in accord with the timeless guidance of the Inner Light.<br /><em>North Carolina Yearly Meeting (Conservative), Advices</em>',
 
 'Let early care be taken to advise such as appear inclinable to marry without sufficient reflection; in contemplating the engagement let all look principally to that which will help you on your spiritual journey. Pay filial regard to the judgment of your parents. Bear in mind the vast importance in such a union of an accordance in religious principles and practice. Ask counsel of God, desiring above all temporal considerations that your union may be owned and blessed of Him.<br /><em>North Carolina Yearly Meeting (Conservative), Advices</em>',
@@ -33,7 +41,7 @@ var randomIndex = Math.floor(Math.random() * strings.length);
 
 var randomString = strings[randomIndex];
 
-var relationships = "<h2>Relationships</h2><p>" + randomString + "</p>";
+var relationships = "<h2>Personal relationships</h2><p>" + randomString + "</p>";
 
   var txt=document.getElementById("query")
   txt.innerHTML=relationships;

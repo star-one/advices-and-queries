@@ -1,6 +1,14 @@
 // Lifestyle
 function updateLifestyle() {
 var strings = [
+'Do you strive to understand the challenges and choices offered by modern communications and technology? Do you take into account their impact, positive and negative, on the lives of people and the environment?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, E6</em>',
+
+'Are you careful that your use of financial resources is in accordance with our values of integrity, peace, equality, simplicity, and concern for other people and for the environment?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, E7</em>',
+
+'Be selective in the lifestyle you choose. Take care of your body and your own well-being. Consider the harm you may cause to yourself and others with unhealthy substances or selfish practices. Be aware that the mass media and other social pressures can dull your vision.<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, D13</em>',
+
+'Aim to live simply. A simple lifestyle freely chosen is a source of strength. Value beauty in all its forms. Share what you have.<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, D14</em>',
+
 'Observe simplicity and moderation in your deportment and attire, in the furniture of your houses, and in your manner or style of living.<br /><em>North Carolina Yearly Meeting (Conservative), Advices</em>',
 
 'Are you careful to live within your income? Do you avoid involving yourself in business beyond your ability to manage or in highly speculative ventures? Are you willing to accept a lower economic standard rather than compromise Christian values?<br /><em>Northwest Yearly Meeting, Query 14</em>',

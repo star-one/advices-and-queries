@@ -1,6 +1,10 @@
 // Peace
 function updatePeace() {
 var strings = [
+'Our peace testimony invites us to live “in the virtue of that life and power which takes away the occasion of all wars”. Consider whether your way of life might in some way benefit from or rely on violence. What are you doing to build a more peaceful world?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, E12</em>',
+
+'Seek to recognise in yourself the emotions that lie at the root of conflict. In industrial strife, racial enmity and international tension, work to foster understanding between individuals, groups and nations. Stand firm against people who commit or prepare to commit violence. Seek that of God in those who oppose you.<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, E13</em>',
+
 'We are called to live \'in the virtue of that life and power that takes away the occasion of all wars\'. Do you faithfully maintain our testimony that war and the preparation for war are inconsistent with the spirit of Christ? Search out whatever in your own way of life may contain the seeds of war. Stand firm in our testimony, even when others commit or prepare to commit acts of violence, yet always remember that they too are children of God.<br /><em>Britain Yearly Meeting, Advices & Queries, number 31</em>',
 
 'Bring into God\'s light those emotions, attitudes and prejudices in yourself which lie at the root of destructive conflict, acknowledging your need for forgiveness and grace. In what ways are you involved in the work of reconciliation between individuals, groups and nations?<br /><em>Britain Yearly Meeting, Advices & Queries, number 32</em>',
@@ -22,8 +26,6 @@ var strings = [
 'Do we live in the life and power which takes away the occasion of all wars? Do we, on Christian principles, refuse to participate in or to cooperate with the military effort? Do we work actively for peace and the removal of the causes of war? Do we endeavor to cultivate good will, mutual understanding, and equal opportunities for all people?<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, 6th query</em>',
 
 'Be faithful in maintaining your testimony against all war as inconsistent with the Spirit and teaching of Christ. Live in the Life and Power that takes away the occasions of all wars and strife. Seek to take your part in the ministry of reconciliation between individuals, groups, and nations. Let the law of kindness know no limits. Show a loving consideration for all people.<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 2</em>',
-
-
 ];
 
 var randomIndex = Math.floor(Math.random() * strings.length);
