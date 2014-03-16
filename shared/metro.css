@@ -1,10 +1,14 @@
 #main {
-		margin-left: 10px;
-		margin-right: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 
 #header {
 	background: #222;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding-top: 2px;
+	padding-bottom: 2px;
 }
 
 #site-title {
@@ -25,6 +29,10 @@
 }
 #footer-bar {
 	background: #222;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 	color: #fff;
 }
 
