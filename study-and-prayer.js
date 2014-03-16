@@ -1,6 +1,14 @@
 //  Study and prayer
 function updateStudy() {
 var strings = [
+'The life of the spirit gains depth and vigor through devotional practices, prayer, study and meditation. Take time regularly for individual and family worship, discussions, readings from sacred texts, and other spiritual refreshment in order to live a more centered life and to bring a deeper presence to the Meeting for Worship.<br /><em>Pacific Yearly Meeting, Advices and Queries, Spiritual life, Advices</em>',
+
+'Friends believe that the spiritual path is best found in community. Create opportunities in your Meetings for people of all ages to explore and express their evolving relationship with the Divine, their spiritual highs and their doubts. If different metaphors and language interfere with communication, listen more deeply, honoring the Spirit in which the thought and words have their beginnings.<br /><em>Pacific Yearly Meeting, Advices and Queries, Spiritual life, Advices</em>',
+
+'Do I live in thankful awareness of God’s constant presence in my life? Am I sensitive and obedient to the leadings of the Holy Spirit? When do I take time for contemplation and spiritual refreshment? What steps am I taking to center my life and to stay open to continuing revelation?<br /><em>Pacific Yearly Meeting, Advices and Queries, Spiritual life, Queries for Individuals</em>',
+
+'Do we share our spiritual lives with others in the Meeting, seeking to know one another in that which is eternal? Does the Meeting provide religious education including study of the Bible and Friends’ history and practices?<br /><em>Pacific Yearly Meeting, Advices and Queries, Spiritual life, Queries for the Meeting</em>',
+
 'Prayer springs from a deep place in the heart. The spirit of prayer will be active in a gathered Meeting. Vocal prayer, though it may be expressed in imperfect words, can draw those present into communion with God and with one another.<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, B12',
 
 'Bring everything that concerns you into the light, so that you feel a weakening of what is unworthy in you, and a strengthening of what is good. Accept and support each other in love.<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, B13',

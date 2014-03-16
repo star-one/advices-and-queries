@@ -1,6 +1,20 @@
 // Lifestyle
 function updateLifestyle() {
 var strings = [
+'From early days Friends have opposed gambling and practices based on chance. These activities profit from the inevitable loss of others, promote greed, and conflict with good stewardship. Public lotteries have not furthered their purported benefit to the public good. All addictions are of concern. As the use of alcohol and tobacco all too often entail serious risks to self and others, Friends who serve alcohol at home should be diligent in offering alternatives. Alcohol should not be served at Meeting gatherings.<br /><em>Pacific Yearly Meeting, Advices and Queries, Integrity and Personal Conduct, Advices</em>',
+
+'Find recreation that brings you joy and energy. Be aware of how your choices affect yourself and others.<br /><em>Pacific Yearly Meeting, Advices and Queries, Integrity and Personal Conduct, Advices</em>',
+
+'Is my life so filled with the Spirit that I am free from the misuse of alcohol and other drugs, and of excesses of any kind?<br /><em>Pacific Yearly Meeting, Advices and Queries, Integrity and Personal Conduct, Queries for Individuals</em>',
+ 
+'Life is meant to be lived from a Center, a divine Center... a life of unhurried peace and power. It is simple. It is serene. It takes no time, but it occupies all our time. - Thomas R. Kelly, Testament of Devotion, 1941<br /><em>Pacific Yearly Meeting, Advices and Queries, Simplicity, Advices</em>',
+
+'A life centered in God will be directed toward keeping communication with God open and unencumbered. Simplicity is best achieved through a right ordering of priorities, maintaining humility of spirit, avoiding self-indulgence, resisting the accumulation of unnecessary possessions, and avoiding over-busy lives.<br /><em>Pacific Yearly Meeting, Advices and Queries, Simplicity, Advices</em>',
+
+'Elise Boulding writes in My Part in the Quaker Adventure, \'Simplicity, beauty, and happiness go together if they are a byproduct of a concern for something more important than ourselves\'.<br /><em>Pacific Yearly Meeting, Advices and Queries, Simplicity, Advices</em>',
+
+'Do I center my life in an awareness of God’s presence so that all things take their rightful place? Do I live simply, and promote the right sharing of the world’s bounty? Do I keep my life uncluttered with things and activities, avoiding commitments beyond my strength and light? How do I maintain simplicity, moderation, and honesty in my speech, my manner of living, and my daily work? Do I recognize when I have enough?<br /><em>Pacific Yearly Meeting, Advices and Queries, Simplicity, Queries for Individuals</em>',
+
 'Do you strive to understand the challenges and choices offered by modern communications and technology? Do you take into account their impact, positive and negative, on the lives of people and the environment?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, E6</em>',
 
 'Are you careful that your use of financial resources is in accordance with our values of integrity, peace, equality, simplicity, and concern for other people and for the environment?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, E7</em>',

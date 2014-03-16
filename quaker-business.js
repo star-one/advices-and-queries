@@ -1,6 +1,18 @@
 // Quaker business
 function updateQuakerBusiness() {
 var strings = [
+'Come to Meeting with hearts and minds prepared to be open and faithful to the leadings of the Spirit. Then the conduct of business will lead to truth, unity, and love.<br /><em>Pacific Yearly Meeting, Advices and Queries, Meeting for Worship for Business, Advices</em>',
+
+'When a matter is before the Meeting for Business, each person present contributes to the corporate search for a decision that accords with the will of God. Inaction is a form of action. Silent worship in the Meeting for Business contributes to the process of achieving unity.<br /><em>Pacific Yearly Meeting, Advices and Queries, Meeting for Worship for Business, Advices</em>',
+
+'Listen attentively to others’ words and use the silence between messages to reflect carefully on what you might contribute. When you are clear, speak simply what is in your heart, without repeating what has already been offered.While making your insights clear, lay aside personal opinions and attend to what God requires.<br /><em>Pacific Yearly Meeting, Advices and Queries, Meeting for Worship for Business, Advices</em>',
+
+'Do I attend Meeting for Business regularly? Do I speak in Meeting for Business only when I am led to speak?<br /><em>Pacific Yearly Meeting, Advices and Queries, Meeting for Worship for Business, Queries for Individuals</em>',
+
+'Is the Meeting for Business held as a Meeting for Worship in which we seek divine guidance for our actions? Are we tender and considerate of different views, coming to a decision only when we have found unity? Do we give prayerful support for our clerks that they may be sensitive to the movement of the Spirit among us?<br /><em>Pacific Yearly Meeting, Advices and Queries, Meeting for Worship for Business, Queries for the Meeting</em>',
+
+'Is the life of our Meeting so ordered that it helps us to simplify our lives?<br /><em>Pacific Yearly Meeting, Advices and Queries, Simplicity, Queries for the Meeting</em>',
+
 'Our Meetings for Business are an integral part of our Quaker life. They are conducted in the spirit of worship. We seek to discern the will of God rather than reach a majority decision or consensus. Listen in the expectation that the right way will become clear. The way that opens may not be the one that seemed obvious to anyone at the start of the Meeting.<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, C1</em>',
 
 'Meeting for Worship for Business is strengthened by having the worshipful consideration of as many people as possible. Do you take your right share in Meeting for Business? Do you uphold the Meeting and its decisions, even if you cannot attend?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, C2</em>',
@@ -26,8 +38,6 @@ var strings = [
 'Every meeting to keep records of births, or of burials of the dead that died in the Lord. Burials to be conducted according to scripture, and not after customs of \"heathen.\"<br /><em>Advices from the Elders at Balby (1656), advice number 8</em>',
 
 'Have we built unity for important steps of faith, asking for church-wide prayer and congregational feedback?<br /><em>Evangelical Friends Church Southwest, Leaders Accountability Questions, number 4</em>',
-
-
 ];
 
 var randomIndex = Math.floor(Math.random() * strings.length);

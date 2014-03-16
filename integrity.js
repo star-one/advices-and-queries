@@ -1,6 +1,16 @@
 // Integrity
 function updateIntegrity() {
 var strings = [
+'Take a strong stand against any form of abuse, whether that abuse is minor or severe, and whether it is emotional, physical or sexual in nature. The terrible impact of abuse on the most vulnerable members of our families creates lifelong suffering for its victims and is a major source of violence in our society. Perpetrators are themselves usually victims of similar violence and should be approached with compassion as well as firmness.<br /><em>Pacific Yearly Meeting, Advices and Queries, Personal Relationships, Advices</em>',
+
+'Integrity has always been a goal of Friends. It is essential to trust, to all communication between people and between people and God. Integrity grounds our beliefs, thoughts, and actions in our spiritual center and makes us whole.<br /><em>Pacific Yearly Meeting, Advices and Queries, Integrity and Personal Conduct, Advices</em>',
+
+'Friends believe that we are called to speak the truth. A single standard of truth requires us to conduct ourselves in ways that are honest, direct, and plain, and to make our choices, both large and small, in accord with the urgings of the Spirit. It follows that we object to taking an oath, which presupposes a variable standard of truth. Be true to your word.<br /><em>Pacific Yearly Meeting, Advices and Queries, Integrity and Personal Conduct, Advices</em>',
+
+'How do I strive to maintain the integrity of my inner and outer lives? Do I act on my principles even when this entails difficult consequences? Am I honest and truthful in all that I say and do, even when a compromise might be easier or more popular? Am I reflective about the ways I gain my wealth and income and sensitive to their impacts on others?<br /><em>Pacific Yearly Meeting, Advices and Queries, Integrity and Personal Conduct, Queries for Individuals</em>',
+
+'Do we, in our Meeting, hold ourselves accountable to one another as do members of a healthy family?<br /><em>Pacific Yearly Meeting, Advices and Queries, Integrity and Personal Conduct, Queries for the Meeting</em>',
+
 'We have a testimony to integrity, which includes honesty and plain speaking. Be utterly scrupulous both in personal relationships and in dealings with businesses and government departments or other public bodies. Do not be afraid to speak the truth as you discern it, with firmness and respect. Taking oaths sets a double standard of truth; ask to affirm instead.<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, E3</em>',
 
 'Corruption and destructiveness can grow from very small seeds, as can courage and loving kindness. Consider the words you use, and your tone of voice. Do you refrain from verbal and psychological violence? When people attack you with angry words, do you listen for the underlying hurt?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, D10</em>',

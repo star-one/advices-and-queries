@@ -1,6 +1,14 @@
 // Equality and social justice
 function updateEquality() {
 var strings = [
+'In the words of William Penn, \'True godliness don’t draw men out of the world, but enables them to live better in it and excites their endeavors to mend it\'. Elsewhere he commented: \'It is a reproach to religion and government to suffer so much poverty and excess\'.<br /><em>Pacific Yearly Meeting, Advices and Queries, Social and Civic Responsibility, Advices</em>',
+
+'Poverty within a wealthy society is unjust, cruel, and often linked to skin color, gender, and language. We must examine our own privilege and role in the economic order that deepens this disparity. Friends should be alert to oppression and injustice, and persistent in working against them.<br /><em>Pacific Yearly Meeting, Advices and Queries, Social and Civic Responsibility, Advices</em>',
+
+'How do we attend to the suffering of others in our local community, in our state and nation, and in the world community?
+
+'Do we try to understand the causes of suffering, and do we address them as a Meeting? How do we, individually and as a Meeting, support the organizations that work to bring the testimonies of Friends into reality in our society?<br /><em>Pacific Yearly Meeting, Advices and Queries, Social and Civic Responsibility, Queries for the Meeting</em>',
+
 'Do not be content to accept society as it is. Seek to discover the causes of social unrest, injustice, poverty and fear. Bear witness to the humanity of all people. Try to discern the new growing points in society. Are you alert to practices here and throughout the world that discriminate against people on the basis of who or what they are or because of their beliefs? Do you work for a social, constitutional and economic order which will allow each person to develop fully and cooperation by all?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, E8</em>',
 
 'Remember our obligation to honour the status of Maori as the indigenous people of Aotearoa and partners in the Treaty of Waitangi. Seek to discover the effects of the colonial and postcolonial history of Aotearoa. Work to ensure that the sharing of power and resources in our society is a genuine partnership. Do you acknowledge the values that the Maori world can offer? How can we work together as equals, with mutual understanding and respect?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, E9</em>',

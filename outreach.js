@@ -1,6 +1,16 @@
 // Outreach
 function updateOutreach() {
 var strings = [
+'Friends fellowship begins and is nurtured within the home and Meeting. It reaches greater fulfillment as we carry our beliefs into the wider community.<br /><em>Pacific Yearly Meeting, Advices and Queries, Reaching Out, Advices</em>',
+
+'Share your Quaker faith. Take time to learn about other people’s experiences of the Light and, as you learn, give freely from what you have gained. Respect the experiences and opinions of others, but do not be afraid to say what you value. Welcome the diversity of culture, language, and expressions of faith in your Monthly Meeting, the Yearly Meeting, and the world community of Friends. Encourage discourse with Friends of pastoral and programmed traditions, and with members of other faiths.<br /><em>Pacific Yearly Meeting, Advices and Queries, Reaching Out, Advices</em>',
+
+'Friends have a long history of involvement in public and private education, sharing our values with the world and nurturing future generations. Be mindful of the needs of children in your community and of avenues for deepening understanding between peoples.<br /><em>Pacific Yearly Meeting, Advices and Queries, Reaching Out, Advices</em>',
+
+'How does my life reflect Friends beliefs and thus encourage others to be interested in the Religious Society of Friends? Do I respond openly to inquiries about Quaker experience and belief?<br /><em>Pacific Yearly Meeting, Advices and Queries, Reaching Out, Queries for Individuals</em>',
+
+'What does our Meeting do to make others aware of Friends principles and practices?<br /><em>Pacific Yearly Meeting, Advices and Queries, Reaching Out, Queries for the Meeting</em>',
+ 
 'Do you fulfil your part as a religious society and as individuals in promoting the cause of Truth and in spreading the message of Christ throughout the world?<br /><em>Ireland Yearly Meeting, Queries for Serious Consideration, number 11</em>',
 
 'Do you, as the way opens, share Friends\' principles with non-Friends? Do you witness to your Quaker faith by letting your life speak? Do you make non-Friends welcome in your meetings for worship? Do you find ways to encourage their continued attendance?<br /><em>Baltimore Yearly Meeting, The Queries, number 8</em>',

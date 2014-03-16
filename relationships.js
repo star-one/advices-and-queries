@@ -1,6 +1,12 @@
 // Relationships
 function updateRelationships() {
 var strings = [
+'Are my sexual practices consistent with my spiritual beliefs and free of manipulation and exploitation? What barriers keep me from responding openly and lovingly to each person?<br /><em>Pacific Yearly Meeting, Advices and Queries, Personal Relationships, Queries for Individuals</em>',
+
+'In daily relationships with others, both inside and outside the home, our lives as Friends speak immediately and lastingly. In these relationships, our faith may also be severely tested.We are called to respond to that of God in everyone: we are all children of God. Friends celebrate any union that is dedicated to mutual love and respect, regardless of the unique make-up of the family.We strive to create homes where the Spirit of the Divine resides at the center and where the individual genius of each member is respected and nurtured.<br /><em>Pacific Yearly Meeting, Advices and Queries, Personal Relationships, Advices</em>',
+
+'Human sexuality is a divine gift, forming part of the complex union of body, mind and spirit that is our humanity. In a loving adult relationship in a context of mutual responsibility, sexuality brings delight, fulfillment and celebration.<br /><em>Pacific Yearly Meeting, Advices and Queries, Personal Relationships, Advices</em>',
+ 
 'A loving relationship brings both fulfilment and tension, and requires long-term commitment. Do you acknowledge and explore personal differences creatively?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, D11</em>',
 
 'Sometimes, despite strong commitment, a relationship comes apart. If this happens to you, are you willing to seek help in understanding the other point of view, and in finding the right way forward? Where children are involved, do you remember their needs and vulnerability and care for them?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, D12</em>',

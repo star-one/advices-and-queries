@@ -1,6 +1,22 @@
 // Community
 function updateCommunity() {
 var strings = [
+'Meetings for Worship and Business are the center of our spiritual community. There, as we come to know each other in the Spirit, we build the \'beloved community\'.<br /><em>Pacific Yearly Meeting, Advices and Queries, The Meeting Community, Advices</em>',
+
+'Mutual respect and care in the Meeting form the foundation from which we can test, support, and exercise leadings of the Spirit. At its best, the Meeting community provides a framework for us to learn and practice mutual care, which strengthens us as we act in the world.<br /><em>Pacific Yearly Meeting, Advices and Queries, The Meeting Community, Advices</em>',
+
+'All members of the Meeting community should share in the care of one another.While respecting privacy, we must be aware of and sensitive to each other\'s needs. We must also be willing to ask for assistance when we are in need.<br /><em>Pacific Yearly Meeting, Advices and Queries, The Meeting Community, Advices</em>',
+
+'Do I strive to be inclusive in my relationships within the Meeting? Do I care for the reputation of others, refraining from gossip or disparaging remarks? Am I committed to the difficult work of forgiveness, and affirming God\'s love for the whole community?<br /><em>Pacific Yearly Meeting, Advices and Queries, The Meeting Community, Queries for Individuals</em>',
+
+'How are love and unity maintained among us? Do we practice the art of listening, even beyond words? How have we been sensitive to the personal needs and difficulties of members and attenders, young and old? Do we visit one another in our homes and keep in touch with distant members?<br /><em>Pacific Yearly Meeting, Advices and Queries, The Meeting Community, Queries for the Meeting</em>',
+ 
+'Do we open our thoughts, beliefs, and deep understandings to our children and others who share our lives and our hospitality? Do we provide our children and young adults with a framework for active, ongoing participation in the Meeting?<br /><em>Pacific Yearly Meeting, Advices and Queries, Personal Relationships, Queries for the Meeting</em>',
+
+'Do I make my home a place of friendliness, joy, and peace, where residents and visitors feel God’s presence?<br /><em>Pacific Yearly Meeting, Advices and Queries, Personal Relationships, Queries for Individuals</em>',
+
+'What are we doing to help people of various races, cultures, and backgrounds feel at home among us and we among them? How do we encourage newcomers to return and participate in activities of the Meeting?<br /><em>Pacific Yearly Meeting, Advices and Queries, Reaching Out, Queries for the Meeting</em>',
+
 'How can you make your home a place of friendship,refreshment and laughter, a peaceable place where the Spirit becomes more real to all who are there? Do you recognise the needs and gifts of each member of your family and household, including your own?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, D15</em>',
 
 'In our local Meeting, how can we build a community in which each person is accepted and nurtured, and newcomers are welcomed?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, D3</em>',

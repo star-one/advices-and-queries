@@ -1,7 +1,17 @@
 // Peace
 function updatePeace() {
 var strings = [
-'Our peace testimony invites us to live “in the virtue of that life and power which takes away the occasion of all wars”. Consider whether your way of life might in some way benefit from or rely on violence. What are you doing to build a more peaceful world?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, E12</em>',
+'Friends oppose all war as inconsistent with God\'s will. As every person is a child of God, we recognize God\'s Light also in our adversaries. Violence and injustice deny this reality and violate the teachings of Jesus and other prophets.<br /><em>Pacific Yearly Meeting, Advices and Queries, Peace, Advices</em>',
+
+'Friends challenge their governments and take personal risks in the cause of peace.We urge one another to refuse to participate in war as soldiers, or as arms manufacturers.We seek ways to support those who refrain from paying taxes that support war. We work to end violence within our own borders, our homes, our streets, and our communities. We support international order, justice, and understanding.<br /><em>Pacific Yearly Meeting, Advices and Queries, Peace, Advices</em>',
+
+'Become an instrument of peace. At every opportunity, be peacemakers in your homes, workplaces and communities. Steep yourself in the power of the universal Spirit. Examine your actions for the seeds of violence, degradation and destructiveness. Overcome the emotions that lie at the root of violence and nurture instead a spirit of reconciliation and love. Come to know the oneness of all creation and oppose the destruction of the natural world.<br /><em>Pacific Yearly Meeting, Advices and Queries, Peace, Advices</em>',
+
+'Do I live in the virtue of that life and power that takes away the occasion of all wars? How do I nourish peace within myself as I work for peace in the world? Do I confront violence wherever it occurs, even when my personal relationships are involved? Where there is distrust, injustice, or hatred, how am I an instrument of reconciliation and love?<br /><em>Pacific Yearly Meeting, Advices and Queries, Peace, Queries for Individuals</em>',
+
+'What are we doing to remove the causes of war and destruction of the planet, and to bring about lasting peace? Do we reach out to all parties in a conflict with courage and love?<br /><em>Pacific Yearly Meeting, Advices and Queries, Peace, Queries for the Meeting</em>',
+ 
+'Our peace testimony invites us to live \'in the virtue of that life and power which takes away the occasion of all wars\'. Consider whether your way of life might in some way benefit from or rely on violence. What are you doing to build a more peaceful world?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, E12</em>',
 
 'Seek to recognise in yourself the emotions that lie at the root of conflict. In industrial strife, racial enmity and international tension, work to foster understanding between individuals, groups and nations. Stand firm against people who commit or prepare to commit violence. Seek that of God in those who oppose you.<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, E13</em>',
 

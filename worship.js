@@ -1,6 +1,16 @@
 // Worship
 function updateWorship() {
 var strings = [
+'The heart of the Religious Society of Friends is the Meeting for Worship. In direct communion with God, we offer ourselves for God’s will. Our daily lives are linked with the Meeting for Worship, the Meeting for Worship with our daily lives.<br /><em>Pacific Yearly Meeting, Advices and Queries, Meeting for Worship, Advices</em>',
+
+'Come regularly to Meeting for Worship, even when you are angry, tired, or spiritually cold. Bring your joys and your hurts, and the needs of other people. Accept and support each other in the community where God dwells among us. As you do so, you may find the grace of prayer.<br /><em>Pacific Yearly Meeting, Advices and Queries, Meeting for Worship, Advices</em>',
+
+'At times the Spirit may prompt you to speak in Meeting. Wait patiently to know that the sense and the time are right. When you are sure, have confidence that the words will be given to you. Listen to the ministry of others with an open spirit. If it is not God’s word for you, it may be for others. After a message has been given, allow time to ponder its meaning and to let the Meeting return to silent worship. In speech and in silence, each person contributes to the Meeting.<br /><em>Pacific Yearly Meeting, Advices and Queries, Meeting for Worship, Advices</em>',
+
+'Do I come to Meeting with heart and mind prepared for worship? In both silent and vocal ministry, do I respond to the leadings of the Holy Spirit, without pre-arrangement and in simplicity and truth? Am I careful not to speak at undue length or beyond personal spiritual experience?<br /><em>Pacific Yearly Meeting, Advices and Queries, Meeting for Worship, Queries for Individuals</em>',
+
+'Do we meet in expectant waiting for the promptings of the Divine Spirit? Are we drawn together in a living silence by the power of God in our midst?<br /><em>Pacific Yearly Meeting, Advices and Queries, Meeting for Worship, Queries for the Meeting</em>',
+
 'Even the mundane and the everyday can be performed as a form of worship.<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, B14</em>',
 
 'All of us are at times preoccupied and distracted in Meeting. Accept these wanderings and then release them so that you can move towards the still centre of your own being and find the unity of the Meeting.<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, B6</em>',

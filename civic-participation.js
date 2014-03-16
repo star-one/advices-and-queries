@@ -1,6 +1,12 @@
 // Civic participation
 function updateCivic() {
 var strings = [
+'We value our part in shaping the laws of our country. Our task is to see that laws serve God\'s purposes and build a just social order. Our first allegiance should be to God, and if this conflicts with any compulsion of the state, we serve our country best by remaining true to our higher loyalty.<br /><em>Pacific Yearly Meeting, Advices and Queries, Social and Civic Responsibility, Advices</em>',
+
+'If, by divine leading, our attention is focused on a law that is contrary to God\'s law, we must proceed with care. Before acting, Friends should pray for further guidance and speak with the Meeting, family members, and all those who might be affected by the decision. If a decision involves disobedience to the law, we should make the grounds of our action clear to all concerned and be prepared to suffer any penalties without evasion. As a community, we must care for those who suffer for conscience\'s sake.<br /><em>Pacific Yearly Meeting, Advices and Queries, Social and Civic Responsibility, Advices</em>',
+
+'What am I doing to carry my share of responsibility for the government of our community, nation, and world? Am I persistent in my efforts to promote constructive change?<br /><em>Pacific Yearly Meeting, Advices and Queries, Social and Civic Responsibility, Queries for Individuals</em>',
+
 'Remember your responsibility as citizens of Aotearoa for the government of our country and for its relations with other countries, particularly our neighbours in the South Pacific. How can we help our nation to promote international peace, justice and care for the earth?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, E10</em>',
 
 'Obey the laws of the state, except when they conflict with your inner conviction. Work to amend laws that you consider unjust. If you feel called to civil disobedience, seek the guidance and support of your Meeting. Be prepared to accept the consequences cheerfully.<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, E4</em>',
