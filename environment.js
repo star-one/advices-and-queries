@@ -1,6 +1,16 @@
 // The environment
 function updateEnvironment() {
 var strings = [
+'Preserving the quality of life on Earth calls forth all of our spiritual resources. Listening to and heeding the leadings of the Holy Spirit can help us develop qualities which enable us to become more sensitive to all life.<br /><em>Great Plains Yearly Meeting, Advices and Queries, Stewardship</em>',
+
+'We do not own the world, and its riches are not ours to dispose of at will. Show a loving consideration for all creatures, and seek to maintain the beauty and variety of the world. Work to ensure that our increasing power over nature is used responsibly, with reverence for life. Rejoice in the splendour of God’s continuing creation.<br /><em>Great Plains Yearly Meeting, Advices and Queries, Stewardship</em>',
+
+'Are we concerned that humanity\'s increasing power over nature should not be used irresponsibly, but with the reverence for life and with a sense of the splendor of God\'s continuing creation?<br /><em>Great Plains Yearly Meeting, Advices and Queries, Stewardship</em>',
+
+'Do we endeavor to live in harmony with nature? Are we careful in our stewardship of the world\'s irreplaceable resources?<br /><em>Great Plains Yearly Meeting, Advices and Queries, Stewardship</em>',
+
+'How can we nurture reverence and respect for life? How can we become more fully aware of our interdependent relationship with the rest of creation?<br /><em>Great Plains Yearly Meeting, Advices and Queries, Stewardship</em>',
+
 'It would go a long way to caution and direct people in their use of the world, that they were better studied and knowing in the Creation of it. For how could [they] find the confidence to abuse it, while they should see the Great Creator stare them in the face, in all and every part thereof? - William Penn, Some Fruits of Solitude, 1693<br /><em>Pacific Yearly Meeting, Advices and Queries, Harmony with Creation, Advices</em>',
 
 'God is revealed in all Creation. We humans belong to the whole interdependent community of life on earth. Rejoice in the beauty, complexity, and mystery of creation, with gratitude to be part of its unfolding. Take time to learn how this community of life is organized and how it interacts. Live according to principles of right relationship and right action within this larger whole.<br /><em>Pacific Yearly Meeting, Advices and Queries, Harmony with Creation, Advices</em>',

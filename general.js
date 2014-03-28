@@ -1,6 +1,8 @@
 // General
 function updateGeneral() {
 var strings = [
+'Use vigilant care, dear Friends, not to overlook those promptings of love and truth which you may feel in your hearts; for these are the tender leadings of the Spirit of God. Nor should any of us resist God\'s workings within us, for it is His redemptive love which strives to show us our darkness, and to lead us to true repentance, and to His marvelous light. \"Behold, I stand at the door and knock: if any man hear my voice and open the door, I will come in to him, and will sup with him, and he with me\" (Rev. 3:20).<br /><em>Great Plains Yearly Meeting, Advices and Queries, Truth</em>',
+
 'Be faithful to your experience of the Spirit, in whatever way it has come to you. Carry it into your daily life. Do what love requires of you, which may not be the same as great busyness.<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, D2</em>',
 
 'You can gain inspiration from people of all ages whom you meet throughout your life and also from the example of people throughout history, including the present day. You can find inspiration all around, in the natural world, in the arts and sciences, in your work and friendships, in your sorrows as well as in your joys. Are you open to new light from whatever source it may come? Do you approach new ideas with discernment?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, A8</em>',

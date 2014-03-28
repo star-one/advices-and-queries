@@ -1,6 +1,14 @@
 // Integrity
 function updateIntegrity() {
 var strings = [
+'When asked to swear to the truthfulness of our statements, are we careful to witness to Christ\'s command that we swear not at all, but be honest in all things? Do we avoid gambling and speculation based on the principles of chance?<br /><em>Great Plains Yearly Meeting, Advices and Queries, Truth</em>',
+
+'Regard the taking of oaths as contrary to the teachings of Christ, and setting up a double standard of truthfulness; whereas sincerity and truth should be practiced in all walks of life.<br /><em>Great Plains Yearly Meeting, Advices and Queries, Truth</em>',
+
+'Let your whole conduct and conversation be worthy of disciples of Christ. \"Be ye steadfast, unmovable, always abounding in the work of the Lord, forasmuch as ye know that your labor is not in vain in the Lord\" (1 Cor. 15:58).<br /><em>Great Plains Yearly Meeting, Advices and Queries, Truth</em>',
+
+'Do we observe simplicity and honesty in our manner of living? Are we careful to live within the bounds of our circumstances, punctual in keeping promises, prompt in the payment of debts, and just in all our dealings? Do we choose those activities which will strengthen our physical, mental, and spiritual life; and do we avoid those harmful to ourselves and others?<br /><em>Great Plains Yearly Meeting, Advices and Queries, Simplicity</em>',
+
 'Take a strong stand against any form of abuse, whether that abuse is minor or severe, and whether it is emotional, physical or sexual in nature. The terrible impact of abuse on the most vulnerable members of our families creates lifelong suffering for its victims and is a major source of violence in our society. Perpetrators are themselves usually victims of similar violence and should be approached with compassion as well as firmness.<br /><em>Pacific Yearly Meeting, Advices and Queries, Personal Relationships, Advices</em>',
 
 'Integrity has always been a goal of Friends. It is essential to trust, to all communication between people and between people and God. Integrity grounds our beliefs, thoughts, and actions in our spiritual center and makes us whole.<br /><em>Pacific Yearly Meeting, Advices and Queries, Integrity and Personal Conduct, Advices</em>',

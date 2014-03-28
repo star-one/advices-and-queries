@@ -1,7 +1,11 @@
 // Equality and social justice
 function updateEquality() {
 var strings = [
-'In the words of William Penn, \'True godliness don’t draw men out of the world, but enables them to live better in it and excites their endeavors to mend it\'. Elsewhere he commented: \'It is a reproach to religion and government to suffer so much poverty and excess\'.<br /><em>Pacific Yearly Meeting, Advices and Queries, Social and Civic Responsibility, Advices</em>',
+'Do you speak out for justice and morality, and against oppression, exploitation, and public wrong? Do you recognize the equality of persons regardless of race, gender, or economic status?<br /><em>Great Plains Yearly Meeting, Advices and Queries, Equality</em>',
+
+'Do we reverence that of God in every human being with concern for the needs of each individual? Are we seeking to rectify existing social injustice and racial discrimination in our local communities and in the world at large?<br /><em>Great Plains Yearly Meeting, Advices and Queries, Equality</em>',
+
+'In the words of William Penn, \'True godliness doesn\'t draw men out of the world, but enables them to live better in it and excites their endeavors to mend it\'. Elsewhere he commented: \'It is a reproach to religion and government to suffer so much poverty and excess\'.<br /><em>Pacific Yearly Meeting, Advices and Queries, Social and Civic Responsibility, Advices</em>',
 
 'Poverty within a wealthy society is unjust, cruel, and often linked to skin color, gender, and language. We must examine our own privilege and role in the economic order that deepens this disparity. Friends should be alert to oppression and injustice, and persistent in working against them.<br /><em>Pacific Yearly Meeting, Advices and Queries, Social and Civic Responsibility, Advices</em>',
 

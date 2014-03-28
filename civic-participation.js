@@ -1,6 +1,8 @@
 // Civic participation
 function updateCivic() {
 var strings = [
+'Do you exercise your civic responsibilities and support acceptable legislation? Do you pray for those in authority? Are you careful to avoid defrauding the public treasury? In or out of court do you affirm instead of taking oaths?<br /><em>Great Plains Yearly Meeting, Advices and Queries, Truth</em>',
+
 'We value our part in shaping the laws of our country. Our task is to see that laws serve God\'s purposes and build a just social order. Our first allegiance should be to God, and if this conflicts with any compulsion of the state, we serve our country best by remaining true to our higher loyalty.<br /><em>Pacific Yearly Meeting, Advices and Queries, Social and Civic Responsibility, Advices</em>',
 
 'If, by divine leading, our attention is focused on a law that is contrary to God\'s law, we must proceed with care. Before acting, Friends should pray for further guidance and speak with the Meeting, family members, and all those who might be affected by the decision. If a decision involves disobedience to the law, we should make the grounds of our action clear to all concerned and be prepared to suffer any penalties without evasion. As a community, we must care for those who suffer for conscience\'s sake.<br /><em>Pacific Yearly Meeting, Advices and Queries, Social and Civic Responsibility, Advices</em>',

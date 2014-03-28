@@ -1,6 +1,10 @@
 // Peace
 function updatePeace() {
 var strings = [
+'Be faithful in maintaining your testimony against all war as inconsistent with the Spirit and teaching of Christ. Live in the Life and Power that takes away the occasions of all wars and strife. Seek to take your part in the ministry of reconciliation between individuals, groups, and nations. Let the law of kindness know no limits. Show a loving consideration for all people.<br /><em>Great Plains Yearly Meeting, Advices and Queries, Peace</em>',
+
+'Do we live in the life and power which takes away the occasion of all wars? Do we, on Christian principles, refuse to participate in or to cooperate with the military effort? Do we work actively for peace and the removal of the causes of war? Do we endeavor to cultivate good will, mutual understanding, and equal opportunities for all people?<br /><em>Great Plains Yearly Meeting, Advices and Queries, Peace</em>',
+
 'Friends oppose all war as inconsistent with God\'s will. As every person is a child of God, we recognize God\'s Light also in our adversaries. Violence and injustice deny this reality and violate the teachings of Jesus and other prophets.<br /><em>Pacific Yearly Meeting, Advices and Queries, Peace, Advices</em>',
 
 'Friends challenge their governments and take personal risks in the cause of peace.We urge one another to refuse to participate in war as soldiers, or as arms manufacturers.We seek ways to support those who refrain from paying taxes that support war. We work to end violence within our own borders, our homes, our streets, and our communities. We support international order, justice, and understanding.<br /><em>Pacific Yearly Meeting, Advices and Queries, Peace, Advices</em>',

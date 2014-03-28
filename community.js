@@ -1,6 +1,10 @@
 // Community
 function updateCommunity() {
 var strings = [
+'Do we cherish a forgiving spirit, and strive to "walk in love, as Christ also hath loved us"? Is each one of us careful for the reputation of others? Are we ever mindful to love our neighbor as ourselves? If differences threaten to disrupt the Christian harmony between the members, is prompt action taken?<br /><em>Great Plains Yearly Meeting, Advices and Queries, Peace</em>',
+
+'As followers of Christ do you love and respect each other? Do patience and consideration govern your interactions; and when differences arise, do you resolve them promptly in a spirit of forgiveness and understanding? Are you careful with the reputation of others?<br /><em>Great Plains Yearly Meeting, Advices and Queries, Equality</em>',
+
 'Meetings for Worship and Business are the center of our spiritual community. There, as we come to know each other in the Spirit, we build the \'beloved community\'.<br /><em>Pacific Yearly Meeting, Advices and Queries, The Meeting Community, Advices</em>',
 
 'Mutual respect and care in the Meeting form the foundation from which we can test, support, and exercise leadings of the Spirit. At its best, the Meeting community provides a framework for us to learn and practice mutual care, which strengthens us as we act in the world.<br /><em>Pacific Yearly Meeting, Advices and Queries, The Meeting Community, Advices</em>',

@@ -1,6 +1,12 @@
 // Lifestyle
 function updateLifestyle() {
 var strings = [
+'Be on your guard, dear Friends, lest the love of pleasure take too strong a hold upon you. Choose such recreations as are pure and healthful. Let them be in harmony with your service to God and man; and in that service be ready at any time to lay them aside when called upon.<br /><em>Great Plains Yearly Meeting, Advices and Queries, Simplicity</em>',
+
+'Try to live simply. A simple lifestyle freely chosen is a source of strength. Do not be persuaded into buying what you do not need or cannot afford.<br /><em>Great Plains Yearly Meeting, Advices and Queries, Simplicity</em>',
+
+'Do we regard our possessions as given to us in trust, and do we part with them freely for the needs of others?<br /><em>Great Plains Yearly Meeting, Advices and Queries, Simplicity</em>',
+
 'From early days Friends have opposed gambling and practices based on chance. These activities profit from the inevitable loss of others, promote greed, and conflict with good stewardship. Public lotteries have not furthered their purported benefit to the public good. All addictions are of concern. As the use of alcohol and tobacco all too often entail serious risks to self and others, Friends who serve alcohol at home should be diligent in offering alternatives. Alcohol should not be served at Meeting gatherings.<br /><em>Pacific Yearly Meeting, Advices and Queries, Integrity and Personal Conduct, Advices</em>',
 
 'Find recreation that brings you joy and energy. Be aware of how your choices affect yourself and others.<br /><em>Pacific Yearly Meeting, Advices and Queries, Integrity and Personal Conduct, Advices</em>',
