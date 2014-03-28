@@ -1,6 +1,8 @@
 // Equality and social justice
 function updateEquality() {
 var strings = [
+'Have we honored and protected those neglected by society – the unborn, poor, prisoners, orphans, widows, abandoned, disabled, disadvantaged, addicted, institutionalized, homeless, and/or hungry? Since we cannot do everything, have we done something?<br /><em>Evangelical Friends Church Southwest, Congregation Accountability Questions, 6</em>',
+
 'Do you speak out for justice and morality, and against oppression, exploitation, and public wrong? Do you recognize the equality of persons regardless of race, gender, or economic status?<br /><em>Great Plains Yearly Meeting, Advices and Queries, Equality</em>',
 
 'Do we reverence that of God in every human being with concern for the needs of each individual? Are we seeking to rectify existing social injustice and racial discrimination in our local communities and in the world at large?<br /><em>Great Plains Yearly Meeting, Advices and Queries, Equality</em>',

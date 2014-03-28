@@ -1,6 +1,8 @@
 // Civic participation
 function updateCivic() {
 var strings = [
+'Have we prayed for those in authority? Have we encouraged people to vote and to carry out civic responsibilities in the name of Christ?<br /><em>Evangelical Friends Church Southwest, Congregation Accountability Questions, 13</em>',
+
 'Do you exercise your civic responsibilities and support acceptable legislation? Do you pray for those in authority? Are you careful to avoid defrauding the public treasury? In or out of court do you affirm instead of taking oaths?<br /><em>Great Plains Yearly Meeting, Advices and Queries, Truth</em>',
 
 'We value our part in shaping the laws of our country. Our task is to see that laws serve God\'s purposes and build a just social order. Our first allegiance should be to God, and if this conflicts with any compulsion of the state, we serve our country best by remaining true to our higher loyalty.<br /><em>Pacific Yearly Meeting, Advices and Queries, Social and Civic Responsibility, Advices</em>',

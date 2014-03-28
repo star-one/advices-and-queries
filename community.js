@@ -1,6 +1,14 @@
 // Community
 function updateCommunity() {
 var strings = [
+'Have we honored the counsel of our elders and pastors? When we were not in unity, did we find the mind of Christ through discussion and prayer rather than through politicking and voting?<br /><em>Evangelical Friends Church Southwest, Congregation Accountability Questions, 9</em>',
+
+'Have we encouraged and built each other up, speaking only what is helpful? Have we resolved conflict effectively by avoiding gossip and encouraging critics to talk with the right person in the right spirit?<br /><em>Evangelical Friends Church Southwest, Congregation Accountability Questions, 10</em>',
+
+'Have we encouraged people in the church to use their spiritual gifts and to work together in teams for the cause of Christ?<br /><em>Evangelical Friends Church Southwest, Congregation Accountability Questions, 11</em>',
+ 
+'Have we honored our pastors and staff with love and appreciation, making their ministry a joy, not a drudgery?<br /><em>Evangelical Friends Church Southwest, Congregation Accountability Questions, 8</em>',
+
 'Do we cherish a forgiving spirit, and strive to "walk in love, as Christ also hath loved us"? Is each one of us careful for the reputation of others? Are we ever mindful to love our neighbor as ourselves? If differences threaten to disrupt the Christian harmony between the members, is prompt action taken?<br /><em>Great Plains Yearly Meeting, Advices and Queries, Peace</em>',
 
 'As followers of Christ do you love and respect each other? Do patience and consideration govern your interactions; and when differences arise, do you resolve them promptly in a spirit of forgiveness and understanding? Are you careful with the reputation of others?<br /><em>Great Plains Yearly Meeting, Advices and Queries, Equality</em>',

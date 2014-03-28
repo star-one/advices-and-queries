@@ -1,6 +1,10 @@
 //  Study and prayer
 function updateStudy() {
 var strings = [
+'Have we taught and practiced spiritual disciplines – Bible reading, prayer, fasting, witnessing, service, worship, silence, solitude?<br /><em>Evangelical Friends Church Southwest, Congregation Accountability Questions, 7</em>',
+
+'Has our congregational life together revealed an intense desire to obey the written and living word of God?<br /><em>Evangelical Friends Church Southwest, Congregation Accountability Questions, 3</em>',
+
 'The life of the spirit gains depth and vigor through devotional practices, prayer, study and meditation. Take time regularly for individual and family worship, discussions, readings from sacred texts, and other spiritual refreshment in order to live a more centered life and to bring a deeper presence to the Meeting for Worship.<br /><em>Pacific Yearly Meeting, Advices and Queries, Spiritual life, Advices</em>',
 
 'Friends believe that the spiritual path is best found in community. Create opportunities in your Meetings for people of all ages to explore and express their evolving relationship with the Divine, their spiritual highs and their doubts. If different metaphors and language interfere with communication, listen more deeply, honoring the Spirit in which the thought and words have their beginnings.<br /><em>Pacific Yearly Meeting, Advices and Queries, Spiritual life, Advices</em>',

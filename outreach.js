@@ -1,6 +1,10 @@
 // Outreach
 function updateOutreach() {
 var strings = [
+'Have we prayed publicly and often for God to send out workers from among us into his harvest fields?<br /><em>Evangelical Friends Church Southwest, Congregation Accountability Questions, 5</em>',
+
+'Have we witnessed effectively for Christ through our church\'s events, programs, retreats, camps, and organized evangelistic efforts? Have we assimilated new believers into our fellowship and helped them grow in the faith and knowledge of our Lord Jesus Christ?<br /><em>Evangelical Friends Church Southwest, Congregation Accountability Questions, 1</em>',
+
 'Make it your aim to promote the cause of truth and righteousness, and to spread the Kingdom of God at home and abroad. Be ready to take your part fearlessly in declaring His message and in witnessing to His power.<br /><em>Great Plains Yearly Meeting, Advices and Queries, Truth</em>',
 
 'Friends fellowship begins and is nurtured within the home and Meeting. It reaches greater fulfillment as we carry our beliefs into the wider community.<br /><em>Pacific Yearly Meeting, Advices and Queries, Reaching Out, Advices</em>',

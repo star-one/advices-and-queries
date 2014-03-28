@@ -1,6 +1,8 @@
 // Quaker business
 function updateQuakerBusiness() {
 var strings = [
+'Have we called for dedication to God of our time, talent and treasure, offering control of our money and our resources to Christ?<br /><em>Evangelical Friends Church Southwest, Congregation Accountability Questions, 12</em>',
+
 'Come to Meeting with hearts and minds prepared to be open and faithful to the leadings of the Spirit. Then the conduct of business will lead to truth, unity, and love.<br /><em>Pacific Yearly Meeting, Advices and Queries, Meeting for Worship for Business, Advices</em>',
 
 'When a matter is before the Meeting for Business, each person present contributes to the corporate search for a decision that accords with the will of God. Inaction is a form of action. Silent worship in the Meeting for Business contributes to the process of achieving unity.<br /><em>Pacific Yearly Meeting, Advices and Queries, Meeting for Worship for Business, Advices</em>',

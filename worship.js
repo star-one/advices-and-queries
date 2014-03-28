@@ -1,6 +1,10 @@
 // Worship
 function updateWorship() {
 var strings = [
+'Have we spent time in silent listening to the Holy Spirit in both personal and corporate worship?<br /><em>Evangelical Friends Church Southwest, Congregation Accountability Questions, 4</em>',
+
+'Have we built loyalty for placing weekly worship as a higher priority than pleasure, youth sports, business or recreation? Have we encouraged our people to worship and serve in one congregation rather than becoming consumers of programs offered by different churches?<br /><em>Evangelical Friends Church Southwest, Congregation Accountability Questions, 2</em>',
+
 'The heart of the Religious Society of Friends is the Meeting for Worship. In direct communion with God, we offer ourselves for God’s will. Our daily lives are linked with the Meeting for Worship, the Meeting for Worship with our daily lives.<br /><em>Pacific Yearly Meeting, Advices and Queries, Meeting for Worship, Advices</em>',
 
 'Come regularly to Meeting for Worship, even when you are angry, tired, or spiritually cold. Bring your joys and your hurts, and the needs of other people. Accept and support each other in the community where God dwells among us. As you do so, you may find the grace of prayer.<br /><em>Pacific Yearly Meeting, Advices and Queries, Meeting for Worship, Advices</em>',
