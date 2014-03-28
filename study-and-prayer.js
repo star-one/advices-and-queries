@@ -1,6 +1,8 @@
 //  Study and prayer
 function updateStudy() {
 var strings = [
+'Let all read the Holy Scriptures frequently, and be careful neither to misquote nor misapply them.<br /><em>Rocky Mountain Yearly Meeting, Advices to Ministers and Elders, 2</em>',
+
 'Have we taught and practiced spiritual disciplines – Bible reading, prayer, fasting, witnessing, service, worship, silence, solitude?<br /><em>Evangelical Friends Church Southwest, Congregation Accountability Questions, 7</em>',
 
 'Has our congregational life together revealed an intense desire to obey the written and living word of God?<br /><em>Evangelical Friends Church Southwest, Congregation Accountability Questions, 3</em>',

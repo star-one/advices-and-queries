@@ -1,6 +1,8 @@
 // Community
 function updateCommunity() {
 var strings = [
+'Are ministers and elders in unity one with another, and with the meetings to which they belong? manifesting a religious concern for the advancement of truth, and the support of our discipline?<br /><em>Rocky Mountain Yearly Meeting, Queries for Ministers and Elders, 3</em>',
+
 'Have we honored the counsel of our elders and pastors? When we were not in unity, did we find the mind of Christ through discussion and prayer rather than through politicking and voting?<br /><em>Evangelical Friends Church Southwest, Congregation Accountability Questions, 9</em>',
 
 'Have we encouraged and built each other up, speaking only what is helpful? Have we resolved conflict effectively by avoiding gossip and encouraging critics to talk with the right person in the right spirit?<br /><em>Evangelical Friends Church Southwest, Congregation Accountability Questions, 10</em>',

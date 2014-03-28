@@ -1,6 +1,16 @@
 // Worship
 function updateWorship() {
 var strings = [
+'Are ministers, in the exercise of their gifts, careful to wait for divine ability? and are they sound in word and doctrine?<br /><em>Rocky Mountain Yearly Meeting, Queries for Ministers and Elders, 2</em>',
+
+'Are ministers and elders diligent in the attendance of meetings for worship and discipline; and concerned to encourage their families to that religious duty?<br /><em>Rocky Mountain Yearly Meeting, Queries for Ministers and Elders, 1</em>',
+
+'Let all be careful not to hurt their service by tones, avoiding all affectation, and those gestures, which do not comport with Christian gravity.<br /><em>Rocky Mountain Yearly Meeting, Advices to Ministers and Elders, 5</em>',
+
+'Let all be cautious of interrupting the solemnity of meetings, by unnecessary additions towards the conclusion.<br /><em>Rocky Mountain Yearly Meeting, Advices to Ministers and Elders, 4</em>',
+
+'Let all, in their testimonies, be cautious of using unnecessary preambles, and of asserting too positively a divine impulse; the baptizing power of truth accompanying their words, being the true evidence.<br /><em>Rocky Mountain Yearly Meeting, Advices to Ministers and Elders, 1</em>',
+
 'Have we spent time in silent listening to the Holy Spirit in both personal and corporate worship?<br /><em>Evangelical Friends Church Southwest, Congregation Accountability Questions, 4</em>',
 
 'Have we built loyalty for placing weekly worship as a higher priority than pleasure, youth sports, business or recreation? Have we encouraged our people to worship and serve in one congregation rather than becoming consumers of programs offered by different churches?<br /><em>Evangelical Friends Church Southwest, Congregation Accountability Questions, 2</em>',

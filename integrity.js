@@ -1,6 +1,12 @@
 // Integrity
 function updateIntegrity() {
 var strings = [
+'Are ministers and elders good examples in uprightness, temperance, and moderation, and careful to train up their families in plainness of dress and simplicity of manners, becoming our religious profession?<br /><em>Rocky Mountain Yearly Meeting, Queries for Ministers and Elders, 4</em>',
+
+'And, lastly, let all dwell in that which gives ability to labor successfully in the Church of Christ, adorning the doctrine they deliver to others, being examples of the believers, in word, in conversation, in charity, in spirit, in faith, and in purity.<br /><em>Rocky Mountain Yearly Meeting, Advices to Ministers and Elders, 6</em>',
+
+'Let ministers be careful how they enter upon disputed points in their testimony; or of making such objections as they do not clearly answer.<br /><em>Rocky Mountain Yearly Meeting, Advices to Ministers and Elders, 3</em>',
+
 'When asked to swear to the truthfulness of our statements, are we careful to witness to Christ\'s command that we swear not at all, but be honest in all things? Do we avoid gambling and speculation based on the principles of chance?<br /><em>Great Plains Yearly Meeting, Advices and Queries, Truth</em>',
 
 'Regard the taking of oaths as contrary to the teachings of Christ, and setting up a double standard of truthfulness; whereas sincerity and truth should be practiced in all walks of life.<br /><em>Great Plains Yearly Meeting, Advices and Queries, Truth</em>',
