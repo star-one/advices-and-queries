@@ -1,6 +1,6 @@
 #main {
-	margin-left: 10px;
-	margin-right: 10px;
+	padding: 10px;
+	background: #fff;
 }
 
 #header {
@@ -132,4 +132,24 @@ padding: 0;
 #left-menu .current_page_item a {
 /*	background: #163963;
 	color:#FFFFFF; */
+}
+
+/* Media queries for landscape / portrait in order to fulfill Apple's requirements for it to fill the screen of an iPad */
+
+@media all and (min-width: 700px) {
+	#about-portrait {
+		display: none;
+	}
+	#about-landscape {
+		display: block;
+	}
+}
+
+@media all and (max-width: 699px) {
+	#about-portrait {
+		display: block;
+	}
+	#about-landscape {
+		display: none;
+	}
 }

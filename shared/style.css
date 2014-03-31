@@ -42,8 +42,8 @@
 /* #Basic Styles
 ================================================== */
 	body {
-		background: #fff;
-		font: 15px/22px Georgia, "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+		background: #222;
+		font: 16px/24px Georgia, "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 		color: #444;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
