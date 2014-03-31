@@ -4,7 +4,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "uk.org.star-one.advices"
-        version   = "2.1.1">
+        version   = "2.1.2">
 
     <name>Quaker Advices and Queries</name>
 
@@ -48,7 +48,8 @@
     <!-- Core plugins -->
     <gap:plugin name="org.apache.cordova.device-orientation" />
     <gap:plugin name="org.apache.cordova.inappbrowser" />
-
+	<gap:plugin name="nl.x-services.plugins.socialsharing" />
+	
 <!--    <gap:plugin name="org.apache.cordova.battery-status" />
     <gap:plugin name="org.apache.cordova.device" />
     <gap:plugin name="org.apache.cordova.device-motion" />
