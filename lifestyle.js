@@ -17,9 +17,7 @@ var strings = [
 
 'A life centered in God will be directed toward keeping communication with God open and unencumbered. Simplicity is best achieved through a right ordering of priorities, maintaining humility of spirit, avoiding self-indulgence, resisting the accumulation of unnecessary possessions, and avoiding over-busy lives.<br /><em>Pacific Yearly Meeting, Advices and Queries, Simplicity, Advices</em>',
 
-'Elise Boulding writes in My Part in the Quaker Adventure, \'Simplicity, beauty, and happiness go together if they are a byproduct of a concern for something more important than ourselves\'.<br /><em>Pacific Yearly Meeting, Advices and Queries, Simplicity, Advices</em>',
-
-'Do I center my life in an awareness of God’s presence so that all things take their rightful place? Do I live simply, and promote the right sharing of the world’s bounty? Do I keep my life uncluttered with things and activities, avoiding commitments beyond my strength and light? How do I maintain simplicity, moderation, and honesty in my speech, my manner of living, and my daily work? Do I recognize when I have enough?<br /><em>Pacific Yearly Meeting, Advices and Queries, Simplicity, Queries for Individuals</em>',
+'Do I center my life in an awareness of God's presence so that all things take their rightful place? Do I live simply, and promote the right sharing of the world's bounty? Do I keep my life uncluttered with things and activities, avoiding commitments beyond my strength and light? How do I maintain simplicity, moderation, and honesty in my speech, my manner of living, and my daily work? Do I recognize when I have enough?<br /><em>Pacific Yearly Meeting, Advices and Queries, Simplicity, Queries for Individuals</em>',
 
 'Do you strive to understand the challenges and choices offered by modern communications and technology? Do you take into account their impact, positive and negative, on the lives of people and the environment?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, E6</em>',
 
@@ -102,4 +100,6 @@ var lifestyle = "<h2>Lifestyle</h2><p>" + randomString + "</p>";
   txt.innerHTML=lifestyle;
   
   scroll(0,0)
+
+return randomString;
 }

@@ -24,4 +24,6 @@ var death = "<h2>Death and old age</h2><p>" + randomString + "</p>";
   txt.innerHTML=death;
   
   scroll(0,0)
+
+return randomString;
 }

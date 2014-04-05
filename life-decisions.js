@@ -36,4 +36,6 @@ var life_decisions = "<h2>Life decisions</h2><p>" + randomString + "</p>";
   txt.innerHTML=life_decisions;
   
   scroll(0,0)
+
+return randomString;
 }

@@ -22,4 +22,6 @@ var concern = "<h2>Acting under Concern</h2><p>" + randomString + "</p>";
   txt.innerHTML=concern;
   
   scroll(0,0)
+
+return randomString;
 }

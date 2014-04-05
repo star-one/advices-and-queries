@@ -35,7 +35,7 @@
 	 <script src="./study-and-prayer.js"></script>
 	 <script src="./worship.js"></script>
   </head>
-  <body onLoad="updateGeneral()">
+  <body onLoad="sharetext = updateGeneral()">
       <div id="page" class="hfeed">
         <div id="top-bar">
           <div id="header">
@@ -64,35 +64,38 @@
 	    </div>
 		<div id="buttons">
 		  <div>
-	      <button onClick="updateGeneral()">General</button>
+	      <button onClick="sharetext = updateGeneral()">General</button>
 		  </div>
 		  <div>
-	      <button onClick="updateConcern()">Acting under Concern</button>
-	      <button onClick="updateChildren()">Children and family</button>
-	      <button onClick="updateCivic()">Civic participation</button>
-	      <button onClick="updateCommunity()">Community</button>
-	      <button onClick="updateDeath()">Death and old age</button>
-	      <button onClick="updateDiversity()">Diversity</button>
-	      <button onClick="updateEnvironment()">The environment</button>
-	      <button onClick="updateEquality()">Equality and social justice</button>
-	      <button onClick="updateIntegrity()">Integrity</button>
-	      <button onClick="updateInterchurch()">Interchurch and interfaith</button>
-	      <button onClick="updateJesus()">Jesus</button>
-	      <button onClick="updateLife()">Life decisions</button>
-	      <button onClick="updateLifestyle()">Lifestyle</button>
-	      <button onClick="updateOutreach()">Outreach</button>
-	      <button onClick="updatePeace()">Peace</button>
-	      <button onClick="updateRelationships()">Personal relationships</button>
-	      <button onClick="updateQuakerBusiness()">Quaker business</button>
-	      <button onClick="updateStudy()">Study and prayer</button>
+	      <button onClick="sharetext = updateConcern()">Acting under Concern</button>
+	      <button onClick="sharetext = updateChildren()">Children and family</button>
+	      <button onClick="sharetext = updateCivic()">Civic participation</button>
+	      <button onClick="sharetext = updateCommunity()">Community</button>
+	      <button onClick="sharetext = updateDeath()">Death and old age</button>
+	      <button onClick="sharetext = updateDiversity()">Diversity</button>
+	      <button onClick="sharetext = updateEnvironment()">The environment</button>
+	      <button onClick="sharetext = updateEquality()">Equality and social justice</button>
+	      <button onClick="sharetext = updateIntegrity()">Integrity</button>
+	      <button onClick="sharetext = updateInterchurch()">Interchurch and interfaith</button>
+	      <button onClick="sharetext = updateJesus()">Jesus</button>
+	      <button onClick="sharetext = updateLife()">Life decisions</button>
+	      <button onClick="sharetext = updateLifestyle()">Lifestyle</button>
+	      <button onClick="sharetext = updateOutreach()">Outreach</button>
+	      <button onClick="sharetext = updatePeace()">Peace</button>
+	      <button onClick="sharetext = updateRelationships()">Personal relationships</button>
+	      <button onClick="sharetext = updateQuakerBusiness()">Quaker business</button>
+	      <button onClick="sharetext = updateStudy()">Study and prayer</button>
 	      <button onClick="sharetext = updateWorship();">Worship</button>
 		  </div>
 		  <div>
-		  <button onclick="window.plugins.socialsharing.share(sharetext)">share!</button>
+		  <script>
+		  sharetext = sharetext.textContent || sharetext.innerText;
+		  </script>
+		  <button onclick="window.plugins.socialsharing.share(sharetext)">Share this quote</button>
 		  </div>
 		  <hr />
 		  <div id="about-portrait">
-		  <input type="button" value="About this app" onClick="updateAbout()" />
+		  <button onClick="updateAbout()">About this app</button>
           </div>
           <div id="about-landscape">
           <h2>About this app</h2>

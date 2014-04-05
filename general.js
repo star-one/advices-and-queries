@@ -1,6 +1,8 @@
 // General
 function updateGeneral() {
 var strings = [
+'Elise Boulding writes in My Part in the Quaker Adventure, \'Simplicity, beauty, and happiness go together if they are a byproduct of a concern for something more important than ourselves\'.<br /><em>Pacific Yearly Meeting, Advices and Queries, Simplicity, Advices</em>',
+
 'Use vigilant care, dear Friends, not to overlook those promptings of love and truth which you may feel in your hearts; for these are the tender leadings of the Spirit of God. Nor should any of us resist God\'s workings within us, for it is His redemptive love which strives to show us our darkness, and to lead us to true repentance, and to His marvelous light. \"Behold, I stand at the door and knock: if any man hear my voice and open the door, I will come in to him, and will sup with him, and he with me\" (Rev. 3:20).<br /><em>Great Plains Yearly Meeting, Advices and Queries, Truth</em>',
 
 'Be faithful to your experience of the Spirit, in whatever way it has come to you. Carry it into your daily life. Do what love requires of you, which may not be the same as great busyness.<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, D2</em>',
@@ -78,4 +80,6 @@ var general = "<h2>General</h2><p>" + randomString + "</p>";
   txt.innerHTML=general;
   
   scroll(0,0)
+
+return randomString;
 }

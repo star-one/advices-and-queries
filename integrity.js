@@ -78,4 +78,6 @@ var integrity = "<h2>Integrity</h2><p>" + randomString + "</p>";
   txt.innerHTML=integrity;
   
   scroll(0,0)
+
+return randomString;
 }

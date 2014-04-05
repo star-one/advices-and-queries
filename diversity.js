@@ -26,4 +26,6 @@ var diversity = "<h2>Diversity</h2><p>" + randomString + "</p>";
   txt.innerHTML=diversity;
   
   scroll(0,0)
+
+return randomString;
 }

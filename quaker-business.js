@@ -7,7 +7,7 @@ var strings = [
 
 'When a matter is before the Meeting for Business, each person present contributes to the corporate search for a decision that accords with the will of God. Inaction is a form of action. Silent worship in the Meeting for Business contributes to the process of achieving unity.<br /><em>Pacific Yearly Meeting, Advices and Queries, Meeting for Worship for Business, Advices</em>',
 
-'Listen attentively to others’ words and use the silence between messages to reflect carefully on what you might contribute. When you are clear, speak simply what is in your heart, without repeating what has already been offered.While making your insights clear, lay aside personal opinions and attend to what God requires.<br /><em>Pacific Yearly Meeting, Advices and Queries, Meeting for Worship for Business, Advices</em>',
+'Listen attentively to others' words and use the silence between messages to reflect carefully on what you might contribute. When you are clear, speak simply what is in your heart, without repeating what has already been offered.While making your insights clear, lay aside personal opinions and attend to what God requires.<br /><em>Pacific Yearly Meeting, Advices and Queries, Meeting for Worship for Business, Advices</em>',
 
 'Do I attend Meeting for Business regularly? Do I speak in Meeting for Business only when I am led to speak?<br /><em>Pacific Yearly Meeting, Advices and Queries, Meeting for Worship for Business, Queries for Individuals</em>',
 
@@ -52,4 +52,6 @@ var quaker_business = "<h2>Quaker business</h2><p>" + randomString + "</p>";
   txt.innerHTML=quaker_business;
   
   scroll(0,0)
+
+return randomString;
 }

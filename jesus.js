@@ -20,4 +20,6 @@ var jesus = "<h2>Jesus</h2><p>" + randomString + "</p>";
   txt.innerHTML=jesus;
   
   scroll(0,0)
+
+return randomString;
 }

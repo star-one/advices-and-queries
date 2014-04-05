@@ -52,4 +52,6 @@ var relationships = "<h2>Personal relationships</h2><p>" + randomString + "</p>"
   txt.innerHTML=relationships;
   
   scroll(0,0)
+
+return randomString;
 }

@@ -27,7 +27,7 @@ var strings = [
  
 'Do we open our thoughts, beliefs, and deep understandings to our children and others who share our lives and our hospitality? Do we provide our children and young adults with a framework for active, ongoing participation in the Meeting?<br /><em>Pacific Yearly Meeting, Advices and Queries, Personal Relationships, Queries for the Meeting</em>',
 
-'Do I make my home a place of friendliness, joy, and peace, where residents and visitors feel God’s presence?<br /><em>Pacific Yearly Meeting, Advices and Queries, Personal Relationships, Queries for Individuals</em>',
+'Do I make my home a place of friendliness, joy, and peace, where residents and visitors feel God's presence?<br /><em>Pacific Yearly Meeting, Advices and Queries, Personal Relationships, Queries for Individuals</em>',
 
 'What are we doing to help people of various races, cultures, and backgrounds feel at home among us and we among them? How do we encourage newcomers to return and participate in activities of the Meeting?<br /><em>Pacific Yearly Meeting, Advices and Queries, Reaching Out, Queries for the Meeting</em>',
 
@@ -104,4 +104,6 @@ var community = "<h2>Community</h2><p>" + randomString + "</p>";
   txt.innerHTML=community;
   
   scroll(0,0)
+
+return randomString;
 }

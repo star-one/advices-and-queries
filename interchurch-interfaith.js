@@ -16,4 +16,6 @@ var interchurch = "<h2>Interchurch and interfaith</h2><p>" + randomString + "</p
   txt.innerHTML=interchurch;
   
   scroll(0,0)
+
+return randomString;
 }

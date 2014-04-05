@@ -44,4 +44,6 @@ var equality = "<h2>Equality and social justice</h2><p>" + randomString + "</p>"
   txt.innerHTML=equality;
   
   scroll(0,0)
+
+return randomString;
 }
