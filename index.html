@@ -89,7 +89,8 @@
 		  </div>
 		  <div>
 		  <script>
-		  sharetext = sharetext.textContent || sharetext.innerText;
+		  sharetext = sharetext.replace("<br /><em>", " - ");
+		  sharetext = sharetext.replace("</em>", "");
 		  </script>
 		  <button onclick="window.plugins.socialsharing.share(sharetext)">Share this quote</button>
 		  </div>
