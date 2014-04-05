@@ -87,18 +87,17 @@
 	      <button onClick="sharetext = updateStudy()">Study and prayer</button>
 	      <button onClick="sharetext = updateWorship();">Worship</button>
 		  </div>
-		  <div>
 		  <script>
-		  sharetext = sharetext.replace("<br /><em>", " - ");
-		  sharetext = sharetext.replace("</em>", "");
+		  sharetext1 = sharetext.replace("<br /><em>", " - ");
+		  sharetext = sharetext1.replace("</em>", "");
 		  </script>
-		  <button onclick="window.plugins.socialsharing.share(sharetext)">Share this quote</button>
-		  </div>
 		  <hr />
 		  <div id="about-portrait">
+		  <button onclick="window.plugins.socialsharing.share(sharetext)">Share this quote</button>
 		  <button onClick="updateAbout()">About this app</button>
           </div>
           <div id="about-landscape">
+		  <button onclick="window.plugins.socialsharing.share(sharetext)">Share this quote</button>
           <h2>About this app</h2>
           <h3>Purpose</h3>
           <p>
