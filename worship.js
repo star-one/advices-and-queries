@@ -109,5 +109,5 @@ txt.innerHTML=worship;
   
 scroll(0,0)
 
-return randomstring;
+return randomString;
 }
