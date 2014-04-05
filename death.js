@@ -25,5 +25,8 @@ var death = "<h2>Death and old age</h2><p>" + randomString + "</p>";
   
   scroll(0,0)
 
-return randomString;
+sharetext = randomString.replace("<br /><em>", " - ");
+sharetext = sharetext.replace("</em>", "");
+
+return sharetext;
 }

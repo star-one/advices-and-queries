@@ -101,5 +101,8 @@ var lifestyle = "<h2>Lifestyle</h2><p>" + randomString + "</p>";
   
   scroll(0,0)
 
-return randomString;
+sharetext = randomString.replace("<br /><em>", " - ");
+sharetext = sharetext.replace("</em>", "");
+
+return sharetext;
 }
