@@ -59,8 +59,7 @@ var strings = [
 
 'Be zealous that education shall be continued throughout life. Willingness to be used in mind as well as in body, and to be equipped in both, is a needful part of Christian character. Our service to God is incomplete without the contribution of the intellect.<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 19</em>',
 
-'Let all read the Holy Scriptures frequently, and be careful to seek for Divine guidance in interpreting their meaning.<br /><em>Ohio Yearly Meeting (Conservative), Advices for the Meetings for Ministry & Oversight, number 3</em>',
-
+'Let all read the Holy Scriptures frequently, and be careful to seek for Divine guidance in interpreting their meaning.<br /><em>Ohio Yearly Meeting (Conservative), Advices for the Meetings for Ministry & Oversight, number 3</em>'
 ];
 
 var randomIndex = Math.floor(Math.random() * strings.length);

@@ -65,7 +65,7 @@ var strings = [
 
 'We are in awe of the accelerating development of scientific knowledge, and mindful of both the benefits and the horrors this may bring. Let us remember that the universe shown to us by the sciences is a divine gift, and not turn away from our responsibility to consider the implications of scientific and technical discoveries.<br /><em>Australia Yearly Meeting, Advices and Queries, number 8</em>',
 
-'We live in a land of unique grandeur and beauty, harsh and majestic, but at the same time fragile. Have you discovered its wonder and mystery, and has this awareness quickened your spiritual insight and helped you to recognise that of God in everyday life? Rejoice in the splendour of God\'s continuing Creation.<br /><em>Australia Yearly Meeting, Advices and Queries, number 47</em>',
+'We live in a land of unique grandeur and beauty, harsh and majestic, but at the same time fragile. Have you discovered its wonder and mystery, and has this awareness quickened your spiritual insight and helped you to recognise that of God in everyday life? Rejoice in the splendour of God\'s continuing Creation.<br /><em>Australia Yearly Meeting, Advices and Queries, number 47</em>'
 ];
 
 var randomIndex = Math.floor(Math.random() * strings.length);

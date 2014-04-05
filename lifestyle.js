@@ -89,9 +89,7 @@ var strings = [
 
 'Carefully maintain truthfulness and sincerity in your conduct, and encourage the same in your families. In your style of living, in your dress, and in the furniture of your houses, choose what is simple, useful, and good.<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 10</em>',
 
-'In view of the evils arising from the use of tobacco and intoxicating drinks, we urge all to abstain from using them, from offering them to others, and from having any part in their production, manufacture, or sale. Do not let the claims of "good fellowship" or the fear of seeming peculiar prevent you from standing by principles which you have conscientiously adopted.<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 11</em>',
-
-
+'In view of the evils arising from the use of tobacco and intoxicating drinks, we urge all to abstain from using them, from offering them to others, and from having any part in their production, manufacture, or sale. Do not let the claims of "good fellowship" or the fear of seeming peculiar prevent you from standing by principles which you have conscientiously adopted.<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 11</em>'
 ];
 
 var randomIndex = Math.floor(Math.random() * strings.length);

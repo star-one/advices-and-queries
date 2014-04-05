@@ -13,7 +13,7 @@ var strings = [
 
 'Do you respect that of God in every person? Do you search yourself for and strive to eliminate prejudices such as those related to race, religion, gender, age, sexual orientation and economic condition? In what ways do you accept and appreciate differences among your friends and associates? Do you avoid exploiting or manipulating others to accomplish ends, however worthy?<br /><em>Baltimore Yearly Meeting, The Queries, number 7</em>',
 
-'Within our own, and in neighbouring countries, people of goodwill seek to know and to worship God in ways other than those of Christianity. Do we listen to their insights with open hearts and minds, recognizing that we do not possess all the Truth, but only a part of it? Do we think of these neighbours with acceptance? Do we seek knowledge and understanding of their beliefs and the Light which is theirs?<br /><em>Australia Yearly Meeting, Advices and Queries, number 35</em>',
+'Within our own, and in neighbouring countries, people of goodwill seek to know and to worship God in ways other than those of Christianity. Do we listen to their insights with open hearts and minds, recognizing that we do not possess all the Truth, but only a part of it? Do we think of these neighbours with acceptance? Do we seek knowledge and understanding of their beliefs and the Light which is theirs?<br /><em>Australia Yearly Meeting, Advices and Queries, number 35</em>'
 ];
 
 var randomIndex = Math.floor(Math.random() * strings.length);

@@ -39,7 +39,7 @@ var strings = [
 
 'Every meeting to keep records of births, or of burials of the dead that died in the Lord. Burials to be conducted according to scripture, and not after customs of \"heathen.\"<br /><em>Advices from the Elders at Balby (1656), advice number 8</em>',
 
-'Have we built unity for important steps of faith, asking for church-wide prayer and congregational feedback?<br /><em>Evangelical Friends Church Southwest, Leaders Accountability Questions, number 4</em>',
+'Have we built unity for important steps of faith, asking for church-wide prayer and congregational feedback?<br /><em>Evangelical Friends Church Southwest, Leaders Accountability Questions, number 4</em>'
 ];
 
 var randomIndex = Math.floor(Math.random() * strings.length);

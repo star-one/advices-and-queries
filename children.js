@@ -39,9 +39,7 @@ var strings = [
 
 'Be mindful for yourselves and for your children that you value the beauty and power of good friendships. Also, by example and precept, encourage your children to appreciate the best in literature and the arts, which is consistent with our Christian faith. By this, all your lives may be enriched and the youth with tastes thus early formed may henceforth instinctively choose the beautiful and good.<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 17</em>',
 
-'Are we sufficiently thoughtful for the spiritual awakening of the youth in our meetings? Do we concern ourselves in helping them develop and consecrate their various talents, and do we make an effort to provide opportunity for the Christian exercise of their gifts in the meeting and the community?<br /><em>Ohio Yearly Meeting (Conservative), Queries for the Meetings for Ministry & Oversight, number 4</em>',
-
-
+'Are we sufficiently thoughtful for the spiritual awakening of the youth in our meetings? Do we concern ourselves in helping them develop and consecrate their various talents, and do we make an effort to provide opportunity for the Christian exercise of their gifts in the meeting and the community?<br /><em>Ohio Yearly Meeting (Conservative), Queries for the Meetings for Ministry & Oversight, number 4</em>'
 ];
 
 var randomIndex = Math.floor(Math.random() * strings.length);

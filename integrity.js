@@ -65,9 +65,7 @@ var strings = [
 
 'Regard the taking of oaths as contrary to the teachings of Christ, and setting up a double standard of truthfulness; whereas sincerity and truth should be practiced in all walks of life.<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 3</em>',
 
-'Let your whole conduct and conversation be worthy of disciples of Christ. \"Be ye steadfast, unmovable, always abounding in the work of the Lord, forasmuch as ye know that your labor is not in vain in the Lord\" (1 Cor. 15:58)<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 26</em>',
-
-
+'Let your whole conduct and conversation be worthy of disciples of Christ. \"Be ye steadfast, unmovable, always abounding in the work of the Lord, forasmuch as ye know that your labor is not in vain in the Lord\" (1 Cor. 15:58)<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 26</em>'
 ];
 
 var randomIndex = Math.floor(Math.random() * strings.length);

@@ -95,8 +95,7 @@ var strings = [
 
 'Let all, in their spoken testimonies, be cautious of using unnecessary preambles, and of asserting too positively a Divine impulse--the baptizing power of Truth accompanying their words being the true evidence.<br /><em>Ohio Yearly Meeting (Conservative), Advices for the Meetings for Ministry & Oversight, number 2</em>',
 
-'Let all be cautious of interrupting the solemnity of the meeting by too frequent speaking or by unnecessary additions toward the conclusion of their addresses.<br /><em>Ohio Yearly Meeting (Conservative), Advices for the Meetings for Ministry & Oversight, number 5</em>',
-
+'Let all be cautious of interrupting the solemnity of the meeting by too frequent speaking or by unnecessary additions toward the conclusion of their addresses.<br /><em>Ohio Yearly Meeting (Conservative), Advices for the Meetings for Ministry & Oversight, number 5</em>'
 ];
 
 var randomIndex = Math.floor(Math.random() * strings.length);
@@ -105,8 +104,10 @@ var randomString = strings[randomIndex];
 
 var worship = "<h2>Worship</h2><p>" + randomString + "</p>";
 
-  var txt=document.getElementById("query")
-  txt.innerHTML=worship;
+var txt=document.getElementById("query")
+txt.innerHTML=worship;
   
-  scroll(0,0)
+scroll(0,0)
+
+return randomstring;
 }

@@ -85,11 +85,11 @@
 	      <button onClick="updateRelationships()">Personal relationships</button>
 	      <button onClick="updateQuakerBusiness()">Quaker business</button>
 	      <button onClick="updateStudy()">Study and prayer</button>
-	      <button onClick="updateWorship()">Worship</button>
+	      <button onClick="sharetext = updateWorship()">Worship</button>
 		  </div>
-<!--		  <div>
-		  <button onclick="window.plugins.socialsharing.share('My message')">share!</button>
-		  </div> -->
+		  <div>
+		  <button onclick="window.plugins.socialsharing.share(sharetext)">share!</button>
+		  </div>
 		  <hr />
 		  <div id="about-portrait">
 		  <input type="button" value="About this app" onClick="updateAbout()" />

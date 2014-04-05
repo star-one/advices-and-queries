@@ -11,7 +11,7 @@ var strings = [
 
 'Members are affectionately reminded of the importance of keeping correct and clear accounts pertaining to all outward affairs. It is important to make wills, or revisions of them, while still in health of mind and body, and free from any feeling of resentment. Delay, or neglect to secure competent legal advice, may cause some unexpected hindrance in the proper execution of one\'s bequests.<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 12</em>',
 
-'In bereavement, allow yourself to grieve fully. Allow others to mourn: let your caring embrace them. Through our acceptance of the fact of death, we are freed to live more fully. Are you able to contemplate your own death, and the death of those closest to you?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, D19</em>',
+'In bereavement, allow yourself to grieve fully. Allow others to mourn: let your caring embrace them. Through our acceptance of the fact of death, we are freed to live more fully. Are you able to contemplate your own death, and the death of those closest to you?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, D19</em>'
 ];
 
 var randomIndex = Math.floor(Math.random() * strings.length);

@@ -7,7 +7,7 @@ var strings = [
 
 'The Religious Society of Friends is rooted in Christianity and has always found inspiration in the life and teachings of Jesus. How do you interpret your faith in the light of this heritage? How does Jesus speak to you today? Are you following Jesus\' example of love in action? Are you learning from his life the reality and cost of obedience to God? How does his relationship with God challenge and inspire you?<br /><em>Britain Yearly Meeting, Advices and Queries, number 4',
 
-'Have you given Christ control of all your activities, entertainment and imagination?<br /><em>Evangelical Friends Church Southwest, Individual Accountability Questions, number 3</em>',
+'Have you given Christ control of all your activities, entertainment and imagination?<br /><em>Evangelical Friends Church Southwest, Individual Accountability Questions, number 3</em>'
 ];
 
 var randomIndex = Math.floor(Math.random() * strings.length);

@@ -39,8 +39,7 @@ var strings = [
 
 'Are we sensitive to the problems of family living? Do we offer counseling to couples both before and after marriage? How are we helping individuals, married couples and family units to strengthen and enrich their lives?<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, 9th query</em>',
 
-'In consideration of marriage, remember that happiness depends on a deep and understanding love. Seek to be joined in a common discipleship of Jesus Christ. Ask guidance of God, desiring above all temporal considerations, that your union may be owned and blest of Him. Consider the precious responsibilities of parenthood, and do not forget the help you may draw from the loving counsel of your own parents.<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 9</em>',
-
+'In consideration of marriage, remember that happiness depends on a deep and understanding love. Seek to be joined in a common discipleship of Jesus Christ. Ask guidance of God, desiring above all temporal considerations, that your union may be owned and blest of Him. Consider the precious responsibilities of parenthood, and do not forget the help you may draw from the loving counsel of your own parents.<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 9</em>'
 ];
 
 var randomIndex = Math.floor(Math.random() * strings.length);
