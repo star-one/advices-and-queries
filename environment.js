@@ -3,7 +3,7 @@ function updateEnvironment() {
 var strings = [
 'Preserving the quality of life on Earth calls forth all of our spiritual resources. Listening to and heeding the leadings of the Holy Spirit can help us develop qualities which enable us to become more sensitive to all life.<br /><em>Great Plains Yearly Meeting, Advices and Queries, Stewardship</em>',
 
-'We do not own the world, and its riches are not ours to dispose of at will. Show a loving consideration for all creatures, and seek to maintain the beauty and variety of the world. Work to ensure that our increasing power over nature is used responsibly, with reverence for life. Rejoice in the splendour of God's continuing creation.<br /><em>Great Plains Yearly Meeting, Advices and Queries, Stewardship</em>',
+'We do not own the world, and its riches are not ours to dispose of at will. Show a loving consideration for all creatures, and seek to maintain the beauty and variety of the world. Work to ensure that our increasing power over nature is used responsibly, with reverence for life. Rejoice in the splendour of God\'s continuing creation.<br /><em>Great Plains Yearly Meeting, Advices and Queries, Stewardship</em>',
 
 'Are we concerned that humanity\'s increasing power over nature should not be used irresponsibly, but with the reverence for life and with a sense of the splendor of God\'s continuing creation?<br /><em>Great Plains Yearly Meeting, Advices and Queries, Stewardship</em>',
 
@@ -15,11 +15,11 @@ var strings = [
 
 'God is revealed in all Creation. We humans belong to the whole interdependent community of life on earth. Rejoice in the beauty, complexity, and mystery of creation, with gratitude to be part of its unfolding. Take time to learn how this community of life is organized and how it interacts. Live according to principles of right relationship and right action within this larger whole.<br /><em>Pacific Yearly Meeting, Advices and Queries, Harmony with Creation, Advices</em>',
 
-'Be aware of the influence humans have on the health and viability of life on earth. Call attention to what fosters or harms earth's exquisite beauty, balances and interdependencies. Guided by Spirit, work to translate this understanding into ways of living that reflect our responsibility to one another, to the greater community of life, and to future generations.<br /><em>Pacific Yearly Meeting, Advices and Queries, Harmony with Creation, Advices</em>',
+'Be aware of the influence humans have on the health and viability of life on earth. Call attention to what fosters or harms Earth\'s exquisite beauty, balances and interdependencies. Guided by Spirit, work to translate this understanding into ways of living that reflect our responsibility to one another, to the greater community of life, and to future generations.<br /><em>Pacific Yearly Meeting, Advices and Queries, Harmony with Creation, Advices</em>',
 
 'In what ways do I express gratitude for the wondrous expressions of life on Earth? Do I consider the damage I might do to the Earth\'s vulnerable systems in choices I make of what I do, what I buy, and how I spend my time?<br /><em>Pacific Yearly Meeting, Advices and Queries, Harmony with Creation, Queries for Individuals</em>',
 
-'In our witness for the global environment, are we careful to consider justice and the well-being of the world's poorest people? Does our way of life threaten the viability of life on Earth?<br /><em>Pacific Yearly Meeting, Advices and Queries, Harmony with Creation, Queries for the Meeting</em>',
+'In our witness for the global environment, are we careful to consider justice and the well-being of the world\'s poorest people? Does our way of life threaten the viability of life on Earth?<br /><em>Pacific Yearly Meeting, Advices and Queries, Harmony with Creation, Queries for the Meeting</em>',
  
 'We need to respect, revere and cooperate with other life systems on our planet. The earth\'s diverse riches are not ours to exploit. Seek reverence for life and a sense of wonder at God\'s continuing presence in all of creation. Do you work to conserve the earth\'s beauty and resources, both now and in the future, for the many people who depend on this planet and the many other species that share it?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, E14</em>',
 

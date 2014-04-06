@@ -9,7 +9,7 @@ var strings = [
 
 'Friends fellowship begins and is nurtured within the home and Meeting. It reaches greater fulfillment as we carry our beliefs into the wider community.<br /><em>Pacific Yearly Meeting, Advices and Queries, Reaching Out, Advices</em>',
 
-'Share your Quaker faith. Take time to learn about other people's experiences of the Light and, as you learn, give freely from what you have gained. Respect the experiences and opinions of others, but do not be afraid to say what you value. Welcome the diversity of culture, language, and expressions of faith in your Monthly Meeting, the Yearly Meeting, and the world community of Friends. Encourage discourse with Friends of pastoral and programmed traditions, and with members of other faiths.<br /><em>Pacific Yearly Meeting, Advices and Queries, Reaching Out, Advices</em>',
+'Share your Quaker faith. Take time to learn about other people\'s experiences of the Light and, as you learn, give freely from what you have gained. Respect the experiences and opinions of others, but do not be afraid to say what you value. Welcome the diversity of culture, language, and expressions of faith in your Monthly Meeting, the Yearly Meeting, and the world community of Friends. Encourage discourse with Friends of pastoral and programmed traditions, and with members of other faiths.<br /><em>Pacific Yearly Meeting, Advices and Queries, Reaching Out, Advices</em>',
 
 'Friends have a long history of involvement in public and private education, sharing our values with the world and nurturing future generations. Be mindful of the needs of children in your community and of avenues for deepening understanding between peoples.<br /><em>Pacific Yearly Meeting, Advices and Queries, Reaching Out, Advices</em>',
 
