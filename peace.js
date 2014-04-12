@@ -1,6 +1,10 @@
 // Peace
 function updatePeace() {
 var strings = [
+'Friends are advised to avoid activities and employment which involve taking human life. Take care not to nourish the seeds of war in your attitudes or in your possessions. Support Friends who suffer for the Truth that war is incompatible with the spirit of the gospel of Jesus Christ.<br /><em>Indiana Yearly Meeting, The Advices, Peace and Reconciliation</em>',
+
+'Every human being is precious in the eyes of God, and has been given a measure of God\'s light (John 1:9). Seek to live in the virtue of that Life which takes away the occasion of war. Overcome evil with good.<br /><em>Indiana Yearly Meeting, The Advices, Peace and Reconciliation</em>',
+
 'A good end cannot sanctify evil means; nor must we ever do evil, that good may come of it.... It is as great presumption to send our passion upon God\'s errands, as it is to palliate them with God\'s name.... We are too ready to retaliate, rather than forgive, or gain by love and information. And yet we could hurt no man that we believe loves us. Let us then try what Love will do: for if men did once see we love them, we should soon find they would not harm us. Force may subdue, but Love gains: and he that forgives first, wins the laurel. (William Penn, 1693, in Quaker Faith & Practice of Britain Yearly Meeting, 24.03)<br /><em>Intermountain Yearly Meeting, Peace</em>',
 
 'As Friends, we are urged to identify the seeds of war within ourselves individually and in our way of life. Any element of fear, restlessness, discontent, unhappiness, and poverty of spirit can lead to violence and war. We are cautioned not to bury these feelings, but to acknowledge their presence, pinpoint their sources, and transform pain and anger into the power of positive action. Thus, we heal ourselves and become free and able stewards in the healing of others.<br /><em>Intermountain Yearly Meeting, Peace, Advices, 2</em>',

@@ -1,6 +1,8 @@
 // Death
 function updateDeath() {
 var strings = [
+'Face with courage transitions such as illness and aging, both for yourself and for those dear to you. As outward activity lessens, your seasoned thought and prayer may liberate love and power in others. Make provision for the settlement of your affairs while in health so that others may not be burdened.<br /><em>Indiana Yearly Meeting, The Advices, Home and Family</em>',
+
 'Life, then, is a gift of time. For each of us the days are numbered. I am grateful for each day I have to walk this beautiful earth. And I do not fear the return to the earth, for I know... that it is part of myself. (Elizabeth Watson, Guests of My Life, 1979)<br /><em>Intermountain Yearly Meeting, Ageing, Death, and Bereavement</em>',
 
 'New opportunities present themselves at every stage of life. Approach the aging process with courage and hope. Honor that which you have been, welcoming new possibilities for wisdom, objectivity, and greater knowledge of the Spirit. Realize that as time passes, new ways of receiving and reflecting God\'s love will open.<br /><em>Intermountain Yearly Meeting, Ageing, Death, and Bereavement, Advices, 1</em>',

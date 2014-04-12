@@ -1,6 +1,8 @@
 // Community
 function updateCommunity() {
 var strings = [
+'Live in love as members of a Christian community. Be ready to give and receive help, to rejoice together in the blessings of life and to sympathize with each other in its trials. Value, respect and make use of elder members. Avoid tale-bearing and insults, acknowledge differences and seek to settle conflicts promptly. Visit one another, making sure that those who are alone are drawn into the wider family of Christ. Seek to know one another in the things that are eternal.<br /><em>Indiana Yearly Meeting, The Advices, The Meeting Community</em>',
+
 'Is there a climate of trust in our meeting that invites all members and attenders to be open about individual and family lifestyles, including their satisfactions and problems? Does there exist in our meeting a sense of spiritual kinship for those who participate in it?<br /><em>Intermountain Yearly Meeting, Family, Queries, 3</em>',
 
 'The spiritual welfare of a meeting is greatly helped if its social life is vigorous and its members take a warm personal interest in one another\'s welfare.... It is our duty and privilege to share in one another\'s joys and sorrows. (Faith and Practice, London Yearly Meeting, 1960)<br /><em>Intermountain Yearly Meeting, Mutual Care</em>',

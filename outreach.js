@@ -1,6 +1,8 @@
 // Outreach
 function updateOutreach() {
 var strings = [
+'Every church is a mission outpost. Proclaim the Word of God as the hope of salvation. As you have freely received the gifts of eternal life and of the Holy Spirit, freely share. Seek to lead others to Truth through love, teaching by being yourself teachable. Support missions to cultures and places distant from your own. Seek to fulfill the Great Commission, as found in Matthew 28:19-20.<br /><em>Indiana Yearly Meeting, The Advices, Outreach</em>',
+
 'What are we doing individually and corporately to share the experience of our faith? Do we let others know about the source of our convictions? What are we doing to make the larger community aware of our Friends meeting?<br /><em>Intermountain Yearly Meeting, Integrity, Queries, 7</em>',
 
 'How welcoming is our meeting to newcomers? When attenders request information about Quakerism, what resources do we share with them to increase their knowledge?<br /><em>Intermountain Yearly Meeting, Participation in the Life of the Meeting, Queries, 3</em>',

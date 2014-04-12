@@ -1,6 +1,8 @@
 // Worship
 function updateWorship() {
 var strings = [
+'Every Friend has a share of responsibility for worship and ministry. Friends are advised, therefore, to be diligent in attendance at meetings for worship and in inward preparation for them. Come with mind and heart prepared for communion with God. Be obedient and faithful to the promptings of the Holy Spirit, whether by word, by song, in silent waiting or in prayer. Receive the messages of others in a tender spirit.<br /><em>Indiana Yearly Meeting, The Advices, The Meeting Community</em>',
+
 'One powerful way revelation occurs is in silent waiting, which can be described as the amazing fact of Quaker worship. (Elizabeth Bailey, circa 1999)<br /><em>Intermountain Yearly Meeting, Worship</em>',
 
 'The heart of the Religious Society of Friends is the meeting for worship. It calls us to offer ourselves, body, mind, and soul, to wait in active anticipation for the revelation of the Spirit.<br /><em>Intermountain Yearly Meeting, Worship, Advices, 1</em>',

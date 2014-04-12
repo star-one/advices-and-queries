@@ -1,6 +1,8 @@
 // Children and family
 function updateChildren() {
 var strings = [
+'Care of the children of the meeting should be the responsibility of every Friend. Friends are advised to seek the full development of God\'s gifts for children, which is true education.<br /><em>Indiana Yearly Meeting, The Advices, Home and Family</em>',
+
 'Do we encourage our children to participate actively in meetings for worship and meetings for business? Are they aware of the meaning of membership in the meeting and the importance of service to the community?<br /><em>Intermountain Yearly Meeting, Religious Education, Queries, 3</em>',
 
 'How do we share our deepest beliefs with our children and with one another? What inspires us to develop our spiritual and religious life?<br /><em>Intermountain Yearly Meeting, Religious Education, Queries, 4</em>',

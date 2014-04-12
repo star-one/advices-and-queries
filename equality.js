@@ -1,6 +1,8 @@
 // Equality and social justice
 function updateEquality() {
 var strings = [
+'At every opportunity, be peacemakers in your homes, in your places of work, in your community and in the world. Seek justice, for injustice often breeds bitterness and war. Work for an order of society which will allow all men and women, regardless of race, to develop their capacities and foster their desire to serve.<br /><em>Indiana Yearly Meeting, The Advices, Peace and Reconciliation</em>',
+
 'Then that little man in black there, he says women can\'t have as much rights as men, \'cause Christ wasn\'t a woman! Where did your Christ come from? Where did your Christ come from? From God and a woman! Man had nothing to do with Him. (Sojourner Truth, 1851)<br /><em>Intermountain Yearly Meeting, Equality</em>',
 
 'Until we as a Religious Society begin to question our assumptions, until we look at the prejudices, often very deeply hidden, within our own society, how are we going to be able to confront the inequalities within the wider society? (Susan Rooke-Matthews, 1993 in Quaker Faith & Practice of Britain Yearly Meeting, 1993)<br /><em>Intermountain Yearly Meeting, Equality</em>',

@@ -1,6 +1,8 @@
 // Relationships
 function updateRelationships() {
 var strings = [
+'Seek to make your home a place of hospitality, where friendships are honored and God is worshiped. Rejoice in the beauty of friendships and work toward growth in depth, understanding and mutual respect. Maintain a proper balance in the use of time among family, friends, work and leisure. Be careful in your use of media and choices of entertainment.<br /><em>Indiana Yearly Meeting, The Advices, Home and Family</em>',
+
 'Do we uphold Friends in their efforts to develop stable, loving relationships? Do we acknowledge and support all relationships that are based on love and commitment? Do we offer strength and comfort to the aging, the widowed, the separated or divorced, and others - including children - in families that have been affected by disruption or sorrow?<br /><em>Intermountain Yearly Meeting, Family, Queries, 1</em>',
 
 'Does our home life nourish the need both for a sense of personal identity and for fully shared living? Are our homes places of friendliness, peace, and renewal, where the Light is real for those who live there and those who visit? Do we take care that our commitments outside the home do not encroach upon the time and loving attention the family needs for its health and well-being?<br /><em>Intermountain Yearly Meeting, Family, Queries, 2</em>',

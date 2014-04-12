@@ -1,6 +1,10 @@
 // Lifestyle
 function updateLifestyle() {
 var strings = [
+'Apparently harmless indulgence often leads by degrees to wrong-doing. In view of the evils and health hazards arising from the use of tobacco and intoxicating drinks and from the abuse of drugs, Friends are advised to refrain from using them, from offering them to others, and from having any share in their manufacture or sale. Do not let the claims of good fellowship or the fear of seeming peculiar influence your decisions.<br /><em>Indiana Yearly Meeting, The Advices, Integrity and Simplicity</em>',
+
+'Remember that God set humanity as care-takers of a creation which He declared to be good. Guard against waste and resist extravagant consumption which contributes to inequities and the impoverishment of life in our own and other societies.<br /><em>Indiana Yearly Meeting, The Advices, Integrity and Simplicity</em>',
+
 'Do we practice and encourage thoughtful family planning? What are we doing to ensure adequate water, food, shelter, education, and respect for those who do not have ready access to these blessings? Are we informed about the effects of our lifestyle on the global economy and the environment?<br /><em>Intermountain Yearly Meeting, Stewardship, Queries, 2</em>',
 
 'The principle of stewardship applies to all that we are given and to who we are as individuals, members of groups, and inhabitants of the earth. We are each obliged to use our time, abilities, strength, money, material possessions, and other resources in a spirit of love, aware that we hold these gifts in trust and that we are responsible for using them wisely. We need to be aware of pollution, overpopulation, and all forms of wastefulness.<br /><em>Intermountain Yearly Meeting, Stewardship, Advices, 2</em>',

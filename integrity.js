@@ -1,6 +1,10 @@
 // Integrity
 function updateIntegrity() {
 var strings = [
+'Resist temptation to grow rich at the expense of others. When you have a choice of employment, choose that which gives the fullest opportunity for the use of your talents in service to God and other people. Be careful not to overextend your business endeavors or your personal finances. Avoid and discourage every kind of betting and gambling and commercial speculations of a gambling character.<br /><em>Indiana Yearly Meeting, The Advices, Integrity and Simplicity</em>',
+
+'Bring the whole of your daily life under the ordering of the Holy Spirit. Live and work in the plainness and simplicity of a true follower of Christ. Maintain integrity in word and deed; hold to the simplicity of truth; keep free of oaths.<br /><em>Indiana Yearly Meeting, The Advices, Integrity and Simplicity</em>',
+
 'Our responsibilities to God and our neighbor may lead us to take unpopular stands. In carrying out principled decisions and actions, we may struggle against the desire to be sociable, the fear of seeming different or peculiar, or the fear of possible consequences.<br /><em>Intermountain Yearly Meeting, Peace, Advices, 6</em>',
 
 'The Inner Light does not lead men to do that which is right in their own eyes, but that which is right in God\'s eyes. (Ellen S. Bosanquet, 1927 in Quaker Faith & Practice of Britain Yearly Meeting, 1995)<br /><em>Intermountain Yearly Meeting, Integrity</em>',

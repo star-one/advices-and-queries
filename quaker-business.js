@@ -1,6 +1,8 @@
 // Quaker business
 function updateQuakerBusiness() {
 var strings = [
+'In meetings for business, and in all duties connected with them, seek the immediate leading of God. Be careful not to misuse others\' time. Keep from stubbornness and from harshness of tone or manner and admit the possibility of being in error. Jesus Christ is the Head of the Meeting, and as each individual attends to His voice within, all will be drawn into unity.<br /><em>Indiana Yearly Meeting, The Advices, The Meeting Community</em>',
+
 'Do you give sufficient time to sharing with others in the meeting, both newcomers and long-time members, your understanding of service and commitment to Quaker witness?<br /><em>Intermountain Yearly Meeting, Service, Queries, 3</em>',
 
 'When the meeting receives multiple requests for funds or action, how do we determine which are most pressing?<br /><em>Intermountain Yearly Meeting, Integrity, Queries, 6</em>',

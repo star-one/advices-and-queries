@@ -1,6 +1,8 @@
 //  Study and prayer
 function updateStudy() {
 var strings = [
+'Dear Friends, attend to the promptings of love and truth in your hearts, which are the leadings of God. Do not resist God\'s strivings within you. Make a quiet place in your daily life for prayer and communion with God. Read the Bible and devotional literature with constancy. Look to your meeting for guidance and spiritual growth.<br /><em>Indiana Yearly Meeting, The Advices, Spiritual Life</em>',
+
 'When we find ourselves teaching ... can we draw upon that respect for one another and faith in one another\'s potential that will enable the other to feel taller and more capable? At Rufus Jones\' memorial meeting, one of his students simply said: \"He lit my candle.\" That is a high aim for us all to aspire to in educating ourselves and our young people. (Barbara Windle, 1988 in Quaker Faith & Practice of Britain Yearly Meeting, 1993)<br /><em>Intermountain Yearly Meeting, Religious Education</em>',
 
 'The Bible and other religious literature is the rightful heritage of us all. The study of sacred books expands and deepens our awareness of our own spiritual heritage and that of others. What we read means little unless it helps us understand our own personal religious experience, the work of the Spirit behind the words. It helps to know that our search for truth can include a multitude of experiences.<br /><em>Intermountain Yearly Meeting, Religious Education, Advices, 1</em>',
