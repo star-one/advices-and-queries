@@ -1,6 +1,24 @@
 // Integrity
 function updateIntegrity() {
 var strings = [
+'Our responsibilities to God and our neighbor may lead us to take unpopular stands. In carrying out principled decisions and actions, we may struggle against the desire to be sociable, the fear of seeming different or peculiar, or the fear of possible consequences.<br /><em>Intermountain Yearly Meeting, Peace, Advices, 6</em>',
+
+'The Inner Light does not lead men to do that which is right in their own eyes, but that which is right in God\'s eyes. (Ellen S. Bosanquet, 1927 in Quaker Faith & Practice of Britain Yearly Meeting, 1995)<br /><em>Intermountain Yearly Meeting, Integrity</em>',
+
+'Nor do men light a lamp and put it under a bushel, but on a stand, and it gives light to all in the house. Let your light so shine before men, that they may see your good works. (Matthew 5:15-16, RSV)<br /><em>Intermountain Yearly Meeting, Integrity</em>',
+
+'Our witness to the world comes from our perception of the Divine Spirit moving through us. The reliability of our words, essential to all communication between one person and another and between one person and God, has always been important to Friends. Friends profess a genuineness of life and speech that leaves no room for deceit or artificiality. Throughout our history, therefore, we have borne witness against judicial oaths as suggesting a double standard of truth. Devotion to what is true and eternal requires openness, honesty, and careful speech in social, business, and family relationships. As early Friends took care to avoid flattering titles and phrases, modern Friends need to discourage the insincerities and extravagances prevalent in our society. It is also advisable to avoid hurtful criticism and provocative language. With courtesy and kindness, Friends are called to speak the truth, in love.<br /><em>Intermountain Yearly Meeting, Integrity, Advices, 1</em>',
+
+'As Friends, we must not waver in making our faith evident, in words or deeds. Recognizing the oneness of humanity in God, we affirm fellowship with all people. The various experiences of those whose circumstances differ from our own can help us discover what is true in our lives and can lead us into a more honest kinship. In our dealings with others, humility and a willingness to learn help us transcend differences. When in discussion with others, we must not allow the strength of our convictions to betray us into making misleading or contentious statements.<br /><em>Intermountain Yearly Meeting, Integrity, Advices, 2</em>',
+
+'Friends keep to the simplicity of truth, discerning its manifestations through prayer, reading, the arts, and all experiences of daily life. In accepting guidance as to what is true and eternal, we are required to be open, honest, and careful of speech and actions in all situations.<br /><em>Intermountain Yearly Meeting, Integrity, Advices, 5</em>',
+
+'Do we keep to a single standard of truth? Are we punctual in keeping promises, prompt in the payment of debts, and just and honorable in all our dealings? Do we exercise moderation and honesty in our speech, our manner of living, and our daily work?<br /><em>Intermountain Yearly Meeting, Integrity, Queries, 1</em>',
+
+'How are we prepared, both as individuals and as a meeting, to resist pressure to lower our standard of integrity?<br /><em>Intermountain Yearly Meeting, Integrity, Queries, 2</em>',
+
+'How do I strive to maintain the integrity of my inner and outer lives in my spiritual journey, my work, and my family responsibilities?<br /><em>Intermountain Yearly Meeting, Integrity, Queries, 3</em>',
+
 'Are ministers and elders good examples in uprightness, temperance, and moderation, and careful to train up their families in plainness of dress and simplicity of manners, becoming our religious profession?<br /><em>Rocky Mountain Yearly Meeting, Queries for Ministers and Elders, 4</em>',
 
 'And, lastly, let all dwell in that which gives ability to labor successfully in the Church of Christ, adorning the doctrine they deliver to others, being examples of the believers, in word, in conversation, in charity, in spirit, in faith, and in purity.<br /><em>Rocky Mountain Yearly Meeting, Advices to Ministers and Elders, 6</em>',
@@ -79,7 +97,7 @@ var integrity = "<h2>Integrity</h2><p>" + randomString + "</p>";
   
   scroll(0,0)
 
-sharetext = randomString.replace("<br /><em>", " - ");
+sharetext = randomString.replace("<br /><em>", " ");
 sharetext = sharetext.replace("</em>", "");
 
 return sharetext;

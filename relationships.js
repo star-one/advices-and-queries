@@ -1,6 +1,10 @@
 // Relationships
 function updateRelationships() {
 var strings = [
+'Do we uphold Friends in their efforts to develop stable, loving relationships? Do we acknowledge and support all relationships that are based on love and commitment? Do we offer strength and comfort to the aging, the widowed, the separated or divorced, and others - including children - in families that have been affected by disruption or sorrow?<br /><em>Intermountain Yearly Meeting, Family, Queries, 1</em>',
+
+'Does our home life nourish the need both for a sense of personal identity and for fully shared living? Are our homes places of friendliness, peace, and renewal, where the Light is real for those who live there and those who visit? Do we take care that our commitments outside the home do not encroach upon the time and loving attention the family needs for its health and well-being?<br /><em>Intermountain Yearly Meeting, Family, Queries, 2</em>',
+
 'Are my sexual practices consistent with my spiritual beliefs and free of manipulation and exploitation? What barriers keep me from responding openly and lovingly to each person?<br /><em>Pacific Yearly Meeting, Advices and Queries, Personal Relationships, Queries for Individuals</em>',
 
 'In daily relationships with others, both inside and outside the home, our lives as Friends speak immediately and lastingly. In these relationships, our faith may also be severely tested.We are called to respond to that of God in everyone: we are all children of God. Friends celebrate any union that is dedicated to mutual love and respect, regardless of the unique make-up of the family.We strive to create homes where the Spirit of the Divine resides at the center and where the individual genius of each member is respected and nurtured.<br /><em>Pacific Yearly Meeting, Advices and Queries, Personal Relationships, Advices</em>',

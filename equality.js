@@ -1,6 +1,24 @@
 // Equality and social justice
 function updateEquality() {
 var strings = [
+'Then that little man in black there, he says women can\'t have as much rights as men, \'cause Christ wasn\'t a woman! Where did your Christ come from? Where did your Christ come from? From God and a woman! Man had nothing to do with Him. (Sojourner Truth, 1851)<br /><em>Intermountain Yearly Meeting, Equality</em>',
+
+'Until we as a Religious Society begin to question our assumptions, until we look at the prejudices, often very deeply hidden, within our own society, how are we going to be able to confront the inequalities within the wider society? (Susan Rooke-Matthews, 1993 in Quaker Faith & Practice of Britain Yearly Meeting, 1993)<br /><em>Intermountain Yearly Meeting, Equality</em>',
+
+'Since the time of George Fox, Friends have believed that all people are spiritually equal before God. Believing that, it is important that Friends everywhere question the prejudices (often deeply hidden) within the Religious Society of Friends and challenge the assumptions we make about others. In the past, Quakers helped foment vast societal changes by challenging the oppression they saw. Today our voices do not ring as loudly nor are they as unified when we confront oppression and inequality. For example, we are deeply divided among ourselves regarding same-gender marriage.<br /><em>Intermountain Yearly Meeting, Equality, Advices, 1</em>',
+
+'Friends need to be mindful that continual reflection is required to recognize that our race, gender, nationality or economic status may grant us privileges which separate us from those different from us. At the same time, those among us who do not have such privileges must be careful not to empower that sense of privilege by acknowledging the inequality.<br /><em>Intermountain Yearly Meeting, Equality, Advices, 2</em>',
+
+'Friends must bear in mind that any perceived inequality gets in the way of relating to that of God in one another.<br /><em>Intermountain Yearly Meeting, Equality, Advices, 3</em>',
+
+'Do we work individually and as a meeting to bring about a just and compassionate society that allows all people to develop their capacities and fosters their desire to serve? Are we alert to practices in our own country and throughout the world that discriminate against people on the basis of who or what they are or what they believe? What are we doing as individuals and as a meeting to promote equal social and economic opportunity for those who suffer discrimination for any reason whatsoever?<br /><em>Intermountain Yearly Meeting, Equality, Queries, 2</em>',
+
+'Do we take the risks that right action demands?<br /><em>Intermountain Yearly Meeting, Equality, Queries, 3</em>',
+
+'When working toward peace in the broader community and wider world, we look to change the conditions that spark violence in others poverty, despair, fear, hopelessness, dehumanization, and hunger, among others. We return to our roots in the truth to establish secure conditions where cooperation, equality, justice, and freedom can flourish. We work toward improving the environment and toward right sharing of the world\'s resources.<br /><em>Intermountain Yearly Meeting, Peace, Advices, 3</em>',
+
+'Do we search diligently for ways to assure the right of every individual to be loved, cared for, educated appropriately; to obtain useful employment; and to live in dignity?<br /><em>Intermountain Yearly Meeting, Integrity, Queries, 5</em>',
+
 'Have we honored and protected those neglected by society – the unborn, poor, prisoners, orphans, widows, abandoned, disabled, disadvantaged, addicted, institutionalized, homeless, and/or hungry? Since we cannot do everything, have we done something?<br /><em>Evangelical Friends Church Southwest, Congregation Accountability Questions, 6</em>',
 
 'Do you speak out for justice and morality, and against oppression, exploitation, and public wrong? Do you recognize the equality of persons regardless of race, gender, or economic status?<br /><em>Great Plains Yearly Meeting, Advices and Queries, Equality</em>',
@@ -45,7 +63,7 @@ var equality = "<h2>Equality and social justice</h2><p>" + randomString + "</p>"
   
   scroll(0,0)
 
-sharetext = randomString.replace("<br /><em>", " - ");
+sharetext = randomString.replace("<br /><em>", " ");
 sharetext = sharetext.replace("</em>", "");
 
 return sharetext;

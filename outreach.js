@@ -1,6 +1,12 @@
 // Outreach
 function updateOutreach() {
 var strings = [
+'What are we doing individually and corporately to share the experience of our faith? Do we let others know about the source of our convictions? What are we doing to make the larger community aware of our Friends meeting?<br /><em>Intermountain Yearly Meeting, Integrity, Queries, 7</em>',
+
+'How welcoming is our meeting to newcomers? When attenders request information about Quakerism, what resources do we share with them to increase their knowledge?<br /><em>Intermountain Yearly Meeting, Participation in the Life of the Meeting, Queries, 3</em>',
+
+'We encourage those who attend our meetings to become acquainted with Friends\' ways. When it is evident that the meeting has become a spiritual home for an individual, we encourage him or her to apply for membership.<br /><em>Intermountain Yearly Meeting, Participation in the Life of the Meeting, Advices, 4</em>',
+
 'Have we prayed publicly and often for God to send out workers from among us into his harvest fields?<br /><em>Evangelical Friends Church Southwest, Congregation Accountability Questions, 5</em>',
 
 'Have we witnessed effectively for Christ through our church\'s events, programs, retreats, camps, and organized evangelistic efforts? Have we assimilated new believers into our fellowship and helped them grow in the faith and knowledge of our Lord Jesus Christ?<br /><em>Evangelical Friends Church Southwest, Congregation Accountability Questions, 1</em>',

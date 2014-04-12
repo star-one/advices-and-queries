@@ -1,6 +1,34 @@
 // Lifestyle
 function updateLifestyle() {
 var strings = [
+'Do we practice and encourage thoughtful family planning? What are we doing to ensure adequate water, food, shelter, education, and respect for those who do not have ready access to these blessings? Are we informed about the effects of our lifestyle on the global economy and the environment?<br /><em>Intermountain Yearly Meeting, Stewardship, Queries, 2</em>',
+
+'The principle of stewardship applies to all that we are given and to who we are as individuals, members of groups, and inhabitants of the earth. We are each obliged to use our time, abilities, strength, money, material possessions, and other resources in a spirit of love, aware that we hold these gifts in trust and that we are responsible for using them wisely. We need to be aware of pollution, overpopulation, and all forms of wastefulness.<br /><em>Intermountain Yearly Meeting, Stewardship, Advices, 2</em>',
+
+'The rush and pressure of modern life are a form, perhaps the most common form, of its innate violence. To allow oneself to be carried away by a multitude of conflicting concerns, to commit oneself to too many projects, to want to help everyone with everything is to succumb to violence. More than that, it is cooperation with violence. The frenzy of the activist neutralizes his or her work for peace. It destroys her or his capacity for peace. It destroys the fruitfulness of the work because it kills the root of inner wisdom, which makes the work fruitful. (Thomas Merton, in Letter to a Young Activist, 1960s)<br /><em>Intermountain Yearly Meeting, Simplicity</em>',
+
+'Ever-expanding knowledge, communication, and technology have made the world far more complex than it was for early Friends. What may be simple for one is problematic for another. We believe in the wholeness of the Spirit, a Spirit that knows and comprehends all things, simple and complex. As we wrestle with the demands of society, we would do well to be aware that expressions of simplicity vary considerably and not to judge those whose expressions differ from ours.<br /><em>Intermountain Yearly Meeting, Simplicity, Advices, 1</em>',
+
+'It is important to ensure that our lives are not so full that we lose sight of the Light within. By consulting the Light, we are able to discern whether to take up or turn down responsibilities without indulging our pride or our guilt. We are advised to consider our capabilities and possessions not as ends in themselves but as God\'s gifts entrusted to us. We are to share them with others, using them with humility, courtesy, and affection.<br /><em>Intermountain Yearly Meeting, Simplicity, Advices, 2</em>',
+
+'Friends are advised to distinguish between ways to happiness offered by society that are truly fulfilling and those that are potentially corrupting and destructive. We are responsible for the manner in which we acquire, use, and dispose of our possessions. This does not mean our lives are to be poor and bare, destitute of joy and beauty. Do not be persuaded into buying what you do not need or cannot afford. All that promotes fullness of life and aids in service for God is to be accepted with thanksgiving. A simple lifestyle freely chosen is a source of strength. Each person must determine, based on the Light given to them, what promotes and what hinders their search for truth.<br /><em>Intermountain Yearly Meeting, Simplicity, Advices, 3</em>',
+
+'From early days, Friends have deplored and avoided the gambling spirit that permeates our society - in finance and commerce, sports and recreation, for example. It is best to refrain from hazardous speculation and from engaging in business that may be questionable. Such indulgence has caused the material ruin of many, as well as dwarfing their moral and spiritual lives. It is advised that our recreations not become occasions for self-centeredness and that we avoid amusements that debase the emotions by playing upon them.<br /><em>Intermountain Yearly Meeting, Simplicity, Advices, 4</em>',
+
+'We are advised to be aware of and to take a stand against the great waste of human and economic resources resulting from all forms of addiction, knowing that they lead to self-absorption and to forgetfulness that each person\'s humanity is shared by all persons. It is the experience of Friends that feelings of emptiness and a failure to listen for the voice of God can lead to addiction. In addition to selfdestructive behavior such as drunk driving, addiction is commonly associated with outwardly destructive acts such as domestic violence and child abuse. Friends are reminded that being a Quaker is no absolute defense against having these problems. We must be ready as a community to intervene when necessary. When our lives are filled with the Spirit, there is no need to indulge in excessive and addictive use of tobacco, alcohol, or other drugs, or to engage in gambling and other addictive behaviors. Let us remember to live and work in the spirit of a true follower of the Light.<br /><em>Intermountain Yearly Meeting, Simplicity, Advices, 5</em>',
+
+'In our daily work, let us avoid involvements and entanglements that separate us from each other and from God. In the context of our complex lives, let us strive to maintain our ideals of sincerity and simplicity, to keep before us the essential truths, and to measure our lives by those truths. Be diligent in seeking the faith that is the foundation for the inner peace that holds firm in the face of outward confusion.<br /><em>Intermountain Yearly Meeting, Simplicity, Advices, 6</em>',
+
+'Is the life of our meeting ordered so as to help us simplify our personal lives? Does the meeting help us center ourselves in the awareness of the presence of God so that all things take their rightful place?<br /><em>Intermountain Yearly Meeting, Simplicity, Queries, 1</em>',
+
+'Do we structure our days so as to provide space to nourish our spiritual growth? Do we center our lives in the awareness of the presence of God so that all things take their rightful place? Does our way of life nourish our spiritual growth and that of our families? In our daily lives, are we aware of pressures that separate us from each other and from the Divine?<br /><em>Intermountain Yearly Meeting, Simplicity, Queries, 2</em>',
+
+'Do we avoid commitments beyond our strength and Light as well as a clutter of multiple activities? Are we careful how we choose to use our time and energy?<br /><em>Intermountain Yearly Meeting, Simplicity, Queries, 3</em>',
+
+'Do we choose recreations that strengthen our physical, mental, and spiritual lives and avoid those that may prove harmful to ourselves and others?<br /><em>Intermountain Yearly Meeting, Simplicity, Queries, 4</em>',
+
+'In our relations with those who have problems with addiction to a substance or a behavior, are we careful to be guided by compassion for the individual rather than by others\' opinions or attitudes?<br /><em>Intermountain Yearly Meeting, Simplicity, Queries, 5</em>',
+
 'Be on your guard, dear Friends, lest the love of pleasure take too strong a hold upon you. Choose such recreations as are pure and healthful. Let them be in harmony with your service to God and man; and in that service be ready at any time to lay them aside when called upon.<br /><em>Great Plains Yearly Meeting, Advices and Queries, Simplicity</em>',
 
 'Try to live simply. A simple lifestyle freely chosen is a source of strength. Do not be persuaded into buying what you do not need or cannot afford.<br /><em>Great Plains Yearly Meeting, Advices and Queries, Simplicity</em>',
@@ -13,7 +41,7 @@ var strings = [
 
 'Is my life so filled with the Spirit that I am free from the misuse of alcohol and other drugs, and of excesses of any kind?<br /><em>Pacific Yearly Meeting, Advices and Queries, Integrity and Personal Conduct, Queries for Individuals</em>',
  
-'Life is meant to be lived from a Center, a divine Center... a life of unhurried peace and power. It is simple. It is serene. It takes no time, but it occupies all our time. - Thomas R. Kelly, Testament of Devotion, 1941<br /><em>Pacific Yearly Meeting, Advices and Queries, Simplicity, Advices</em>',
+'Life is meant to be lived from a Center, a divine Center... a life of unhurried peace and power. It is simple. It is serene. It takes no time, but it occupies all our time. Thomas R. Kelly, Testament of Devotion, 1941<br /><em>Pacific Yearly Meeting, Advices and Queries, Simplicity, Advices</em>',
 
 'A life centered in God will be directed toward keeping communication with God open and unencumbered. Simplicity is best achieved through a right ordering of priorities, maintaining humility of spirit, avoiding self-indulgence, resisting the accumulation of unnecessary possessions, and avoiding over-busy lives.<br /><em>Pacific Yearly Meeting, Advices and Queries, Simplicity, Advices</em>',
 
@@ -101,7 +129,7 @@ var lifestyle = "<h2>Lifestyle</h2><p>" + randomString + "</p>";
   
   scroll(0,0)
 
-sharetext = randomString.replace("<br /><em>", " - ");
+sharetext = randomString.replace("<br /><em>", " ");
 sharetext = sharetext.replace("</em>", "");
 
 return sharetext;

@@ -1,6 +1,16 @@
 //  Study and prayer
 function updateStudy() {
 var strings = [
+'When we find ourselves teaching ... can we draw upon that respect for one another and faith in one another\'s potential that will enable the other to feel taller and more capable? At Rufus Jones\' memorial meeting, one of his students simply said: \"He lit my candle.\" That is a high aim for us all to aspire to in educating ourselves and our young people. (Barbara Windle, 1988 in Quaker Faith & Practice of Britain Yearly Meeting, 1993)<br /><em>Intermountain Yearly Meeting, Religious Education</em>',
+
+'The Bible and other religious literature is the rightful heritage of us all. The study of sacred books expands and deepens our awareness of our own spiritual heritage and that of others. What we read means little unless it helps us understand our own personal religious experience, the work of the Spirit behind the words. It helps to know that our search for truth can include a multitude of experiences.<br /><em>Intermountain Yearly Meeting, Religious Education, Advices, 1</em>',
+
+'All adults in meeting can benefit from religious education in the form of Quaker Studies programs, spiritual formation groups, prayer groups, worship-sharing groups, or adult First Day school classes. Like a garden, the spirit within must be tended and nurtured. The meeting is enriched when all those participating care for their own spirits.<br /><em>Intermountain Yearly Meeting, Religious Education, Advices, 3</em>',
+
+'In what ways does our meeting help develop the spiritual lives of our children and adult members and attenders? Do we provide our children and young adults with a framework for active, ongoing participation in meeting? Do we welcome their presence among us?<br /><em>Intermountain Yearly Meeting, Religious Education, Queries, 1</em>',
+
+'How does our meeting educate its members of all ages about the Bible, other sacred writings, our Christian heritage, and the history and principles of Friends?<br /><em>Intermountain Yearly Meeting, Religious Education, Queries, 2</em>',
+
 'Let all read the Holy Scriptures frequently, and be careful neither to misquote nor misapply them.<br /><em>Rocky Mountain Yearly Meeting, Advices to Ministers and Elders, 2</em>',
 
 'Have we taught and practiced spiritual disciplines – Bible reading, prayer, fasting, witnessing, service, worship, silence, solitude?<br /><em>Evangelical Friends Church Southwest, Congregation Accountability Questions, 7</em>',
@@ -73,7 +83,7 @@ var study_and_prayer = "<h2>Study and prayer</h2><p>" + randomString + "</p>";
   
   scroll(0,0)
 
-sharetext = randomString.replace("<br /><em>", " - ");
+sharetext = randomString.replace("<br /><em>", " ");
 sharetext = sharetext.replace("</em>", "");
 
 return sharetext;

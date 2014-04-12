@@ -1,6 +1,26 @@
 // General
 function updateGeneral() {
 var strings = [
+'Is this not what I require of you as a fast: to loose the fetters of injustice, to untie the knots of the yoke, to snap every yoke and set free those that have been crushed? Is it not sharing your food with the hungry, taking the homeless into your house, clothing the naked when you meet them, and never evading a duty to your kinfolk? Then shall your light break forth like the dawn and soon you will grow healthy like a wound newly healed; your own righteousness shall be your vanguard, and the glory of the Lord your rear guard. Then if you call, the Lord will answer. If you call to him, he will say, \"Here I am.\" (Isaiah 58:6-9 (NEB))<br /><em>Intermountain Yearly Meeting, Service</em>',
+
+'We recognize a variety of ministries. In our worship these include those who speak under the guidance of the Spirit and those who receive and uphold the work of the Spirit in silence and prayer. We also recognise as ministry service on our many committees, hospitality and childcare, the care of finance and premises, and many other tasks. We value those whose ministry is not in an appointed task but is in teaching, counseling, listening, prayer, enabling the service of others, or other service in the meeting or the world. The purpose of all our ministry is to lead us and other people into closer communion with God and to enable us to carry out those tasks which the Spirit lays upon us. (London Yearly Meeting, 1986 in Faith & Practice of Philadelphia Yearly Meeting)<br /><em>Intermountain Yearly Meeting, Service</em>',
+
+'In what ways does your life reflect your faith? In what ways does your faith illuminate your life?<br /><em>Intermountain Yearly Meeting, Service, Queries, 1</em>',
+
+'How do you distinguish between the leadings of the Divine and the pressures of the needy?<br /><em>Intermountain Yearly Meeting, Service, Queries, 2</em>',
+
+'Quakers often talk about being led.... We are all led. The question is not whether we are led, but what leads us. (Robert Griswold, 2005)<br /><em>Intermountain Yearly Meeting, Stewardship</em>',
+
+'In the biblical tradition, the foundation for human governance is stewardship rather than ownership; we care for life\'s homeplace as servants, not as the lords of the earth. (Jim Corbett, Sanctuary for All Life, 2005)<br /><em>Intermountain Yearly Meeting, Stewardship</em>',
+
+'We must be grateful for all that we have, neither reveling in our own gifts nor coveting those of others.<br /><em>Intermountain Yearly Meeting, Stewardship, Advices, 1</em>',
+
+'Do we regard our time, talents, energy, money, material possessions, and other resources as gifts from God, to be held in trust and shared according to the Light we are given? How do we witness to this conviction in our lives? Do we investigate the companies in which our money is invested, avoiding investing in those whose practices undermine Quaker testimonies and values?<br /><em>Intermountain Yearly Meeting, Stewardship, Queries, 1</em>',
+
+'Do we live in the awareness of the presence of God? How do we center ourselves and practice living in unity with the Spirit? Does our meeting help individuals find such unity?<br /><em>Intermountain Yearly Meeting, Peace, Queries, 1</em>',
+
+'Bear witness to the humanity of all people, including those who break society\'s conventions or laws. Seek to understand the causes of injustice, social unrest, and fear. As members of the Religious Society of Friends, we commit ourselves not to words, but to a way of life.<br /><em>Intermountain Yearly Meeting, Integrity, Advices, 4</em>',
+
 'Elise Boulding writes in My Part in the Quaker Adventure, \'Simplicity, beauty, and happiness go together if they are a byproduct of a concern for something more important than ourselves\'.<br /><em>Pacific Yearly Meeting, Advices and Queries, Simplicity, Advices</em>',
 
 'Use vigilant care, dear Friends, not to overlook those promptings of love and truth which you may feel in your hearts; for these are the tender leadings of the Spirit of God. Nor should any of us resist God\'s workings within us, for it is His redemptive love which strives to show us our darkness, and to lead us to true repentance, and to His marvelous light. \"Behold, I stand at the door and knock: if any man hear my voice and open the door, I will come in to him, and will sup with him, and he with me\" (Rev. 3:20).<br /><em>Great Plains Yearly Meeting, Advices and Queries, Truth</em>',
@@ -55,13 +75,13 @@ var strings = [
 
 'Follow steadfastly after all that is pure and lovely and of good report. Be prayerful. Be watchful. Be humble. Let no failure discourage you. When temptation comes, make it an opportunity to gain new strength by standing fast, that you may enter into that life of gladness and victory to which all are called.<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 20</em>',
 
-'Remember that our spiritual life will not be complete unless we have experienced an inward baptism and transformation. Growth in inward purity and outward Christian effectiveness should follow this experience - but such growth can come only if we persist in seeking to know and follow the commands of Christ.<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 27</em>',
+'Remember that our spiritual life will not be complete unless we have experienced an inward baptism and transformation. Growth in inward purity and outward Christian effectiveness should follow this experience but such growth can come only if we persist in seeking to know and follow the commands of Christ.<br /><em>Ohio Yearly Meeting (Conservative), General Advices & Queries, advice number 27</em>',
 
 'Are members of this meeting diligent in the attendance of all meetings? Is there evidence of growth in spiritual life in our meetings for worship?<br /><em>Ohio Yearly Meeting (Conservative), Queries for the Meetings for Ministry & Oversight, number 1</em>',
 
 'Do we endeavor to practice and promote Christ\'s way of life? Are we good examples in uprightness, simplicity and moderation in our daily lives? Do we each have an individual concern for the spread of the Gospel among all people? Do we make an effort to encourage and stimulate a sense of religious responsibility among the members of our meetings?<br /><em>Ohio Yearly Meeting (Conservative), Queries for the Meetings for Ministry & Oversight, number 3</em>',
 
-'Since all Friends are bound to feel weightily concerned over many controversial issues of the day, our Ministers are reminded to be careful how they enter upon such disputed points when giving testimony. Let us remember that \"True courage dwelleth closer to gentleness than to denunciation,\" and that judgment belongs to the Lord. Let there be constant self- restraint from any tendency, either to give cause for or to be drawn into disputation of any kind during our meetings for worship.<br /><em>Ohio Yearly Meeting (Conservative), Advices for the Meetings for Ministry & Oversight, number 4</em>',
+'Since all Friends are bound to feel weightily concerned over many controversial issues of the day, our Ministers are reminded to be careful how they enter upon such disputed points when giving testimony. Let us remember that \"True courage dwelleth closer to gentleness than to denunciation,\" and that judgment belongs to the Lord. Let there be constant selfrestraint from any tendency, either to give cause for or to be drawn into disputation of any kind during our meetings for worship.<br /><em>Ohio Yearly Meeting (Conservative), Advices for the Meetings for Ministry & Oversight, number 4</em>',
 
 'Lastly, dear Friends, let all dwell in that Spirit which alone can give ability to those who labor in the Church of Christ.<br /><em>Ohio Yearly Meeting (Conservative), Advices for the Meetings for Ministry & Oversight, number 6</em>',
 
@@ -81,7 +101,7 @@ var general = "<h2>General</h2><p>" + randomString + "</p>";
   
   scroll(0,0)
 
-sharetext = randomString.replace("<br /><em>", " - ");
+sharetext = randomString.replace("<br /><em>", " ");
 sharetext = sharetext.replace("</em>", "");
 
 return sharetext;

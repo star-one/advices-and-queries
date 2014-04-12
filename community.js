@@ -1,14 +1,30 @@
 // Community
 function updateCommunity() {
 var strings = [
+'Is there a climate of trust in our meeting that invites all members and attenders to be open about individual and family lifestyles, including their satisfactions and problems? Does there exist in our meeting a sense of spiritual kinship for those who participate in it?<br /><em>Intermountain Yearly Meeting, Family, Queries, 3</em>',
+
+'The spiritual welfare of a meeting is greatly helped if its social life is vigorous and its members take a warm personal interest in one another\'s welfare.... It is our duty and privilege to share in one another\'s joys and sorrows. (Faith and Practice, London Yearly Meeting, 1960)<br /><em>Intermountain Yearly Meeting, Mutual Care</em>',
+
+'The Religious Society of Friends is a community of people who strive to care for one another. Friends are advised to maintain love and unity, to avoid tale-bearing and detraction, and to settle differences promptly in a manner free from resentment and inward violence. Live affectionately as friends, entering with sympathy into the joys and sorrows of one another\'s daily lives. Visit one another. Be ready to both give and receive help. Bear the burdens of one another\'s failings; delight in one another\'s strengths. Seek to know one another in the things that are eternal. Make the meeting a channel for God\'s love and forgiveness.<br /><em>Intermountain Yearly Meeting, Mutual Care, Advices, 1</em>',
+
+'Cherished friendships grow in depth of understanding and mutual respect. In close relationships there is a risk of finding pain as well as joy. Open yourself to the workings of the Light within when experiencing or witnessing great happiness or great hurt.<br /><em>Intermountain Yearly Meeting, Mutual Care, Advices, 2</em>',
+
+'Each of us has a particular experience of God, and each must find the way to be true to it. When another\'s words are strange or disturbing to you, seek to understand where they come from. Listen patiently and seek the truth that other people\'s thoughts may contain for you. Avoid hurtful criticism and provocative language. Be careful not to be too firm in your position; allow for the possibility that you may be mistaken.<br /><em>Intermountain Yearly Meeting, Mutual Care, Advices, 3</em>',
+
+'Do we trust sufficiently the goodwill of our meeting members and attenders to make our needs and concerns known? Do we love one another as becomes the followers of the Light, even to the point of sharing one another\'s burdens? Do we care for one another so deeply that each other\'s needs are recognized and addressed? As members of a spiritual community, do we actively work to maintain love and unity?<br /><em>Intermountain Yearly Meeting, Mutual Care, Queries, 1</em>',
+
+'Is our meeting a loving, spirit-centered community in which each person is accepted and nurtured and strangers are welcome? In what ways do we incorporate people of different generations, members and attenders, and married and single adults into our community? On what occasions do we visit one another in our homes? How do we keep in touch with distant members?<br /><em>Intermountain Yearly Meeting, Mutual Care, Queries, 2</em>',
+
+'To what extent does our meeting ignore differences merely to avoid possible conflicts? When conflicts exist, are they discussed calmly and patiently in an attempt to arrive at a creative resolution? Does our meeting, in appropriate ways, counsel any member whose conduct or manner of living gives cause for concern? Are we charitable with each other, being careful not to sully the reputations of others?<br /><em>Intermountain Yearly Meeting, Mutual Care, Queries, 3</em>',
+
+'Those unable to attend meeting by reason of distance, infirmity, imprisonment, or other stresses are to be remembered and held in the Light. Visits to these Friends are encouraged.<br /><em>Intermountain Yearly Meeting, Participation in the Life of the Meeting, Advices, 5</em>',
+
 'Are ministers and elders in unity one with another, and with the meetings to which they belong? manifesting a religious concern for the advancement of truth, and the support of our discipline?<br /><em>Rocky Mountain Yearly Meeting, Queries for Ministers and Elders, 3</em>',
 
 'Have we honored the counsel of our elders and pastors? When we were not in unity, did we find the mind of Christ through discussion and prayer rather than through politicking and voting?<br /><em>Evangelical Friends Church Southwest, Congregation Accountability Questions, 9</em>',
 
 'Have we encouraged and built each other up, speaking only what is helpful? Have we resolved conflict effectively by avoiding gossip and encouraging critics to talk with the right person in the right spirit?<br /><em>Evangelical Friends Church Southwest, Congregation Accountability Questions, 10</em>',
 
-'Have we encouraged people in the church to use their spiritual gifts and to work together in teams for the cause of Christ?<br /><em>Evangelical Friends Church Southwest, Congregation Accountability Questions, 11</em>',
- 
 'Have we honored our pastors and staff with love and appreciation, making their ministry a joy, not a drudgery?<br /><em>Evangelical Friends Church Southwest, Congregation Accountability Questions, 8</em>',
 
 'Do we cherish a forgiving spirit, and strive to "walk in love, as Christ also hath loved us"? Is each one of us careful for the reputation of others? Are we ever mindful to love our neighbor as ourselves? If differences threaten to disrupt the Christian harmony between the members, is prompt action taken?<br /><em>Great Plains Yearly Meeting, Advices and Queries, Peace</em>',
@@ -77,7 +93,7 @@ var strings = [
 
 'Care to be taken \"for the families and goods of such as are called forth in the ministry, or are imprisoned for the Truth\'s sake; that no creature be lost for want of caretakers.\"<br /><em>Advices from the Elders at Balby (1656), advice number 6</em>',
 
-'Needs of widows and fatherless to be supplied - such as can work and do not be admonished, and if they refuse to work, neither let them eat. The children of needy parents to be put to honest employment.<br /><em>Advices from the Elders at Balby (1656), advice number 12</em>',
+'Needs of widows and fatherless to be supplied such as can work and do not be admonished, and if they refuse to work, neither let them eat. The children of needy parents to be put to honest employment.<br /><em>Advices from the Elders at Balby (1656), advice number 12</em>',
 
 'None to speak evil of another, nor grudge against another, nor put a stumbling-block in his brother\'s way.<br /><em>Advices from the Elders at Balby (1656), advice number 16</em>',
 
@@ -105,7 +121,7 @@ var community = "<h2>Community</h2><p>" + randomString + "</p>";
   
   scroll(0,0)
 
-sharetext = randomString.replace("<br /><em>", " - ");
+sharetext = randomString.replace("<br /><em>", " ");
 sharetext = sharetext.replace("</em>", "");
 
 return sharetext;

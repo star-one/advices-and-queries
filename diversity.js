@@ -1,6 +1,16 @@
 // Diversity
 function updateDiversity() {
 var strings = [
+'Mindful that the light leads us in different ways, how do you demonstrate your respect for others\' modes of service?<br /><em>Intermountain Yearly Meeting, Service, Queries, 4</em>',
+
+'Do we believe that God speaks to us through others? Do we look for and recognize \"that of God\" in all others? Do we love our neighbor as ourselves? Do we value diversity and acknowledge the enrichment that comes from sharing differences? How do we encourage those we know to consider people as individuals rather than as stereotypes?<br /><em>Intermountain Yearly Meeting, Equality, Queries, 1</em>',
+
+'Our witness is most effective when we are in touch with the Spirit within. Each of us has a particular experience of God; each must find the ways to be true to it. There are times when we may need to remember that the truth is greater than the knowledge any one of us has of it. God did not put all the fruit on one tree.<br /><em>Intermountain Yearly Meeting, Integrity, Advices, 3</em>',
+
+'How well do we respect that of God in every person, even though the Spirit may be expressed in unfamiliar ways or be difficult to discern? In what ways do we welcome diversity of culture, language, and expressions of faith in our monthly meeting, yearly meeting, and the world community of Friends? Do we seek to gain from the range of rich heritages and spiritual insights that diversity presents?<br /><em>Intermountain Yearly Meeting, Mutual Care, Queries, 4</em>',
+
+'Different ways of understanding the Divine are present in Intermountain Yearly Meeting. It is important that these differences not be ignored for the sake of superficial agreement. When they are recognized and understood, a deeper and more vital unity can be reached. From the wide diversity among us we can broaden our awareness of the spirit flowing through and among us. We are reminded to refrain from applying our prejudices to the life journeys of others. Our community is maintained through faith and fellowship with each other as we wait in the Light for the unity that draws us together.<br /><em>Intermountain Yearly Meeting, Mutual Care, Advices, 4</em>',
+
 'We are challenged to enter into fellowship with people of all faiths and philosophies, locally, regionally and globally so that we may work or worship together and cooperate for peace, justice and care of the planet. Are you open to understanding and acceptance of Quakers of diverse traditions worldwide? Are you open to understanding and acceptance of Christians of all denominations and people with other faiths and philosophies?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, E11</em>',
 
 'We all need a sense of achievement and selfworth. Are you able to value every individual, including yourself, irrespective of occupation or financial status? Are you striving to change society\'s attitudes to work and remuneration?<br /><em>Aotearoa/New Zealand Yearly Meeting, Advices and Queries, E2</em>',

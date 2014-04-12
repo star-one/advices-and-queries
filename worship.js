@@ -1,6 +1,40 @@
 // Worship
 function updateWorship() {
 var strings = [
+'One powerful way revelation occurs is in silent waiting, which can be described as the amazing fact of Quaker worship. (Elizabeth Bailey, circa 1999)<br /><em>Intermountain Yearly Meeting, Worship</em>',
+
+'The heart of the Religious Society of Friends is the meeting for worship. It calls us to offer ourselves, body, mind, and soul, to wait in active anticipation for the revelation of the Spirit.<br /><em>Intermountain Yearly Meeting, Worship, Advices, 1</em>',
+
+'It is in silence that we still our hearts and minds so that the Spirit of God may enter. This silencing, this waiting in expectancy, this listening for that which is deepest within—this is what Friends call worship. We seek a gathered stillness in our meetings for worship so that all may feel the power of God\'s love leading us and drawing us together.<br /><em>Intermountain Yearly Meeting, Worship, Advices, 2</em>',
+
+'Worship is our response to an awareness of God. We can worship alone, but when we join with others in expectant waiting, we discover a deeper sense of the Presence. When we worship together in awareness that each of us is expecting communication with the Spirit, the power of a meeting for worship is magnified.<br /><em>Intermountain Yearly Meeting, Worship, Advices, 3</em>',
+
+'When the meeting for worship has a central place in our lives, regular and punctual attendance occurs. When we arrive at meeting for worship on time, we help ourselves and others in the gathering wait upon the Spirit. Seeking the Spirit together, we may become aware of a willingness to give as well as to receive. Whether by speaking or by listening, each person contributes to and shares responsibility for the meeting\'s sense of worship. We thereby strengthen one another and refresh ourselves in the life of the Spirit.<br /><em>Intermountain Yearly Meeting, Worship, Advices, 4</em>',
+
+'It is in the rhythm of waiting and listening throughout the meeting for worship that we are enabled to sense the Inward Light and to discern its leadings. When we become preoccupied or distracted in meeting, we need to let such restless thoughts give way to our awareness of the Light among us. By so doing, we prepare ourselves to tenderly receive vocal ministry. As we reach for the meaning deep within a message, we need to recognize that even though it may not be God\'s word for us, it may be so for others.<br /><em>Intermountain Yearly Meeting, Worship, Advices, 5</em>',
+
+'Do not assume that vocal ministry is never to be your gift. Faithfulness and sincerity in speaking, even briefly, may open the way to fuller ministry from others. When prompted to speak, wait patiently to know that the leading and the time are right, but do not let a sense of your own unworthiness hold you back. Pray that your ministry may arise from the Spirit, and trust that words will be given to you. Speak clearly and simply, speaking neither predictably, at too great a length, nor too often. When children are present, bear in mind their understanding and experience. After a message has been given, Friends allow time to ponder and absorb its meaning before another speaks. It is important to maintain sensitivity to what is sacred.<br /><em>Intermountain Yearly Meeting, Worship, Advices, 6</em>',
+
+'We deepen our contribution to communal worship when we open ourselves to the Light in our daily lives. Our spirits are enriched when nourished by means of various spiritual practices, and we inevitably bring those benefits with us to the corporate meeting for worship.<br /><em>Intermountain Yearly Meeting, Worship, Advices, 7</em>',
+
+'From the very beginning, a fundamental practice of Friends has been to assemble publicly for the purpose of worship held in expectant waiting for divine guidance. By worshiping together, we continue to demonstrate our belief in and dependence upon the Holy Spirit. It is important, therefore, that we attend meetings for worship seeking that Spirit that enables us to be fully aware of the divine power of God within as we find our way through the disillusionments and disturbances of the world. It may be helpful to remember that the Religious Society of Friends originated during times of great disturbances. Our belief is in the power of God to lead us out of the confusions of outward violence, inner conflicts, and all forms of willfulness.<br /><em>Intermountain Yearly Meeting, Worship, Advices, 8</em>',
+
+'How do I prepare myself for worship? Do I set aside time during the week to strengthen my spirit? What is it that I bring to the meeting for worship?<br /><em>Intermountain Yearly Meeting, Worship, Queries, 1</em>',
+
+'When in meeting for worship, do I clear my mind so that the Spirit has a place to enter? Do I wait in great expectancy for the Spirit to speak—through me or through another? Do I put my trust in the still small voice that I may hear?<br /><em>Intermountain Yearly Meeting, Worship, Queries, 2</em>',
+
+'How do I discern the source of a leading? How do I know when to speak? Do I hold myself back when moved to speak, or do I trust in the Light to lead me? Am I careful not to speak at undue length or beyond my light? Am I aware of a sense of \"rightness\" after I speak?<br /><em>Intermountain Yearly Meeting, Worship, Queries, 3</em>',
+
+'Does attendance at meeting for worship strengthen my spirit for the week ahead? What brings me back to center—back to my inner wisdom, home to myself — and how can I make that a regular practice?<br /><em>Intermountain Yearly Meeting, Worship, Queries, 4</em>',
+
+'Are meetings for worship regularly held, and is each one of us faithful and punctual in attendance? How do we encourage attendance at meeting for worship? How do we greet newcomers so as to encourage their continued attendance?<br /><em>Intermountain Yearly Meeting, Worship, Queries, 5</em>',
+
+'Do our meetings for worship give evidence that Friends come with hearts and minds prepared and open to the experience of God? How does the meeting help individuals and the group become gathered?<br /><em>Intermountain Yearly Meeting, Worship, Queries, 6</em>',
+
+'Are we careful to ensure that we leave time between spoken messages so that they may be absorbed by those for whom they are intended? How do we encourage and foster the spiritual gifts of those who attend our meeting?<br /><em>Intermountain Yearly Meeting, Worship, Queries, 7</em>',
+
+'Are our meetings for worship held in expectant waiting for divine guidance and openness to the Inner Light? Is there a living silence in which we feel drawn together by the power of God in our midst? In what ways do our meetings for worship provide a source of strength and guidance to those present?<br /><em>Intermountain Yearly Meeting, Worship, Queries, 8</em>',
+
 'Are ministers, in the exercise of their gifts, careful to wait for divine ability? and are they sound in word and doctrine?<br /><em>Rocky Mountain Yearly Meeting, Queries for Ministers and Elders, 2</em>',
 
 'Are ministers and elders diligent in the attendance of meetings for worship and discipline; and concerned to encourage their families to that religious duty?<br /><em>Rocky Mountain Yearly Meeting, Queries for Ministers and Elders, 1</em>',
@@ -109,7 +143,7 @@ txt.innerHTML=worship;
   
 scroll(0,0)
 
-sharetext = randomString.replace("<br /><em>", " - ");
+sharetext = randomString.replace("<br /><em>", " ");
 sharetext = sharetext.replace("</em>", "");
 
 return sharetext;
